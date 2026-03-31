@@ -1,0 +1,8112 @@
+[
+  {
+    "id": "osm_1015797103",
+    "name": "聖娜多堡咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0356466,
+    "lng": 121.5004976,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2139964583",
+    "name": "大鐤肉羹",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0369263,
+    "lng": 121.4983312,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2140024140",
+    "name": "阿猜嫲甜湯鹹圓",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: regional",
+    "address": "台北市萬華區",
+    "lat": 25.039709,
+    "lng": 121.4985841,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2310535504",
+    "name": "鴨肉扁",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市萬華區",
+    "lat": 25.0442597,
+    "lng": 121.5084405,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2310547827",
+    "name": "老天祿滷味",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: chinese",
+    "address": "台北市萬華區武昌街二段55",
+    "lat": 25.0447085,
+    "lng": 121.5072133,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2310547834",
+    "name": "The Pasta Bar",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區武昌街二段59",
+    "lat": 25.044745,
+    "lng": 121.5070768,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2310552097",
+    "name": "樂麵屋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: japanese",
+    "address": "台北市萬華區",
+    "lat": 25.0448074,
+    "lng": 121.5054177,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2406854839",
+    "name": "星巴克",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區",
+    "lat": 25.0441022,
+    "lng": 121.5074794,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2406854922",
+    "name": "薩莉亞",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: italian",
+    "address": "台北市萬華區峨眉街37",
+    "lat": 25.0435512,
+    "lng": 121.5071157,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2410134951",
+    "name": "京沺屋",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區中華路一段88-2",
+    "lat": 25.0448089,
+    "lng": 121.508645,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2410134963",
+    "name": "西門町楊排骨酥麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0454441,
+    "lng": 121.5080839,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2410134964",
+    "name": "山珍海味自助餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0453465,
+    "lng": 121.5085358,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2420114509",
+    "name": "Modern Toilet Restaurant",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西寧南路50巷7",
+    "lat": 25.0444508,
+    "lng": 121.5057563,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2440534527",
+    "name": "85度C",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區廣州街150",
+    "lat": 25.0365436,
+    "lng": 121.5005391,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2440534689",
+    "name": "鯕魚米粉湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0363246,
+    "lng": 121.5005708,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2440534737",
+    "name": "雨香蝦仁肉圓",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0360612,
+    "lng": 121.5005934,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2440534751",
+    "name": "龍口蚵仔綿麵線",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0360515,
+    "lng": 121.5007222,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2440534984",
+    "name": "8292",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0429352,
+    "lng": 121.5043476,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2572568038",
+    "name": "三商巧福",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市萬華區峨眉街19",
+    "lat": 25.043471,
+    "lng": 121.5074325,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2572568042",
+    "name": "阿宗麵線",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區峨眉街8之1",
+    "lat": 25.0433177,
+    "lng": 121.5076858,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2572568043",
+    "name": "一條龍餃子店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: dumpling",
+    "address": "台北市萬華區峨眉街10",
+    "lat": 25.0433329,
+    "lng": 121.5075957,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2579109183",
+    "name": "鼎王麻辣鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市萬華區中華路一段152",
+    "lat": 25.0426672,
+    "lng": 121.5079857,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2631023139",
+    "name": "多倫多復合式餐坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區武昌街二段120巷11",
+    "lat": 25.0446839,
+    "lng": 121.5038303,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2699632204",
+    "name": "富宏牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市萬華區",
+    "lat": 25.04759,
+    "lng": 121.5077079,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2713545226",
+    "name": "星巴克",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區西藏路123",
+    "lat": 25.0294874,
+    "lng": 121.5024943,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2804200287",
+    "name": "我家廚坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區萬大路423巷91",
+    "lat": 25.0219707,
+    "lng": 121.5014114,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2804200291",
+    "name": "大城餃子館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: dumpling",
+    "address": "台北市萬華區",
+    "lat": 25.022059,
+    "lng": 121.5020026,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2804565939",
+    "name": "全真素食",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區漢口街二段34巷11",
+    "lat": 25.0452128,
+    "lng": 121.5072127,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2810326373",
+    "name": "品湘園",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區中華路一段196-1",
+    "lat": 25.0385155,
+    "lng": 121.5068045,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2850323684",
+    "name": "豪季水餃專賣店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區武昌街二段",
+    "lat": 25.0456396,
+    "lng": 121.5051685,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2850324308",
+    "name": "台南意麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0441677,
+    "lng": 121.5037472,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2858503888",
+    "name": "朱記溫州混沌",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0454565,
+    "lng": 121.5059964,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2858510201",
+    "name": "大家好港式燒腊便當",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0454866,
+    "lng": 121.5058177,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2918743089",
+    "name": "星巴克",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區成都路87",
+    "lat": 25.0431614,
+    "lng": 121.5047486,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2918792176",
+    "name": "燒肉教室",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 吃到飽",
+    "address": "台北市萬華區成都路66",
+    "lat": 25.0427927,
+    "lng": 121.505281,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2918859893",
+    "name": "花月嵐拉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: ramen",
+    "address": "台北市萬華區桂林路1",
+    "lat": 25.0380022,
+    "lng": 121.5059974,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2918859895",
+    "name": "馨香堂",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_biscuit",
+    "address": "台北市萬華區漢中街205",
+    "lat": 25.0408105,
+    "lng": 121.5065068,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2918997923",
+    "name": "牛店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區昆明街91",
+    "lat": 25.0425721,
+    "lng": 121.5048228,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2918997924",
+    "name": "田舍手打麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區昆明街99",
+    "lat": 25.0423292,
+    "lng": 121.5047759,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2923648822",
+    "name": "福州乾拌麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 飯麵等等",
+    "address": "台北市萬華區",
+    "lat": 25.039831,
+    "lng": 121.5055219,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2926240045",
+    "name": "星巴克",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區",
+    "lat": 25.045208,
+    "lng": 121.5055625,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2959895961",
+    "name": "金元寶牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市萬華區",
+    "lat": 25.0447172,
+    "lng": 121.5059459,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2959895962",
+    "name": "金園排骨武昌店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0446099,
+    "lng": 121.5058068,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2959896111",
+    "name": "大眾自助餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0445528,
+    "lng": 121.5057835,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_2959896115",
+    "name": "東吉水產超市火鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市萬華區西寧南路163",
+    "lat": 25.043301,
+    "lng": 121.5062167,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3007181095",
+    "name": "美觀園",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: japanese",
+    "address": "台北市萬華區峨眉街36",
+    "lat": 25.0434442,
+    "lng": 121.5065422,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3007181096",
+    "name": "美觀園",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: fish;japanese;sushi",
+    "address": "台北市萬華區峨眉街47",
+    "lat": 25.0436012,
+    "lng": 121.5068365,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3007181098",
+    "name": "洪師父牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市萬華區",
+    "lat": 25.0433416,
+    "lng": 121.5075115,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3007195589",
+    "name": "賽門鄧普拉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區開封街二段46",
+    "lat": 25.0463871,
+    "lng": 121.5074726,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3028688915",
+    "name": "正宗小魏川菜",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 川菜",
+    "address": "台北市萬華區民和街1",
+    "lat": 25.0262855,
+    "lng": 121.5002746,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3198261316",
+    "name": "沛翎義麵坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: italian_pasta",
+    "address": "台北市萬華區萬大路55",
+    "lat": 25.0314625,
+    "lng": 121.5006554,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3198273564",
+    "name": "霸味薑母鴨",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: regional",
+    "address": "台北市萬華區艋舺大道",
+    "lat": 25.0327172,
+    "lng": 121.5003871,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3373141093",
+    "name": "小牛將",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西寧南路117",
+    "lat": 25.0448787,
+    "lng": 121.5066154,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3380792783",
+    "name": "茉莉漢堡",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: burger",
+    "address": "台北市萬華區昆明街96巷22",
+    "lat": 25.0447865,
+    "lng": 121.5042599,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3390249072",
+    "name": "王老先生火鍋店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: Hotpot",
+    "address": "台北市萬華區漢口街二段90巷8弄9",
+    "lat": 25.0458986,
+    "lng": 121.5039157,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3544693893",
+    "name": "賽門甜不辣",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西寧南路95",
+    "lat": 25.0454032,
+    "lng": 121.5067993,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3571811415",
+    "name": "hot 7鐵板燒 Plus",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區桂林路1",
+    "lat": 25.0379199,
+    "lng": 121.5057196,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3571811416",
+    "name": "北村豆腐家",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: korean",
+    "address": "台北市萬華區桂林路1",
+    "lat": 25.0380366,
+    "lng": 121.5057328,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3571811417",
+    "name": "石二鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市萬華區桂林路1",
+    "lat": 25.0378757,
+    "lng": 121.5061556,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3596859028",
+    "name": "巴菲厚切牛排",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: steak_house",
+    "address": "台北市萬華區昆明街92之1",
+    "lat": 25.0449662,
+    "lng": 121.5052971,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3814919811",
+    "name": "六九盒餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西藏路520",
+    "lat": 25.0287035,
+    "lng": 121.4931646,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3823837085",
+    "name": "上禾便當",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區中華路二段62",
+    "lat": 25.0324956,
+    "lng": 121.5046431,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3823837088",
+    "name": "東北全麥子酸菜白肉鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區中華路二段80",
+    "lat": 25.031883,
+    "lng": 121.5043308,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3878436861",
+    "name": "陳記專業蚵仔麵線",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0351641,
+    "lng": 121.4982065,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3880771184",
+    "name": "鑫光雞肉飯專門店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: regional",
+    "address": "台北市萬華區西寧南路50巷1",
+    "lat": 25.0443344,
+    "lng": 121.5059838,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3888838522",
+    "name": "怡客咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0260216,
+    "lng": 121.5057531,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3903968595",
+    "name": "韭菜包",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: chinese",
+    "address": "台北市萬華區中華路一段",
+    "lat": 25.0380883,
+    "lng": 121.50667,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3923129137",
+    "name": "周記肉粥店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0364517,
+    "lng": 121.5022124,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3938929546",
+    "name": "黔園川菜小吃館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區峨眉街88之1",
+    "lat": 25.0440822,
+    "lng": 121.5038372,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_3975270692",
+    "name": "甘泉魚麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: chinese",
+    "address": "台北市萬華區西藏路125巷6",
+    "lat": 25.0293336,
+    "lng": 121.5025274,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4019000586",
+    "name": "祖師廟口沙茶牛肉大王",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: chinese",
+    "address": "台北市萬華區",
+    "lat": 25.0400943,
+    "lng": 121.5025042,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4043621272",
+    "name": "御香園餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0259128,
+    "lng": 121.5047243,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4043621273",
+    "name": "新來來川菜館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0255194,
+    "lng": 121.5041575,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4100096902",
+    "name": "深夜未歸",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區昆明街127",
+    "lat": 25.0413965,
+    "lng": 121.5046527,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4103137890",
+    "name": "小吳牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: noodle",
+    "address": "台北市萬華區洛陽街45-11",
+    "lat": 25.0476946,
+    "lng": 121.5083466,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4113575990",
+    "name": "Monga161",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: pasta;sandwich;coffee_shop",
+    "address": "台北市萬華區貴陽街二段161",
+    "lat": 25.0402599,
+    "lng": 121.500648,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4235796402",
+    "name": "爭鮮",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: sushi",
+    "address": "台北市萬華區",
+    "lat": 25.0440924,
+    "lng": 121.5072292,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4235796404",
+    "name": "豆腐鍋之家",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區漢中街111",
+    "lat": 25.0431484,
+    "lng": 121.5074628,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4316596030",
+    "name": "CoCo都可",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區武昌街二段4",
+    "lat": 25.0443148,
+    "lng": 121.5083422,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4336809767",
+    "name": "三角三韓國烤肉-西門店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: korean",
+    "address": "台北市萬華區武昌街二段91巷10",
+    "lat": 25.0458888,
+    "lng": 121.5036158,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4359406997",
+    "name": "鍋神日式涮涮鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: japanese",
+    "address": "台北市萬華區廣州街170",
+    "lat": 25.0366393,
+    "lng": 121.4989081,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4375605292",
+    "name": "馬辣頂級麻辣鴛鴦鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0457924,
+    "lng": 121.5066764,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4380057597",
+    "name": "老虎醬溫州大餛飩",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0418317,
+    "lng": 121.5074556,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4380057598",
+    "name": "迷客夏",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區漢中街126",
+    "lat": 25.0419144,
+    "lng": 121.5072442,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4452737789",
+    "name": "Guru House",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區成都路27巷10",
+    "lat": 25.0430919,
+    "lng": 121.5067859,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4524863750",
+    "name": "紅堪港式飲茶",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0432041,
+    "lng": 121.5080381,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4524863751",
+    "name": "熊一燒肉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: yakiniky",
+    "address": "台北市萬華區",
+    "lat": 25.0435756,
+    "lng": 121.5062976,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4524863752",
+    "name": "頂級鴛鴦麻辣火鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市萬華區",
+    "lat": 25.0433769,
+    "lng": 121.5062344,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4524863753",
+    "name": "爭纖健康涮涮鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: japanese",
+    "address": "台北市萬華區",
+    "lat": 25.0440877,
+    "lng": 121.5039105,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4524863756",
+    "name": "雅香自助火鍋城",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市萬華區",
+    "lat": 25.0437357,
+    "lng": 121.5028229,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4524863798",
+    "name": "金獅樓",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0454612,
+    "lng": 121.5063519,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4524864187",
+    "name": "釜山順豆腐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: korean",
+    "address": "台北市萬華區",
+    "lat": 25.0445578,
+    "lng": 121.5079594,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4524864188",
+    "name": "和定食",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0447231,
+    "lng": 121.5071778,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4536958589",
+    "name": "麥町土司工房早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0242639,
+    "lng": 121.4950777,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4546136990",
+    "name": "花嘴廚房",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: italian",
+    "address": "台北市萬華區昆明街214之1",
+    "lat": 25.0407118,
+    "lng": 121.5042796,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4552341410",
+    "name": "阿忠碳烤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區昆明街194",
+    "lat": 25.0412138,
+    "lng": 121.5044104,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4557470289",
+    "name": "金峰魯肉飯 西門總店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區昆明街89",
+    "lat": 25.0426059,
+    "lng": 121.5048319,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4569794311",
+    "name": "韓菜100",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: korean",
+    "address": "台北市萬華區西寧南路191",
+    "lat": 25.0413998,
+    "lng": 121.5060774,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4569821225",
+    "name": "201 Cafe",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區漢中街201",
+    "lat": 25.0408698,
+    "lng": 121.5065528,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4569821975",
+    "name": "蜂大咖啡聽",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: sandwich;coffee_shop",
+    "address": "台北市萬華區成都路42",
+    "lat": 25.0425572,
+    "lng": 121.5063436,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4569822960",
+    "name": "西門麵店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區內江街35",
+    "lat": 25.0419587,
+    "lng": 121.5058036,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4580545093",
+    "name": "三味食堂",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: japanese",
+    "address": "台北市萬華區貴陽街二段116",
+    "lat": 25.0398848,
+    "lng": 121.5027158,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4601936395",
+    "name": "真川味",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區康定路25巷",
+    "lat": 25.0436727,
+    "lng": 121.5046136,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4625476090",
+    "name": "Meatup",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0454431,
+    "lng": 121.5035126,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4639193090",
+    "name": "Risotto",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0446388,
+    "lng": 121.506981,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4668232185",
+    "name": "海鮮王餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 傳統台菜，海鮮，大排檔，酒館",
+    "address": "台北市萬華區西寧南路22-1",
+    "lat": 25.0461717,
+    "lng": 121.506748,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4754476219",
+    "name": "金軒排骨",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區峨眉街6巷2-1",
+    "lat": 25.0430898,
+    "lng": 121.5077259,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4794449530",
+    "name": "火車壽司大車輪",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: japanese",
+    "address": "台北市萬華區",
+    "lat": 25.043646,
+    "lng": 121.5066221,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4809559721",
+    "name": "天天利美食坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市萬華區漢中街32巷1",
+    "lat": 25.0449431,
+    "lng": 121.50759,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4838086718",
+    "name": "Woolloomooloo",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區武昌街二段120巷2",
+    "lat": 25.0450786,
+    "lng": 121.5039275,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4838087630",
+    "name": "網路巨人",
+    "category": "food",
+    "description": "位於萬華區的internet_cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0452869,
+    "lng": 121.5037593,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4838087633",
+    "name": "三吉外賣",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0454282,
+    "lng": 121.5046564,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4838087634",
+    "name": "金滿園排骨",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.044601,
+    "lng": 121.5059399,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4838087653",
+    "name": "牛洞",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0219342,
+    "lng": 121.501373,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4838087737",
+    "name": "半島咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0432798,
+    "lng": 121.5079621,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4838087739",
+    "name": "樂法",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區",
+    "lat": 25.0427376,
+    "lng": 121.5073313,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4838087767",
+    "name": "旺都涮涮鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: japanese",
+    "address": "台北市萬華區",
+    "lat": 25.032133,
+    "lng": 121.5006255,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4838087770",
+    "name": "大味王",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區萬大路190",
+    "lat": 25.0276205,
+    "lng": 121.5003189,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4859203322",
+    "name": "精緻早餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區長沙街二段89",
+    "lat": 25.0406068,
+    "lng": 121.5047831,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4891058559",
+    "name": "四方阿九魯肉飯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區廣州街225",
+    "lat": 25.0367874,
+    "lng": 121.4988316,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4927807321",
+    "name": "TGI Fridays",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: american",
+    "address": "台北市萬華區",
+    "lat": 25.0447281,
+    "lng": 121.5063156,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_4986160928",
+    "name": "永和豆漿大王",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0454408,
+    "lng": 121.5073923,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5052598785",
+    "name": "新馬辣經典麻辣鍋 西門昆明店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區昆明街37",
+    "lat": 25.0445198,
+    "lng": 121.5054129,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5085736345",
+    "name": "富莉米苔目",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: regional;taiwanese",
+    "address": "台北市萬華區康定路25巷21",
+    "lat": 25.0438906,
+    "lng": 121.503516,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5088772960",
+    "name": "熱海活海鮮",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: seafood",
+    "address": "台北市萬華區",
+    "lat": 25.0351528,
+    "lng": 121.4983205,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5088772962",
+    "name": "清水排骨麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0366585,
+    "lng": 121.4986875,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5088772966",
+    "name": "兩喜號",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西園路一段194",
+    "lat": 25.0361132,
+    "lng": 121.499189,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5095512229",
+    "name": "大川永和豆漿大王",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西園路一段118",
+    "lat": 25.0382427,
+    "lng": 121.4995623,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5095512252",
+    "name": "台南意麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0364296,
+    "lng": 121.5024236,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5095512256",
+    "name": "中華餡餅粥",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區昆明街211",
+    "lat": 25.0389245,
+    "lng": 121.5041486,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5101373129",
+    "name": "鍋爸涮涮鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: japanese",
+    "address": "台北市萬華區",
+    "lat": 25.0429422,
+    "lng": 121.5056791,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5101412125",
+    "name": "囍愛義廚館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: pasta",
+    "address": "台北市萬華區內江街39",
+    "lat": 25.0416979,
+    "lng": 121.5056309,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110489785",
+    "name": "老賴茶棧",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區漢口街二段54之36",
+    "lat": 25.0457513,
+    "lng": 121.5056984,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110489798",
+    "name": "狗一下居酒食堂",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0458671,
+    "lng": 121.5065364,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110489803",
+    "name": "瓦崎燒烤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區成都路17",
+    "lat": 25.0426317,
+    "lng": 121.5071216,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110489805",
+    "name": "鳳城燒臘",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西寧南路193",
+    "lat": 25.0413554,
+    "lng": 121.5060802,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110489806",
+    "name": "大程餃子麵館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: dumpling",
+    "address": "台北市萬華區西寧南路199",
+    "lat": 25.0411895,
+    "lng": 121.5061095,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110489807",
+    "name": "漢江韓菜",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西寧南路197",
+    "lat": 25.04126,
+    "lng": 121.506102,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110489820",
+    "name": "Last Order 餐酒館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0463104,
+    "lng": 121.505118,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110490224",
+    "name": "台南小吃坦",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0469139,
+    "lng": 121.5058658,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110490229",
+    "name": "基隆寶嘟嘟關東煮美食",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區昆明街30",
+    "lat": 25.0471687,
+    "lng": 121.5059447,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110490236",
+    "name": "麥町吐司工房",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區開封街二段44",
+    "lat": 25.0463516,
+    "lng": 121.5075524,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110490240",
+    "name": "西門魚河岸居酒屋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區開封街二段56",
+    "lat": 25.0464278,
+    "lng": 121.5072785,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110490243",
+    "name": "溫州大餛飩之家",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西寧南路63之4",
+    "lat": 25.0464316,
+    "lng": 121.5071155,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110490245",
+    "name": "程味珍意麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西寧南路65",
+    "lat": 25.0462505,
+    "lng": 121.5070605,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110490252",
+    "name": "巧雅麵食館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: noodle",
+    "address": "台北市萬華區",
+    "lat": 25.045891,
+    "lng": 121.5069304,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5110491021",
+    "name": "上海老天祿",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0427297,
+    "lng": 121.5056136,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5129807585",
+    "name": "星巴克",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區西園路一段306巷24;26",
+    "lat": 25.0334836,
+    "lng": 121.4983976,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5136762157",
+    "name": "路易莎咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區",
+    "lat": 25.0289209,
+    "lng": 121.5023115,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5208153034",
+    "name": "王記府城肉粽",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西寧南路84",
+    "lat": 25.042334,
+    "lng": 121.5058506,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5208155826",
+    "name": "南美咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區成都路44",
+    "lat": 25.04257,
+    "lng": 121.5062993,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5237489117",
+    "name": "聖賢素食",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: taiwanese;buffet",
+    "address": "台北市萬華區東園街",
+    "lat": 25.0272679,
+    "lng": 121.4959093,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5279103422",
+    "name": "Toast",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0405651,
+    "lng": 121.5029838,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5329730522",
+    "name": "Machi machi",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區",
+    "lat": 25.0415869,
+    "lng": 121.5077276,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5467994602",
+    "name": "老山東牛肉家常麵店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: chinese;noodles",
+    "address": "台北市萬華區西寧南路70",
+    "lat": 25.0434526,
+    "lng": 121.5057481,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5468546031",
+    "name": "建宏牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: noodles;chinese",
+    "address": "台北市萬華區西寧南路7",
+    "lat": 25.0482764,
+    "lng": 121.5076277,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5535979234",
+    "name": "Dream Color",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0441132,
+    "lng": 121.5067711,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5556152821",
+    "name": "凱達大飯店 百宴自助餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0333208,
+    "lng": 121.4996702,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5556152822",
+    "name": "萬華火車站金好吃純正花枝羹",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0336306,
+    "lng": 121.4999599,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5556152824",
+    "name": "萬華千層燒餅",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0322778,
+    "lng": 121.4996772,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5556152825",
+    "name": "愛吃不吃早餐屋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0322334,
+    "lng": 121.500401,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5562880394",
+    "name": "爺爺奶奶好滋味",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0418176,
+    "lng": 121.5019688,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5562880395",
+    "name": "惠安四神湯店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0415738,
+    "lng": 121.5026528,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5562880396",
+    "name": "阿丁自助餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0416547,
+    "lng": 121.5017855,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5562886136",
+    "name": "阿滿小吃店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0423392,
+    "lng": 121.502236,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5562886138",
+    "name": "輝倛早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0427999,
+    "lng": 121.5023418,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5562886139",
+    "name": "曾德自助火鍋城",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市萬華區",
+    "lat": 25.0435727,
+    "lng": 121.502991,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5672072721",
+    "name": "丸花豆倉",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區永福街79",
+    "lat": 25.0388992,
+    "lng": 121.5026982,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5753260221",
+    "name": "台灣洪師父牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市萬華區",
+    "lat": 25.0429412,
+    "lng": 121.504876,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5759049533",
+    "name": "台灣航海王專賣店 西門店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區武昌街二段118-2",
+    "lat": 25.0452109,
+    "lng": 121.5045106,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5818152363",
+    "name": "萬華林建發仙草冰燒仙草",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 飲品",
+    "address": "台北市萬華區艋舺大道138",
+    "lat": 25.0329964,
+    "lng": 121.5017328,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366009",
+    "name": "鮮茶道",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區成都路35-1",
+    "lat": 25.0426994,
+    "lng": 121.506646,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366012",
+    "name": "牛公館牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市萬華區西寧南路78",
+    "lat": 25.0425251,
+    "lng": 121.5058105,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366013",
+    "name": "清香沙茶火鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市萬華區西寧南路82巷5",
+    "lat": 25.0424181,
+    "lng": 121.5056522,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366015",
+    "name": "正宗溫州大餛飩",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西寧南路86",
+    "lat": 25.0422917,
+    "lng": 121.5058615,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366019",
+    "name": "小樂沙茶火鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市萬華區",
+    "lat": 25.0421618,
+    "lng": 121.5057984,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366020",
+    "name": "85度C",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區",
+    "lat": 25.041649,
+    "lng": 121.5072119,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366021",
+    "name": "50嵐",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區漢中街136",
+    "lat": 25.041725,
+    "lng": 121.5070771,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366033",
+    "name": "CoCo都可",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區成都路41",
+    "lat": 25.042717,
+    "lng": 121.5065662,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366035",
+    "name": "Kani Kani",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區成都路50",
+    "lat": 25.0426074,
+    "lng": 121.50614,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366037",
+    "name": "焦糖楓",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: barbecue",
+    "address": "台北市萬華區成都路46",
+    "lat": 25.042581,
+    "lng": 121.5062577,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366048",
+    "name": "清新福全",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區成都路30",
+    "lat": 25.0424862,
+    "lng": 121.506599,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366051",
+    "name": "樂砌",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西寧南路106",
+    "lat": 25.0418471,
+    "lng": 121.505899,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366062",
+    "name": "永富福州魚丸",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區內江街43",
+    "lat": 25.0416788,
+    "lng": 121.5054899,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366063",
+    "name": "吉祥素食",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.041581,
+    "lng": 121.505726,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5875366065",
+    "name": "永興自助餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區內江街28",
+    "lat": 25.0415822,
+    "lng": 121.5058091,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_5977726186",
+    "name": "上頂皇家素食水煎包水餃",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0361431,
+    "lng": 121.5009088,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6060092206",
+    "name": "路易莎咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區",
+    "lat": 25.0354099,
+    "lng": 121.498974,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6153516258",
+    "name": "小馬轉轉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區康定路151",
+    "lat": 25.0384855,
+    "lng": 121.5019266,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6161706845",
+    "name": "華麗西餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: brunch",
+    "address": "台北市萬華區",
+    "lat": 25.0414889,
+    "lng": 121.5024485,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6161708362",
+    "name": "清心福全",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區",
+    "lat": 25.0432341,
+    "lng": 121.5047749,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6163029970",
+    "name": "瑞麟早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast;hamburger",
+    "address": "台北市萬華區",
+    "lat": 25.0354133,
+    "lng": 121.5013871,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6163029971",
+    "name": "50嵐",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區",
+    "lat": 25.0362324,
+    "lng": 121.5015212,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6163029973",
+    "name": "派克脆皮雞排",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 雞排",
+    "address": "台北市萬華區",
+    "lat": 25.0357724,
+    "lng": 121.5012049,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6254005985",
+    "name": "阿財虱目魚",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: asian;chinese;fish;local;seafood",
+    "address": "台北市萬華區內江街53",
+    "lat": 25.041675,
+    "lng": 121.5052674,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6254005986",
+    "name": "金花炭烤吐司",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: breakfast",
+    "address": "台北市萬華區內江街21",
+    "lat": 25.0416714,
+    "lng": 121.5064867,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6276404586",
+    "name": "阿義魯肉飯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: regional",
+    "address": "台北市萬華區華西街151",
+    "lat": 25.0392654,
+    "lng": 121.4985578,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6402119403",
+    "name": "濟善老舖",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: ramen",
+    "address": "台北市萬華區艋舺大道120巷11弄1",
+    "lat": 25.0328934,
+    "lng": 121.5023404,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6463306585",
+    "name": "Yonghe Chinese type breakfast shop",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0453616,
+    "lng": 121.5076087,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6499848177",
+    "name": "旺角石頭火鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市萬華區中華路一段74",
+    "lat": 25.0457605,
+    "lng": 121.5088899,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6529784687",
+    "name": "鑫鑫鋐素食坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0415247,
+    "lng": 121.5052308,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6568146971",
+    "name": "Tsubi COffee",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區大理街20巷12",
+    "lat": 25.03396,
+    "lng": 121.5023679,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6569447325",
+    "name": "阿川滷味",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0428726,
+    "lng": 121.5048677,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6569447326",
+    "name": "國賓鹹粥",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區成都路91",
+    "lat": 25.0431854,
+    "lng": 121.5046524,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6569447327",
+    "name": "廖嬌米粉湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區成都路93",
+    "lat": 25.0431903,
+    "lng": 121.5046223,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6569447328",
+    "name": "湖南飲食棧",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區成都路95",
+    "lat": 25.0432006,
+    "lng": 121.5045914,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6569447329",
+    "name": "上林咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0435287,
+    "lng": 121.5043849,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6624620221",
+    "name": "貴隆餐館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0399176,
+    "lng": 121.5025006,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6624620222",
+    "name": "祖師廟排骨大王",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區貴陽街二段120",
+    "lat": 25.0399115,
+    "lng": 121.5025663,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6624620224",
+    "name": "犢立牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市萬華區貴陽街二段31",
+    "lat": 25.0397365,
+    "lng": 121.5052244,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6720843996",
+    "name": "路易莎咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區寶興街71",
+    "lat": 25.0264472,
+    "lng": 121.4942557,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6749527349",
+    "name": "森耕咖啡商行",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0388602,
+    "lng": 121.5029295,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6844753095",
+    "name": "快樂美式餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0453038,
+    "lng": 121.5047429,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6884086959",
+    "name": "甘心咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區廣州街83-1",
+    "lat": 25.0366094,
+    "lng": 121.5039883,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6884086960",
+    "name": "九日咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0379462,
+    "lng": 121.5066289,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6917501387",
+    "name": "建宏牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市萬華區",
+    "lat": 25.0474502,
+    "lng": 121.5082378,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6933743285",
+    "name": "365台灣小吃",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0447956,
+    "lng": 121.5075463,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6939523031",
+    "name": "新疆吐魯番羊肉餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區內江街56",
+    "lat": 25.041502,
+    "lng": 121.5051037,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6939523042",
+    "name": "巷子口麵店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區內江街55巷18",
+    "lat": 25.0423732,
+    "lng": 121.5051949,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6939523046",
+    "name": "台灣甘蔗頭養生健康鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區成都路66",
+    "lat": 25.042827,
+    "lng": 121.5052975,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6981277704",
+    "name": "早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.047379,
+    "lng": 121.5054336,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6989587787",
+    "name": "豐原排骨麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區廣州街180",
+    "lat": 25.0366574,
+    "lng": 121.4987713,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_6989610385",
+    "name": "祥發港式茶餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0450314,
+    "lng": 121.5077255,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7004097328",
+    "name": "牛肉麵水餃大王",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市萬華區",
+    "lat": 25.0475139,
+    "lng": 121.5079562,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7004097329",
+    "name": "隴成川味牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市萬華區",
+    "lat": 25.0477302,
+    "lng": 121.5083559,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7004097330",
+    "name": "老劉刀切牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市萬華區",
+    "lat": 25.0475601,
+    "lng": 121.5082861,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7004130375",
+    "name": "肉次方燒肉放題",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區峨眉街37",
+    "lat": 25.0435872,
+    "lng": 121.5071392,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7017482888",
+    "name": "蔣老爹麵食",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: noodle",
+    "address": "台北市萬華區",
+    "lat": 25.0402639,
+    "lng": 121.5044117,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7017482889",
+    "name": "東京堡",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0403514,
+    "lng": 121.5044291,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7047358868",
+    "name": "星巴克",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區桂林路1",
+    "lat": 25.037781,
+    "lng": 121.5058302,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7093253846",
+    "name": "沐月精緻小火鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市萬華區中華路一段76巷11",
+    "lat": 25.0457971,
+    "lng": 121.5084806,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175334733",
+    "name": "正大溪人阿雲",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0202428,
+    "lng": 121.4964056,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175334738",
+    "name": "阿信大餛飩",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0257503,
+    "lng": 121.5071754,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175334739",
+    "name": "F.f Teppanyaki",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0200991,
+    "lng": 121.4967903,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175334743",
+    "name": "皇室吉利堡早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0260381,
+    "lng": 121.5058386,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175334760",
+    "name": "許記肉羹",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0199093,
+    "lng": 121.4954216,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175334761",
+    "name": "海產街蚵仔麵線",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0198322,
+    "lng": 121.4984034,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175334767",
+    "name": "艋舺排骨酥麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0187718,
+    "lng": 121.4991104,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175334778",
+    "name": "甜不辣",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0201029,
+    "lng": 121.4975998,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344491",
+    "name": "格林早餐吧",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0226668,
+    "lng": 121.4978732,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344497",
+    "name": "東興麵食館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: noodle",
+    "address": "台北市萬華區",
+    "lat": 25.0203324,
+    "lng": 121.4957218,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344502",
+    "name": "萬大汕頭麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0204986,
+    "lng": 121.4960455,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344507",
+    "name": "鄉村小吃客家板條",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0246874,
+    "lng": 121.5085938,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344509",
+    "name": "富林漢堡",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0200238,
+    "lng": 121.4968628,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344514",
+    "name": "饕飽精製鍋物",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0259207,
+    "lng": 121.5053607,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344515",
+    "name": "友谷涮涮鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: japanese",
+    "address": "台北市萬華區",
+    "lat": 25.0203125,
+    "lng": 121.497669,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344532",
+    "name": "平價汕頭麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0196726,
+    "lng": 121.4946008,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344533",
+    "name": "如意私房菜館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0212262,
+    "lng": 121.4992622,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344540",
+    "name": "金淇燒臘",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0183247,
+    "lng": 121.5002617,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344546",
+    "name": "阿明綜合羹麵線",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0190054,
+    "lng": 121.5012893,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344553",
+    "name": "張記油豆腐細粉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0203265,
+    "lng": 121.4980846,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344558",
+    "name": "漢林大漢堡",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.020071,
+    "lng": 121.4980985,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344566",
+    "name": "養生蔬果吧",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0222494,
+    "lng": 121.4976378,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344573",
+    "name": "萬華佳佳香鍋貼",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0217948,
+    "lng": 121.4985614,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344579",
+    "name": "咕G咕鹹酥雞",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.020366,
+    "lng": 121.4961206,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344585",
+    "name": "大鐤肉羹",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0256348,
+    "lng": 121.5072723,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344586",
+    "name": "素食自助餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0202693,
+    "lng": 121.496401,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344590",
+    "name": "金銘雞腿魯肉飯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0260726,
+    "lng": 121.5066803,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344608",
+    "name": "奧黛越南料理",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0213822,
+    "lng": 121.4995228,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344616",
+    "name": "巧沛東方美",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0193008,
+    "lng": 121.499285,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344623",
+    "name": "什錦麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0196084,
+    "lng": 121.5013797,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344634",
+    "name": "無名古早味米粉湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0198838,
+    "lng": 121.4980658,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344639",
+    "name": "四海春餃子館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: dumpling",
+    "address": "台北市萬華區",
+    "lat": 25.0225935,
+    "lng": 121.4979675,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344647",
+    "name": "真牛味",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0212576,
+    "lng": 121.4990589,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344653",
+    "name": "真正有味鹹酥雞",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0202649,
+    "lng": 121.4958449,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344659",
+    "name": "家家早午餐飲",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0201987,
+    "lng": 121.496315,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344665",
+    "name": "青園食堂",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0261578,
+    "lng": 121.5068092,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344666",
+    "name": "美而美",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0199396,
+    "lng": 121.4965425,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344670",
+    "name": "流金歲月紅茶餐坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0258791,
+    "lng": 121.5052677,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344677",
+    "name": "萬大路汕頭麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0190541,
+    "lng": 121.4961946,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344683",
+    "name": "海鮮快炒阿財",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: seafood",
+    "address": "台北市萬華區",
+    "lat": 25.0194916,
+    "lng": 121.4951721,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344691",
+    "name": "火雞肉飯便當店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0190894,
+    "lng": 121.4991098,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344697",
+    "name": "裕民素料店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0181626,
+    "lng": 121.5005474,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344709",
+    "name": "特製飯糰",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0201178,
+    "lng": 121.4979532,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344722",
+    "name": "巧妹自助燒烤便當",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0221408,
+    "lng": 121.4983136,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344728",
+    "name": "東興素食自助餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0203022,
+    "lng": 121.495866,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344733",
+    "name": "蔡家蚵仔麵線",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0203983,
+    "lng": 121.4962077,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344738",
+    "name": "阿華涼麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0256906,
+    "lng": 121.5072337,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344740",
+    "name": "二董牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市萬華區",
+    "lat": 25.0199408,
+    "lng": 121.4970695,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344745",
+    "name": "御饍饕客",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0256476,
+    "lng": 121.5045889,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344762",
+    "name": "AP203 Bar",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0211822,
+    "lng": 121.4993365,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344768",
+    "name": "大維製麵廠",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0183864,
+    "lng": 121.5006847,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344792",
+    "name": "中華老字號便當",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0219207,
+    "lng": 121.4984599,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7175344799",
+    "name": "早安 · 你好",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.019593,
+    "lng": 121.4952167,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7282087085",
+    "name": "王子起士馬鈴薯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區峨眉街",
+    "lat": 25.0436902,
+    "lng": 121.5067963,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7282087886",
+    "name": "東京串燒酒場",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區康定路",
+    "lat": 25.0453466,
+    "lng": 121.5030153,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7296140485",
+    "name": "施福建好吃雞肉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區環河南路一段25巷4",
+    "lat": 25.0467664,
+    "lng": 121.5040276,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7497601385",
+    "name": "小王煮瓜",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: regional",
+    "address": "台北市萬華區華西街17-4",
+    "lat": 25.039289,
+    "lng": 121.4985978,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7619228747",
+    "name": "Im café",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區",
+    "lat": 25.0383784,
+    "lng": 121.5062194,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7619228748",
+    "name": "Uchiya-うち屋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: japanese",
+    "address": "台北市萬華區",
+    "lat": 25.0389178,
+    "lng": 121.5064208,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7679769226",
+    "name": "玄德",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0453619,
+    "lng": 121.507261,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7679769228",
+    "name": "麥味登",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: american;breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0417784,
+    "lng": 121.5071211,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679840",
+    "name": "Cuisine私宅廚房",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0352395,
+    "lng": 121.4961961,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679841",
+    "name": "松誠鐵板燒",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0350123,
+    "lng": 121.4965931,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679843",
+    "name": "必勝客",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: pizza",
+    "address": "台北市萬華區",
+    "lat": 25.0352042,
+    "lng": 121.4968573,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679844",
+    "name": "布袋鮮の蚵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.035191,
+    "lng": 121.4971174,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679845",
+    "name": "艋舺牛排館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: steak_house",
+    "address": "台北市萬華區",
+    "lat": 25.0366219,
+    "lng": 121.4969668,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679846",
+    "name": "皇后牛排館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: steak_house",
+    "address": "台北市萬華區",
+    "lat": 25.0365069,
+    "lng": 121.4977558,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679847",
+    "name": "世豐鹿肉店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0364607,
+    "lng": 121.4974675,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679848",
+    "name": "原汁排骨湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0363149,
+    "lng": 121.4975305,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679849",
+    "name": "萬華麻油雞",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0361897,
+    "lng": 121.4975238,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679850",
+    "name": "梧州街蚵仔伯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0361168,
+    "lng": 121.4975131,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679851",
+    "name": "刈包吉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0355223,
+    "lng": 121.4974934,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679852",
+    "name": "篙腳海產店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0354955,
+    "lng": 121.4977975,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679853",
+    "name": "187金巴黎餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0354604,
+    "lng": 121.4978914,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679854",
+    "name": "東山快炒",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0354126,
+    "lng": 121.4987442,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679855",
+    "name": "迷客夏",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區",
+    "lat": 25.0354068,
+    "lng": 121.4990189,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679856",
+    "name": "阿嬌姨烤魷魚",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0367474,
+    "lng": 121.4985363,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679857",
+    "name": "阿珍滷雞腳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0366758,
+    "lng": 121.4985819,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679858",
+    "name": "傳統狀元糕",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0368252,
+    "lng": 121.4987147,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679859",
+    "name": "艋舺紅豆餅",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0368264,
+    "lng": 121.498429,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679860",
+    "name": "金代山產藥膳坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0369054,
+    "lng": 121.498197,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679861",
+    "name": "兩喜號",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0368629,
+    "lng": 121.4979288,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679862",
+    "name": "頂級甜不辣",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0366709,
+    "lng": 121.4976646,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679863",
+    "name": "阿鴻知高飯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0368642,
+    "lng": 121.4977576,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679864",
+    "name": "東港旗魚黑輪",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0367628,
+    "lng": 121.4977595,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679868",
+    "name": "星庭園精緻風味洋食坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0462239,
+    "lng": 121.5063265,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679869",
+    "name": "打狗霸",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0464799,
+    "lng": 121.5056589,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679870",
+    "name": "林清山魷魚羹",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0462892,
+    "lng": 121.5056495,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7699679873",
+    "name": "大村武串燒居酒屋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0466122,
+    "lng": 121.5050065,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7733196456",
+    "name": "沛園牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0303101,
+    "lng": 121.504004,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817110",
+    "name": "新仕界大飯店餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0410372,
+    "lng": 121.5045847,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817111",
+    "name": "不貽樣湯包",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0412048,
+    "lng": 121.5046139,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817112",
+    "name": "就醬滷西門隆昌店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0412159,
+    "lng": 121.5047324,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817113",
+    "name": "AL REVÉS 餐廳 / 顛倒restaurant",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0412975,
+    "lng": 121.5045741,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817114",
+    "name": "宏益水晶餃",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0416515,
+    "lng": 121.5045086,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817115",
+    "name": "何家排骨酥",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0418199,
+    "lng": 121.5045276,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817116",
+    "name": "香港信益燒臘便當",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0419406,
+    "lng": 121.5045713,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817117",
+    "name": "無敵家義泰料理",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.042005,
+    "lng": 121.5045834,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817118",
+    "name": "盤子餐酒",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0421517,
+    "lng": 121.5045834,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817120",
+    "name": "三媽臭臭鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市萬華區",
+    "lat": 25.0426507,
+    "lng": 121.5048282,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817121",
+    "name": "牛軋堂牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0427933,
+    "lng": 121.5046409,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817122",
+    "name": "蜀留香",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0429867,
+    "lng": 121.5045072,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817124",
+    "name": "喜客來早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0439776,
+    "lng": 121.5028453,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817126",
+    "name": "西門町手沖咖啡館",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0444788,
+    "lng": 121.5017127,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817127",
+    "name": "星河廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0445718,
+    "lng": 121.5013728,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817128",
+    "name": "萊茵廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0446993,
+    "lng": 121.5016088,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817129",
+    "name": "豪記脆皮烤鴨",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0441119,
+    "lng": 121.5009838,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7755817130",
+    "name": "萬華烏醋乾麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0440438,
+    "lng": 121.5009758,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765178664",
+    "name": "天贊香養生蔬食府",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0366178,
+    "lng": 121.5043373,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765178665",
+    "name": "幾里瓜拉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.026424,
+    "lng": 121.4998855,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765178667",
+    "name": "三多燒臘店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0233337,
+    "lng": 121.5015237,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765178669",
+    "name": "北海道新鮮魷魚",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0385722,
+    "lng": 121.4984833,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765178670",
+    "name": "愛琳早午餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0250946,
+    "lng": 121.4969673,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765178672",
+    "name": "初味豆花",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.036783,
+    "lng": 121.4959086,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765178675",
+    "name": "常鱻小吃",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0225554,
+    "lng": 121.4995187,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765178681",
+    "name": "雞酒屋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: asian;barbecue;fish;japanese",
+    "address": "台北市萬華區",
+    "lat": 25.0375594,
+    "lng": 121.5052042,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765178683",
+    "name": "漁之屋海鮮碳烤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0382149,
+    "lng": 121.4977706,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187599",
+    "name": "馨都花苑",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0359986,
+    "lng": 121.5020722,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187602",
+    "name": "牛哥沙茶牛肉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區寶興街75",
+    "lat": 25.0263353,
+    "lng": 121.4943143,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187605",
+    "name": "大吉小吃店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0331881,
+    "lng": 121.4925799,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187609",
+    "name": "福州伯牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0254506,
+    "lng": 121.5001014,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187614",
+    "name": "來一蝦活蝦料理店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0343728,
+    "lng": 121.4936789,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187619",
+    "name": "美香義漢堡店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0388219,
+    "lng": 121.5005654,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187621",
+    "name": "金香園便當",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0272987,
+    "lng": 121.495895,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187622",
+    "name": "雞排阿姨",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0383462,
+    "lng": 121.5008249,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187623",
+    "name": "老大哥檳榔攤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0243654,
+    "lng": 121.4951957,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187626",
+    "name": "加蚋老爹·牛肉麵專賣",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0239194,
+    "lng": 121.4952889,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187628",
+    "name": "大樹下鹹酥雞",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0271069,
+    "lng": 121.4924323,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187635",
+    "name": "烤爽無煙串烤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0232359,
+    "lng": 121.5017275,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187639",
+    "name": "南海漁村",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區南寧路72",
+    "lat": 25.0350598,
+    "lng": 121.5036647,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187642",
+    "name": "禾家食品",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0361219,
+    "lng": 121.5021996,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187643",
+    "name": "源士林粥品",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0269108,
+    "lng": 121.4952906,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187644",
+    "name": "卍素食專家",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0348825,
+    "lng": 121.4940618,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187645",
+    "name": "健康素食養生家",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0236928,
+    "lng": 121.4976653,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187646",
+    "name": "羅家擔仔麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0341857,
+    "lng": 121.4938566,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187648",
+    "name": "喫飽早午餐ChiBurger",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0250806,
+    "lng": 121.4946824,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187658",
+    "name": "Mr. 牛排",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0255226,
+    "lng": 121.4946728,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187660",
+    "name": "阿美陽春麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0340551,
+    "lng": 121.4933476,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187661",
+    "name": "萬環大腸麵線",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0363729,
+    "lng": 121.4949959,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187662",
+    "name": "珍燕小館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0229479,
+    "lng": 121.5014834,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187663",
+    "name": "樂蓉 Love Zone",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0273851,
+    "lng": 121.4961157,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187664",
+    "name": "姐妹汕頭麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0209421,
+    "lng": 121.4956047,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187665",
+    "name": "好婆婆早午餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0334803,
+    "lng": 121.492944,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187666",
+    "name": "530食堂",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0252469,
+    "lng": 121.5085084,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187667",
+    "name": "唐姐香香鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0383219,
+    "lng": 121.5002784,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187668",
+    "name": "阿芬麵線米粉湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0242858,
+    "lng": 121.4973622,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187670",
+    "name": "就愛咖哩",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0392478,
+    "lng": 121.5017556,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187671",
+    "name": "兩口鼎",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0262363,
+    "lng": 121.4945436,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187674",
+    "name": "順意早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0380946,
+    "lng": 121.4975781,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187676",
+    "name": "伯樂三明治",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0390066,
+    "lng": 121.503196,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187677",
+    "name": "米粉湯、蚵仔麵線",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0275814,
+    "lng": 121.501755,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187679",
+    "name": "老郭舖山東蔥油餅",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0281623,
+    "lng": 121.5028185,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187680",
+    "name": "德昌上海鮮肉包",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0246376,
+    "lng": 121.4979764,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187683",
+    "name": "阿琴米粉湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0359914,
+    "lng": 121.5033529,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187685",
+    "name": "貳重現做赤肉羹",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0262022,
+    "lng": 121.4941605,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187686",
+    "name": "珍寶園餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.031115,
+    "lng": 121.4903261,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187693",
+    "name": "阿秋阿琴聯誼音樂坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0373961,
+    "lng": 121.5007063,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187694",
+    "name": "巴適小館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.021286,
+    "lng": 121.500086,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187695",
+    "name": "湘健蔬食",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.02305,
+    "lng": 121.5025308,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187698",
+    "name": "蝦仁焿·雞肉飯·花枝焿",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0279447,
+    "lng": 121.5016303,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187700",
+    "name": "瑞麟美而美",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0253194,
+    "lng": 121.4997004,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187701",
+    "name": "香琴黑白切小吃店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0389878,
+    "lng": 121.5041844,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187702",
+    "name": "天下第一家",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0261542,
+    "lng": 121.494428,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187703",
+    "name": "單眼皮双眼皮早餐輕食",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0254798,
+    "lng": 121.5000418,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187704",
+    "name": "德昌蔬食早午餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0248047,
+    "lng": 121.4980556,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187706",
+    "name": "卷吉+",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0244681,
+    "lng": 121.4982192,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187710",
+    "name": "虎糾好吃雞肉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0386397,
+    "lng": 121.5005446,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187712",
+    "name": "艋舺螺螄粉 桂林米粉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0367302,
+    "lng": 121.5011267,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187715",
+    "name": "阿珠油飯豬腸冬粉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0373091,
+    "lng": 121.5042239,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187722",
+    "name": "如意米苔目",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0305008,
+    "lng": 121.4930734,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187724",
+    "name": "阿忠日式料理",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0389404,
+    "lng": 121.498419,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187726",
+    "name": "御廚房",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0371414,
+    "lng": 121.5049756,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187728",
+    "name": "周記傳統芋圓",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0348832,
+    "lng": 121.4999465,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187731",
+    "name": "吳家刈包",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0281762,
+    "lng": 121.5028889,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187734",
+    "name": "老蜀渝",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0262976,
+    "lng": 121.4947015,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187735",
+    "name": "養生黑飯糰",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0386141,
+    "lng": 121.4999816,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187737",
+    "name": "阿寶師",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0246431,
+    "lng": 121.4976251,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187738",
+    "name": "叻石鍋壽喜燒專門店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0382909,
+    "lng": 121.5047342,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187742",
+    "name": "環南榮",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0313259,
+    "lng": 121.4910812,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187743",
+    "name": "東園排骨飯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0238101,
+    "lng": 121.4975708,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187748",
+    "name": "猴老爺平價碳烤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.026842,
+    "lng": 121.4914822,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187750",
+    "name": "上官木桶鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區南寧路68",
+    "lat": 25.0352595,
+    "lng": 121.5037828,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187751",
+    "name": "豬腸冬粉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0267474,
+    "lng": 121.4953256,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187752",
+    "name": "幸福愛緹熊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0275388,
+    "lng": 121.4956295,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187753",
+    "name": "好日子義式餐坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0237748,
+    "lng": 121.5002074,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187754",
+    "name": "新中心快餐便當",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0183688,
+    "lng": 121.4956248,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187757",
+    "name": "麻糬阿姨",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0366804,
+    "lng": 121.5024933,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187761",
+    "name": "黑肉醬宵夜點心",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.023056,
+    "lng": 121.4998714,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187763",
+    "name": "豆漿店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0207052,
+    "lng": 121.5019327,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187769",
+    "name": "萬青鹽酥雞",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0229552,
+    "lng": 121.5016323,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187771",
+    "name": "士林圓環肉羹上海水煎包",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0383481,
+    "lng": 121.5005433,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187772",
+    "name": "鍵浦東坡肉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0250067,
+    "lng": 121.50885,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187775",
+    "name": "Dejia得嘉野餐廚房",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0388144,
+    "lng": 121.5039026,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187776",
+    "name": "義村羊肉爐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0246012,
+    "lng": 121.5002081,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187778",
+    "name": "阿伯 移動臭豆腐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0264258,
+    "lng": 121.5008679,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187793",
+    "name": "裕昌牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.020552,
+    "lng": 121.5017859,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187795",
+    "name": "山葡萄牛奶埔藥燉豬腳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.038362,
+    "lng": 121.4993752,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187797",
+    "name": "油飯四神湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0383839,
+    "lng": 121.5006479,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187799",
+    "name": "漢堡屋早餐坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0219003,
+    "lng": 121.4936407,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187800",
+    "name": "in食堂",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0318891,
+    "lng": 121.4918141,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187802",
+    "name": "阿虎嬸",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0359642,
+    "lng": 121.5026934,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187808",
+    "name": "合興八十八亭",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0359944,
+    "lng": 121.5020182,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187809",
+    "name": "家香味食堂",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: asian;noodles;oriental",
+    "address": "台北市萬華區長泰街7",
+    "lat": 25.0230238,
+    "lng": 121.5012555,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187812",
+    "name": "喜舍居酒屋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0257817,
+    "lng": 121.4964818,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187813",
+    "name": "林家快餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0266045,
+    "lng": 121.4953597,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187815",
+    "name": "麥味登",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0254877,
+    "lng": 121.4946764,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187816",
+    "name": "佳味豆漿店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0251376,
+    "lng": 121.5086652,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187819",
+    "name": "美美精緻早午餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0286307,
+    "lng": 121.5026361,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187822",
+    "name": "熊yo豆綠豆沙",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.026113,
+    "lng": 121.4949506,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187824",
+    "name": "財興快餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0257958,
+    "lng": 121.4943679,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187825",
+    "name": "阿錦米粉湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0350265,
+    "lng": 121.4941905,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187827",
+    "name": "萬華何家豬肉攤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0360927,
+    "lng": 121.5025463,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187832",
+    "name": "e園排骨",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0331638,
+    "lng": 121.4925504,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187834",
+    "name": "阿伯蛋包麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0307475,
+    "lng": 121.4930781,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187836",
+    "name": "無名清粥",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0273238,
+    "lng": 121.4957394,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187841",
+    "name": "復興口麵線",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.026664,
+    "lng": 121.4950083,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187843",
+    "name": "寶貝水餃101",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0225833,
+    "lng": 121.499801,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187846",
+    "name": "稻香園陳記潮汕砂鍋粥",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0364482,
+    "lng": 121.4950958,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187847",
+    "name": "頂香豆漿店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0358893,
+    "lng": 121.5035185,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187848",
+    "name": "阿嬤 古早味鹹粥",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0245015,
+    "lng": 121.4984432,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187850",
+    "name": "越南涼麵河粉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0262555,
+    "lng": 121.4946919,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187851",
+    "name": "美味美早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0217515,
+    "lng": 121.4928206,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187852",
+    "name": "小姜滷味",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.038218,
+    "lng": 121.5007847,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187856",
+    "name": "素食早餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0279593,
+    "lng": 121.5020896,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187857",
+    "name": "阿婆油飯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0360213,
+    "lng": 121.5022716,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187859",
+    "name": "無名清粥小菜攤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0369377,
+    "lng": 121.4960186,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187861",
+    "name": "大俠漢堡包早餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0251631,
+    "lng": 121.508637,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187862",
+    "name": "奇卡早餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0213018,
+    "lng": 121.5000236,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187863",
+    "name": "橋下魷魚羹麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0384094,
+    "lng": 121.4973689,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187865",
+    "name": "福記胡椒餅",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0366183,
+    "lng": 121.4952902,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187867",
+    "name": "敖坊涼麵專賣店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0247063,
+    "lng": 121.5095207,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187868",
+    "name": "豆漿燒餅店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0342665,
+    "lng": 121.4937533,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187869",
+    "name": "鶴壽司",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0359588,
+    "lng": 121.5027836,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187871",
+    "name": "提拉 早午餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0273645,
+    "lng": 121.5054539,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187873",
+    "name": "林記麵攤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0273584,
+    "lng": 121.5019528,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187877",
+    "name": "順利清粥小菜",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0386724,
+    "lng": 121.4983975,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187885",
+    "name": "阿隆麵攤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0346761,
+    "lng": 121.5021131,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187889",
+    "name": "小吳牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0276269,
+    "lng": 121.495551,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187894",
+    "name": "廣泰豆漿",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0230645,
+    "lng": 121.5011348,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187895",
+    "name": "桃子日式小吃屋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: japanese",
+    "address": "台北市萬華區",
+    "lat": 25.0349643,
+    "lng": 121.4999289,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187903",
+    "name": "酸中傳奇",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0210041,
+    "lng": 121.5025402,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187908",
+    "name": "涵食堂",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.025772,
+    "lng": 121.4966803,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187912",
+    "name": "紅龜伯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0359828,
+    "lng": 121.5025349,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187914",
+    "name": "龍山鐵板燒",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0383565,
+    "lng": 121.4976378,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187915",
+    "name": "金多寶牛排",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0263724,
+    "lng": 121.4948207,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187916",
+    "name": "滿意米粉湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0273013,
+    "lng": 121.5020493,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187925",
+    "name": "飯麵便當",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0384318,
+    "lng": 121.5041401,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187929",
+    "name": "巨林美而美 (民和街)",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0264021,
+    "lng": 121.5001705,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187935",
+    "name": "肉焿麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0278402,
+    "lng": 121.5015961,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187936",
+    "name": "金作坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0331431,
+    "lng": 121.4921903,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187940",
+    "name": "阿誠魯肉飯綜合羹麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.024586,
+    "lng": 121.4977967,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187944",
+    "name": "大悶鍋小火鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0262071,
+    "lng": 121.4946824,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187945",
+    "name": "環南市場 米苔目",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0302966,
+    "lng": 121.4926382,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187946",
+    "name": "油飯米粉湯豬血湯炸豆腐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0253576,
+    "lng": 121.4913159,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187947",
+    "name": "早點明 早午餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0229539,
+    "lng": 121.499789,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187956",
+    "name": "衝丼",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0265146,
+    "lng": 121.4947803,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187957",
+    "name": "呷食益",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0337544,
+    "lng": 121.5032973,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187959",
+    "name": "暇以食日",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0231435,
+    "lng": 121.5003006,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187960",
+    "name": "18號廚房",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0274963,
+    "lng": 121.4956523,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187962",
+    "name": "天天來當歸鴨",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0262647,
+    "lng": 121.4941367,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187963",
+    "name": "蘇姐早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0233124,
+    "lng": 121.4928628,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187968",
+    "name": "美好美早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0396075,
+    "lng": 121.5040918,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187973",
+    "name": "高雄真福記鴨莊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0332052,
+    "lng": 121.5050769,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187974",
+    "name": "阿美小吃店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0214823,
+    "lng": 121.4948322,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187975",
+    "name": "萬媽炸醬",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0271974,
+    "lng": 121.5020084,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187976",
+    "name": "土雞莊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0360187,
+    "lng": 121.5030652,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187977",
+    "name": "珍香鍋貼水餃",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.025594,
+    "lng": 121.5006841,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187980",
+    "name": "如意素食",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0252082,
+    "lng": 121.4972315,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187983",
+    "name": "家吶子 台式居酒屋 Ka-la̍h-á",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0256718,
+    "lng": 121.4964436,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187988",
+    "name": "刀削麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.02128,
+    "lng": 121.5003576,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187989",
+    "name": "正元精緻便當",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0364416,
+    "lng": 121.4927012,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187991",
+    "name": "香香臭豆腐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0279727,
+    "lng": 121.5021674,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187992",
+    "name": "老戴牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0382454,
+    "lng": 121.50056,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187993",
+    "name": "蚵仔麵線",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0275918,
+    "lng": 121.5016015,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187994",
+    "name": "老施炭烤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0367873,
+    "lng": 121.4958529,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187995",
+    "name": "德力堡漢堡連鎖",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0231125,
+    "lng": 121.5016618,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765187999",
+    "name": "四六天蘿蔔糕竹筍貢丸湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0372746,
+    "lng": 121.5005111,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188002",
+    "name": "大豐魚丸",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: fish",
+    "address": "台北市萬華區",
+    "lat": 25.0360034,
+    "lng": 121.5024172,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188003",
+    "name": "環南麵店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0311011,
+    "lng": 121.4897501,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188006",
+    "name": "素食麵線",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0370709,
+    "lng": 121.496169,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188007",
+    "name": "阿昌意麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0264033,
+    "lng": 121.5001195,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188008",
+    "name": "日日早餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0248679,
+    "lng": 121.4982306,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188009",
+    "name": "粥師傅廣東粥",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0388003,
+    "lng": 121.504107,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188011",
+    "name": "口味王湘滷",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0258401,
+    "lng": 121.4949312,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188014",
+    "name": "多餃舍-多餃工坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0360316,
+    "lng": 121.5021547,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188019",
+    "name": "天空飲食茶坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.02366,
+    "lng": 121.4946612,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188025",
+    "name": "超級肉羹",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0370857,
+    "lng": 121.4954639,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188026",
+    "name": "美寶堡",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0262071,
+    "lng": 121.4921353,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188028",
+    "name": "青春鍋物",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0335629,
+    "lng": 121.4925195,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188030",
+    "name": "華江川菜",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0321844,
+    "lng": 121.4916981,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188031",
+    "name": "阿海雞捲",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0231052,
+    "lng": 121.5010449,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188385",
+    "name": "臭豆腐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0278998,
+    "lng": 121.5016953,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188388",
+    "name": "三好快餐便當",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區寶興街34",
+    "lat": 25.0273805,
+    "lng": 121.4931056,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188389",
+    "name": "曉瑜食屋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.025193,
+    "lng": 121.494608,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188391",
+    "name": "好友鵝肉切仔麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0259305,
+    "lng": 121.4945443,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188392",
+    "name": "香豪手工現作包子饅頭",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0263499,
+    "lng": 121.4922835,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188394",
+    "name": "喜憨兒青年2庇護工場",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.021057,
+    "lng": 121.5018301,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188396",
+    "name": "一桶香滷味",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0264702,
+    "lng": 121.4949413,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188404",
+    "name": "阿福小吃店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0249165,
+    "lng": 121.5006144,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188406",
+    "name": "萬青熱炒店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0232881,
+    "lng": 121.5016377,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188407",
+    "name": "小宇宙食堂",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.019801,
+    "lng": 121.5017765,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188409",
+    "name": "旺家鄉早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0375442,
+    "lng": 121.5050755,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188410",
+    "name": "好味道溫洲大餛飩",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0276635,
+    "lng": 121.5017657,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188412",
+    "name": "CURA PIZZA",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: pizza",
+    "address": "台北市萬華區東園街68-9",
+    "lat": 25.025464,
+    "lng": 121.4966273,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188415",
+    "name": "夫妻檔熱炒",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0388249,
+    "lng": 121.498372,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188417",
+    "name": "品味美而美",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0383595,
+    "lng": 121.5051627,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188418",
+    "name": "鴨日子",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區寶興街35",
+    "lat": 25.0275857,
+    "lng": 121.4932434,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188420",
+    "name": "復興小吃",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0264459,
+    "lng": 121.494901,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188421",
+    "name": "風早餐館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0228604,
+    "lng": 121.5017195,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188424",
+    "name": "五木吉 日式豬排",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.027407,
+    "lng": 121.4956925,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188427",
+    "name": "第一家湯圓專賣店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0247513,
+    "lng": 121.5094395,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188428",
+    "name": "阿龍陽春麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0347028,
+    "lng": 121.5021882,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188431",
+    "name": "美味堡早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區南寧路43",
+    "lat": 25.0359082,
+    "lng": 121.5039151,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188432",
+    "name": "小鎮香素食",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.036104,
+    "lng": 121.5022955,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188433",
+    "name": "優豆豆花",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0264684,
+    "lng": 121.4947334,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188434",
+    "name": "武士雞排",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.033072,
+    "lng": 121.4917135,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188444",
+    "name": "新天地複合式餐飲",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0238982,
+    "lng": 121.5003355,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188449",
+    "name": "景香好吃點心紅龜壽桃",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0250058,
+    "lng": 121.4986135,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188453",
+    "name": "正杰牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0260491,
+    "lng": 121.4963282,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188454",
+    "name": "鼎厚家蓋飯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0270128,
+    "lng": 121.4955992,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188456",
+    "name": "西昌街夜市蝦仁羹",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0381336,
+    "lng": 121.5007572,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188457",
+    "name": "臺灣的鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0247519,
+    "lng": 121.4950783,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188461",
+    "name": "老大廚房 萬華店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: steak_house",
+    "address": "台北市萬華區中華路二段",
+    "lat": 25.0332513,
+    "lng": 121.5050977,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188462",
+    "name": "萬家堡",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0209105,
+    "lng": 121.4960513,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188464",
+    "name": "小李子燒餅舖",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0274095,
+    "lng": 121.5020212,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188469",
+    "name": "桃子早午餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0248296,
+    "lng": 121.4981468,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188470",
+    "name": "阿伯阿嬤湯圓",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0264538,
+    "lng": 121.500998,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188473",
+    "name": "醉華樓菜館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.038763,
+    "lng": 121.4985021,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188474",
+    "name": "坤山四神湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0366951,
+    "lng": 121.5013416,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188476",
+    "name": "圓禾素膳食府",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0204755,
+    "lng": 121.5017121,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188477",
+    "name": "拾柒鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0373431,
+    "lng": 121.5039007,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188478",
+    "name": "豆漿.湯包/飯糰",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0270613,
+    "lng": 121.5003415,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188481",
+    "name": "老周鴨莊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0340751,
+    "lng": 121.4933792,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188484",
+    "name": "蚵仔煎攤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0367101,
+    "lng": 121.4958684,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188487",
+    "name": "雅加達漢堡店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0314857,
+    "lng": 121.4903945,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188489",
+    "name": "小林快炒",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0276543,
+    "lng": 121.5018301,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7765188492",
+    "name": "榮記燒臘便當",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0267108,
+    "lng": 121.4950519,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772675421",
+    "name": "四海遊龍",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: dumplings",
+    "address": "台北市萬華區",
+    "lat": 25.0249584,
+    "lng": 121.5088958,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772741764",
+    "name": "家鄉土羊專賣店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0235306,
+    "lng": 121.5001511,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772741765",
+    "name": "PIZZA HUT必勝客",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.027305,
+    "lng": 121.5003254,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772741770",
+    "name": "阿文肉羹店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0375054,
+    "lng": 121.5007405,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772741771",
+    "name": "品客早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0234722,
+    "lng": 121.4943769,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772741772",
+    "name": "愛早點精緻早午餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0235348,
+    "lng": 121.4928233,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772741773",
+    "name": "新竹肉圓",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0366968,
+    "lng": 121.5013091,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772741775",
+    "name": "小王子一號店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區寶興街63",
+    "lat": 25.0266029,
+    "lng": 121.4941455,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772741777",
+    "name": "豆漿ㄉ店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0253309,
+    "lng": 121.4998071,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772769986",
+    "name": "貴族派雞排",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0336153,
+    "lng": 121.4930653,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772769988",
+    "name": "波斯頓美式脆皮炸雞",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0384172,
+    "lng": 121.497737,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772769992",
+    "name": "萬佳鄉早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0315811,
+    "lng": 121.4904783,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772769993",
+    "name": "品鮨日式料理",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0260503,
+    "lng": 121.5003422,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772769997",
+    "name": "人人有雞吃",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.034817,
+    "lng": 121.5033891,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7772770001",
+    "name": "明石老麵饅頭專賣店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0230275,
+    "lng": 121.4997896,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7778780610",
+    "name": "素食小店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0248801,
+    "lng": 121.4947813,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7778780612",
+    "name": "金正好吃",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0252404,
+    "lng": 121.4969069,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7778780618",
+    "name": "孫東寶",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0224624,
+    "lng": 121.499048,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7778780623",
+    "name": "胖老爹美式炸雞",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0258881,
+    "lng": 121.4965978,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7778780626",
+    "name": "雞房重地",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.023389,
+    "lng": 121.5016947,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7778780630",
+    "name": "緯大雞排",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0249992,
+    "lng": 121.5002986,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7778780632",
+    "name": "樂崎火鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0258176,
+    "lng": 121.496465,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7778780633",
+    "name": "玖佰號",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0239648,
+    "lng": 121.4954275,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7778780634",
+    "name": "巧沛東方美",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0259373,
+    "lng": 121.496347,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7778780645",
+    "name": "朱記牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0229752,
+    "lng": 121.5002389,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7778780648",
+    "name": "雞sir,s 鹹水雞",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0226641,
+    "lng": 121.501643,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913810",
+    "name": "蝦咪狼",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.026437,
+    "lng": 121.4992136,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913811",
+    "name": "霹靂啪啦",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0265342,
+    "lng": 121.4986758,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913812",
+    "name": "古早味冬粉貢丸",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0252655,
+    "lng": 121.4932322,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913813",
+    "name": "北港米苔目",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0283501,
+    "lng": 121.4921418,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913814",
+    "name": "豬腳飯控肉飯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0286978,
+    "lng": 121.492217,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913815",
+    "name": "東方美早餐店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0286711,
+    "lng": 121.4924967,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913816",
+    "name": "和醬日本和牛燒肉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0296207,
+    "lng": 121.4941281,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913818",
+    "name": "梁社漢排骨",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市萬華區西園路二段216-1",
+    "lat": 25.0285257,
+    "lng": 121.4952994,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913819",
+    "name": "東芝鄉排骨飯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0286735,
+    "lng": 121.4950629,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913820",
+    "name": "滷肉飯什錦湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0289718,
+    "lng": 121.4950575,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913821",
+    "name": "進源蔬炸店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.029066,
+    "lng": 121.4951688,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913822",
+    "name": "Q Burger",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0291947,
+    "lng": 121.4949753,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913823",
+    "name": "麥香堡",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0293533,
+    "lng": 121.4948838,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913824",
+    "name": "環南市場魯味",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0293863,
+    "lng": 121.49489,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913825",
+    "name": "好吃古早炒飯、炒麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0297567,
+    "lng": 121.4944305,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913826",
+    "name": "豆漿店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0297657,
+    "lng": 121.494486,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913827",
+    "name": "古早麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.029941,
+    "lng": 121.4942484,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913828",
+    "name": "金仙魚丸店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0298761,
+    "lng": 121.4943238,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913830",
+    "name": "統一素食",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0296192,
+    "lng": 121.4943694,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913831",
+    "name": "上紅小火鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0298065,
+    "lng": 121.4941968,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913832",
+    "name": "上正自助餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0299131,
+    "lng": 121.4940574,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913833",
+    "name": "羊肉炒麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0300793,
+    "lng": 121.4938715,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913834",
+    "name": "福讚牛家美食館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0310145,
+    "lng": 121.494348,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913835",
+    "name": "得意香香鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0312904,
+    "lng": 121.4946404,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913836",
+    "name": "三兩三快炒",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0314113,
+    "lng": 121.4950481,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913837",
+    "name": "福讚牛家美食",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0313651,
+    "lng": 121.4951131,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913838",
+    "name": "39相思雞",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0314301,
+    "lng": 121.4953975,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913839",
+    "name": "中原鐵板燒",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0312606,
+    "lng": 121.4954457,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913840",
+    "name": "阿欣河粉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0309926,
+    "lng": 121.4954384,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913841",
+    "name": "戀焗複合式焗烤屋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0309635,
+    "lng": 121.4953478,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913842",
+    "name": "豆總甜品",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0310889,
+    "lng": 121.4953428,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913843",
+    "name": "海鮮拉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0310726,
+    "lng": 121.4955476,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913844",
+    "name": "正嘉義排骨肉羹",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.031049,
+    "lng": 121.4955775,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913845",
+    "name": "陳記豆花/花生湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0310077,
+    "lng": 121.4956154,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913846",
+    "name": "食神滷味",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.030878,
+    "lng": 121.4957264,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913847",
+    "name": "早安堡",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.030805,
+    "lng": 121.4957871,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913848",
+    "name": "木屐桑壽司屋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0306701,
+    "lng": 121.4959246,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913849",
+    "name": "美而美",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0305334,
+    "lng": 121.4960147,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913850",
+    "name": "德興廣東粥",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0303702,
+    "lng": 121.4959587,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913851",
+    "name": "葫蘆仔米粉湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0312727,
+    "lng": 121.4982305,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913852",
+    "name": "媽寶堡",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0312849,
+    "lng": 121.4985001,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913853",
+    "name": "巷口中西式早餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0308177,
+    "lng": 121.4995931,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913854",
+    "name": "安迪愛美眉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.031034,
+    "lng": 121.5002824,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913855",
+    "name": "大城餃子館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.031006,
+    "lng": 121.5003401,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913856",
+    "name": "拾味料理所",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.030848,
+    "lng": 121.5004246,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913857",
+    "name": "雪娥越南小吃",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0307934,
+    "lng": 121.5007706,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913858",
+    "name": "董月花早餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0307478,
+    "lng": 121.5006995,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913859",
+    "name": "漁屋快炒",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.030413,
+    "lng": 121.5004233,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913860",
+    "name": "熊爸早午餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0301238,
+    "lng": 121.5006539,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913861",
+    "name": "味妙牛肉麵館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0297416,
+    "lng": 121.5006942,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913862",
+    "name": "阿章小吃店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0297574,
+    "lng": 121.5003622,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913863",
+    "name": "萬大碳烤燒餅",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.029628,
+    "lng": 121.5003414,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801913864",
+    "name": "古早味炒米粉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0295758,
+    "lng": 121.5002516,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801917464",
+    "name": "頂好鹽酥雞麻辣燙",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0325681,
+    "lng": 121.5047087,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801917466",
+    "name": "艋丁哥",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0314149,
+    "lng": 121.5038424,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801917469",
+    "name": "復華川菜",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0298366,
+    "lng": 121.502162,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801917470",
+    "name": "陽光早午餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0298954,
+    "lng": 121.502341,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801917471",
+    "name": "阿娟蚵仔煎",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0300488,
+    "lng": 121.5030985,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801917472",
+    "name": "老先覺功夫窯燒鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.030078,
+    "lng": 121.5033014,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801917473",
+    "name": "麵大師",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0301433,
+    "lng": 121.5039292,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801943003",
+    "name": "巧味速食早餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0481312,
+    "lng": 121.5071952,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945885",
+    "name": "八海精緻鍋物",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0432407,
+    "lng": 121.5059955,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945886",
+    "name": "英記茶餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0430605,
+    "lng": 121.5052331,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945887",
+    "name": "真川味1店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0434497,
+    "lng": 121.504722,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945888",
+    "name": "麥而美",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0433561,
+    "lng": 121.5038786,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945889",
+    "name": "標點符號創意早午餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0417151,
+    "lng": 121.5009838,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945890",
+    "name": "林家御膳牛排",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0414531,
+    "lng": 121.5023161,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945891",
+    "name": "溫州大餛飩",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.041563,
+    "lng": 121.5025731,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945892",
+    "name": "海味豐海產店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0415527,
+    "lng": 121.5026623,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945893",
+    "name": "點點板烤吐司",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0415201,
+    "lng": 121.5028709,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945895",
+    "name": "陽光早餐坊",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.0415069,
+    "lng": 121.5035453,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945896",
+    "name": "宜蘭大溪港現撈海鮮熱炒",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0406642,
+    "lng": 121.5052204,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945897",
+    "name": "好廚房",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.040437,
+    "lng": 121.5051929,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945899",
+    "name": "漁村台灣料理",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0404865,
+    "lng": 121.5056153,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945900",
+    "name": "鑫鱻涮涮鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0399013,
+    "lng": 121.5060558,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945901",
+    "name": "歐里桑",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0397912,
+    "lng": 121.5060747,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_7801945903",
+    "name": "皇家帝國鴛鴦麻辣火鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0387389,
+    "lng": 121.5069183,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_8024462017",
+    "name": "窺視咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區環河南路二段216",
+    "lat": 25.0338448,
+    "lng": 121.4927814,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_8024462018",
+    "name": "森耕耕咖啡商行",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區大理街133巷8",
+    "lat": 25.0346865,
+    "lng": 121.4971899,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_8024462019",
+    "name": "呆待咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區",
+    "lat": 25.0336179,
+    "lng": 121.4990212,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_8280854517",
+    "name": "香Q知高飯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0408872,
+    "lng": 121.5061297,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_8378684488",
+    "name": "魏大爺火鍋店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市萬華區大理街42巷5",
+    "lat": 25.0341849,
+    "lng": 121.5003144,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_8426944896",
+    "name": "老賴茶棧",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea;tea",
+    "address": "台北市萬華區峨眉街8",
+    "lat": 25.0433082,
+    "lng": 121.5077845,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_8426944915",
+    "name": "肉之間大盤肉幸福鍋物",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市萬華區中華路一段152",
+    "lat": 25.0427094,
+    "lng": 121.5080083,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_8442129229",
+    "name": "海馬207音樂藝文餐坊",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0364247,
+    "lng": 121.4998649,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_8843386705",
+    "name": "煲仔飯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: chinese",
+    "address": "台北市萬華區廣州街92巷7",
+    "lat": 25.0361844,
+    "lng": 121.5024387,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_8843386707",
+    "name": "艋舺清粥小菜",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市萬華區和平西路三段182",
+    "lat": 25.0351756,
+    "lng": 121.4975512,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9047833069",
+    "name": "采宏牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: noodles;chinese",
+    "address": "台北市萬華區西寧南路27",
+    "lat": 25.047941,
+    "lng": 121.5075593,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9323407992",
+    "name": "九日咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區廣州街213",
+    "lat": 25.0367377,
+    "lng": 121.4992312,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9426123001",
+    "name": "三代肉焿魯肉飯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0400111,
+    "lng": 121.5018368,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9527763129",
+    "name": "達人豆漿大王",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0333366,
+    "lng": 121.4978376,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9669375743",
+    "name": "潤餅世家",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.032226,
+    "lng": 121.5007706,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9669375744",
+    "name": "天天來海鮮",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0324573,
+    "lng": 121.500577,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9669406019",
+    "name": "香遇鹹水雞",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0316379,
+    "lng": 121.5006968,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9669406020",
+    "name": "呷寶寶",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0313523,
+    "lng": 121.501075,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9669406025",
+    "name": "名廚什錦麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0322184,
+    "lng": 121.5002906,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9709480252",
+    "name": "爭鮮",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: sushi",
+    "address": "台北市萬華區",
+    "lat": 25.0265968,
+    "lng": 121.5067714,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9710546770",
+    "name": "吉豚屋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: japanese",
+    "address": "台北市萬華區桂林路1",
+    "lat": 25.0378993,
+    "lng": 121.5058909,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9710546771",
+    "name": "林家潁精緻麵店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: noodle",
+    "address": "台北市萬華區中華路一段218",
+    "lat": 25.0372634,
+    "lng": 121.5062821,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9713631612",
+    "name": "50嵐",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區",
+    "lat": 25.035409,
+    "lng": 121.4990433,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9720203901",
+    "name": "燒杯咖啡藝廚",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.034847,
+    "lng": 121.4988857,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9720220779",
+    "name": "白巷子",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區",
+    "lat": 25.0351435,
+    "lng": 121.4984076,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9774005432",
+    "name": "真情清茶館",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0395248,
+    "lng": 121.4989627,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9816238621",
+    "name": "penne 義大利麵外帶專門店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: pasta",
+    "address": "台北市萬華區",
+    "lat": 25.0264567,
+    "lng": 121.4950535,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9957482188",
+    "name": "通化街輝哥米粉湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.035796,
+    "lng": 121.4975023,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9957482189",
+    "name": "鵝肉輝",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0358404,
+    "lng": 121.497507,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9957482210",
+    "name": "藏賀岩燒牛排",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0351763,
+    "lng": 121.4976633,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9957526440",
+    "name": "黃家豬腸冬粉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0354995,
+    "lng": 121.4974996,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9957526445",
+    "name": "小南鄭記台南碗粿",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0351757,
+    "lng": 121.4979174,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9957526446",
+    "name": "原汁排骨湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0351794,
+    "lng": 121.497841,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9957526448",
+    "name": "強滾滾石頭火鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0351666,
+    "lng": 121.4980844,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9957526456",
+    "name": "蔴油李",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0351854,
+    "lng": 121.4973427,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9957526484",
+    "name": "譽龍軒",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0351976,
+    "lng": 121.4970578,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9959631729",
+    "name": "阿豆師原汁排骨湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0351478,
+    "lng": 121.4986168,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9959951618",
+    "name": "海天香餃",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0351648,
+    "lng": 121.4981508,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9959951619",
+    "name": "大碗豬血湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0351684,
+    "lng": 121.4980408,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9959951631",
+    "name": "李家黑豬肉香腸",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0351696,
+    "lng": 121.4982634,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9971567225",
+    "name": "魚池貳壹",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區",
+    "lat": 25.0452692,
+    "lng": 121.5081292,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9971709148",
+    "name": "路易莎咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區",
+    "lat": 25.0374607,
+    "lng": 121.5053813,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_9971771673",
+    "name": "海底撈火鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: chinese;hotpot",
+    "address": "台北市萬華區桂林路1",
+    "lat": 25.0380172,
+    "lng": 121.5055878,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10074174719",
+    "name": "Qburger萬華青年店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: burger;sandwich",
+    "address": "台北市萬華區青年路140",
+    "lat": 25.0218233,
+    "lng": 121.5024418,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10079058554",
+    "name": "老山東餃子館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: chinese;noodle;dumplings",
+    "address": "台北市萬華區中華路二段364巷3",
+    "lat": 25.0259848,
+    "lng": 121.4942257,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10156051671",
+    "name": "一甲子餐飲",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區康定路79",
+    "lat": 25.040378,
+    "lng": 121.5021902,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10180083917",
+    "name": "COMEBUY",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區中華路一段116",
+    "lat": 25.043721,
+    "lng": 121.5083161,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10564349072",
+    "name": "新港茶餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區漢中街52",
+    "lat": 25.043878,
+    "lng": 121.50711,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10752479275",
+    "name": "幸福堂",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區",
+    "lat": 25.0433531,
+    "lng": 121.5073427,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10752516030",
+    "name": "嚮辣和牛麻辣鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0447807,
+    "lng": 121.5086194,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10752516483",
+    "name": "我!就厲害燒烤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0428148,
+    "lng": 121.5077209,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10755525412",
+    "name": "夯下去新潮和牛燒肉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: grill",
+    "address": "台北市萬華區",
+    "lat": 25.0444873,
+    "lng": 121.5074386,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10755529838",
+    "name": "CoCo壱番屋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: curry;japanese",
+    "address": "台北市萬華區",
+    "lat": 25.0441447,
+    "lng": 121.5075371,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10755529839",
+    "name": "番樂屋日式拉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0441508,
+    "lng": 121.5074989,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10755597344",
+    "name": "人从众厚切牛排",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0439248,
+    "lng": 121.5074899,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10755668557",
+    "name": "Come Buy",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區",
+    "lat": 25.044378,
+    "lng": 121.5074091,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10755687635",
+    "name": "涮樂和牛鍋物",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0435724,
+    "lng": 121.5070952,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10756731106",
+    "name": "駭客網路電競館",
+    "category": "food",
+    "description": "位於萬華區的internet_cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0426879,
+    "lng": 121.507981,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10758341845",
+    "name": "鳥人拉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: ramen",
+    "address": "台北市萬華區中華路一段108",
+    "lat": 25.0439464,
+    "lng": 121.5084095,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10758341846",
+    "name": "功夫茶",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區",
+    "lat": 25.0439837,
+    "lng": 121.5084199,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10765636851",
+    "name": "好味老店珍珠餛飩",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0362459,
+    "lng": 121.5013084,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10789595704",
+    "name": "笑月小館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0456987,
+    "lng": 121.5083753,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10792411804",
+    "name": "道樂商店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0432444,
+    "lng": 121.5068243,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10792446962",
+    "name": "胖叔叔炙燒骰子牛",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0437255,
+    "lng": 121.5068049,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10792446963",
+    "name": "烏來ㄟ原住民不滿族大腸包小腸",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0437547,
+    "lng": 121.5068123,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10792446964",
+    "name": "韓川奶奶辣炒起司年糕",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0436395,
+    "lng": 121.5067818,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10792446965",
+    "name": "家鄉碳烤雞排",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0436641,
+    "lng": 121.5067895,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10792446966",
+    "name": "清心福全",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區",
+    "lat": 25.0437966,
+    "lng": 121.5068223,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10792456205",
+    "name": "佐藤咖哩",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: curry",
+    "address": "台北市萬華區",
+    "lat": 25.0431016,
+    "lng": 121.5068934,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10803956759",
+    "name": "我家牛排",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0441219,
+    "lng": 121.5039591,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10803956760",
+    "name": "燒包",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0441447,
+    "lng": 121.5038437,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10806884877",
+    "name": "吉天元拉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: noodle",
+    "address": "台北市萬華區",
+    "lat": 25.0436356,
+    "lng": 121.5058079,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10806884878",
+    "name": "丸亀製麵 誠品生活西門店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: noodle",
+    "address": "台北市萬華區",
+    "lat": 25.043617,
+    "lng": 121.5052541,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_10933560383",
+    "name": "加園咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區",
+    "lat": 25.024828,
+    "lng": 121.4984942,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11107302130",
+    "name": "北平一條龍餃子館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: chinese",
+    "address": "台北市萬華區峨眉街10",
+    "lat": 25.0433248,
+    "lng": 121.5076482,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11250932801",
+    "name": "叻石鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區南寧路37",
+    "lat": 25.0362201,
+    "lng": 121.5042368,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11250932803",
+    "name": "凝視．咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區廣州街32",
+    "lat": 25.0363965,
+    "lng": 121.5043222,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11390928036",
+    "name": "50嵐",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區寶興街64",
+    "lat": 25.026477,
+    "lng": 121.4939447,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11390928037",
+    "name": "金鴻美食小館",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: thai",
+    "address": "台北市萬華區寶興街62",
+    "lat": 25.0265168,
+    "lng": 121.4938932,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11390928046",
+    "name": "七盞茶",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區西園路二段227-1",
+    "lat": 25.0268143,
+    "lng": 121.4939285,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11390928048",
+    "name": "台南嬤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西園路二段278",
+    "lat": 25.0275659,
+    "lng": 121.4942111,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11390928050",
+    "name": "臭之霸臭臭鍋",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西園路二段284",
+    "lat": 25.0274822,
+    "lng": 121.4941126,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11406970590",
+    "name": "蘋果203",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: burger;breakfast",
+    "address": "台北市萬華區西園路二段168",
+    "lat": 25.0297156,
+    "lng": 121.4958891,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11425676395",
+    "name": "炸雞大獅",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區桂林路1",
+    "lat": 25.0378241,
+    "lng": 121.5057812,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11425676397",
+    "name": "洋城義大利餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: italian",
+    "address": "台北市萬華區桂林路1",
+    "lat": 25.0378651,
+    "lng": 121.5058323,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11425676398",
+    "name": "爭鮮",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: sushi",
+    "address": "台北市萬華區桂林路1",
+    "lat": 25.0378126,
+    "lng": 121.5058681,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11425676409",
+    "name": "忻鮨壽司",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: japanese",
+    "address": "台北市萬華區桂林路109",
+    "lat": 25.0385529,
+    "lng": 121.5008038,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11536239511",
+    "name": "鴿子茶飲",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區寶興街55",
+    "lat": 25.0267212,
+    "lng": 121.4940167,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11536239523",
+    "name": "丹丹牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區寶興街51",
+    "lat": 25.0271992,
+    "lng": 121.4936518,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11536239528",
+    "name": "味 牛肉麵專賣",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區西園路二段308",
+    "lat": 25.0262568,
+    "lng": 121.4926885,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11882673551",
+    "name": "糰圓手工批薩",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區長沙街二段119",
+    "lat": 25.0405201,
+    "lng": 121.503456,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11943959469",
+    "name": "晧克",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: breakfast;burger;sandwich",
+    "address": "台北市萬華區內江街29",
+    "lat": 25.0417414,
+    "lng": 121.5061429,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11958462029",
+    "name": "九代排骨燒肉專門店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: taiwanese;bento",
+    "address": "台北市萬華區長順街15",
+    "lat": 25.0304091,
+    "lng": 121.4923563,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11986683145",
+    "name": "農粹日式咖哩 西門店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: curry;japanese",
+    "address": "台北市萬華區",
+    "lat": 25.0461971,
+    "lng": 121.508241,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11986683146",
+    "name": "艋舺咖喱 MONGACURRY",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: curry",
+    "address": "台北市萬華區",
+    "lat": 25.0440615,
+    "lng": 121.5028588,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_11986683147",
+    "name": "女廚咖哩水餃麵食",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: curry;taiwanese",
+    "address": "台北市萬華區",
+    "lat": 25.0442936,
+    "lng": 121.5029295,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12198759152",
+    "name": "boom炸彈蔥油餅",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0377557,
+    "lng": 121.4978338,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12210044393",
+    "name": "宮武讚岐烏龍麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: noodle;japanese",
+    "address": "台北市萬華區中華路一段114巷33號",
+    "lat": 25.0440268,
+    "lng": 121.5074949,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12229571255",
+    "name": "Go義式",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: italian",
+    "address": "台北市萬華區內江街5",
+    "lat": 25.0415502,
+    "lng": 121.5067684,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12258140606",
+    "name": "小美米粉湯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0332583,
+    "lng": 121.4973575,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12262935967",
+    "name": "師園菲味鹽酥雞",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區成都路28",
+    "lat": 25.0424848,
+    "lng": 121.5066368,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12297211946",
+    "name": "刁民酸菜魚",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0450535,
+    "lng": 121.5085705,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12297211947",
+    "name": "門前隱味牛肉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: chinese;noodles",
+    "address": "台北市萬華區漢口街二段20巷7",
+    "lat": 25.0450256,
+    "lng": 121.5080645,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12401504701",
+    "name": "Antichi Sapori 邊緣食堂",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: italian",
+    "address": "台北市萬華區長沙街二段127",
+    "lat": 25.0404884,
+    "lng": 121.5032883,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12412924771",
+    "name": "咖啡帶",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0343063,
+    "lng": 121.4974091,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12412949208",
+    "name": "小芳桂林米粉",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0341532,
+    "lng": 121.4973414,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12412949209",
+    "name": "群芳自助餐",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0341483,
+    "lng": 121.4972958,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12412965002",
+    "name": "法菲利餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0338731,
+    "lng": 121.4976002,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12441748148",
+    "name": "破曉咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區艋舺大道110",
+    "lat": 25.0331069,
+    "lng": 121.5025365,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12441748149",
+    "name": "阮兜",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: asian;deli;tea;thai",
+    "address": "台北市萬華區興寧街7",
+    "lat": 25.032396,
+    "lng": 121.5018859,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12802622301",
+    "name": "滿塘無刺虱目魚",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0415895,
+    "lng": 121.5046547,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12814305746",
+    "name": "八方悅鍋物",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: hotpot;japanese",
+    "address": "台北市萬華區長泰街77",
+    "lat": 25.0226961,
+    "lng": 121.4996913,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_12996784901",
+    "name": "億香魯肉飯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: local",
+    "address": "台北市萬華區和平西路三段120",
+    "lat": 25.0348101,
+    "lng": 121.4998742,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13020177779",
+    "name": "明弘無刺虱目魚",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市萬華區萬大路478",
+    "lat": 25.0203988,
+    "lng": 121.4981388,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13028157693",
+    "name": "茶水格格",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區",
+    "lat": 25.041414,
+    "lng": 121.504413,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13108016702",
+    "name": "源芳刈包",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0391918,
+    "lng": 121.4985596,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13310524027",
+    "name": "開開看江浙小吃",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區漢中街147巷5",
+    "lat": 25.0407977,
+    "lng": 121.507108,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13386462263",
+    "name": "揪福餐廳",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: american",
+    "address": "台北市萬華區漢中街103",
+    "lat": 25.0433064,
+    "lng": 121.5073727,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13418586201",
+    "name": "紅巷",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區漢中街171巷3",
+    "lat": 25.0412761,
+    "lng": 121.5072139,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13418615701",
+    "name": "平哥炭烤",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: barbecue;buschenschank;grill;kebab",
+    "address": "台北市萬華區峨眉街3",
+    "lat": 25.0433515,
+    "lng": 121.5080725,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13420370901",
+    "name": "Ramble Cafe",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市萬華區康定路294",
+    "lat": 25.0364876,
+    "lng": 121.501358,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13459980101",
+    "name": "小小蔬房 Xiao Xiao Place",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0465031,
+    "lng": 121.5039978,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13460214701",
+    "name": "阿萬油飯",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.032797,
+    "lng": 121.5010545,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13460240501",
+    "name": "福隆月台便當",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0383863,
+    "lng": 121.4986191,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13460289501",
+    "name": "金好吃純正花枝羹",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0364824,
+    "lng": 121.5018101,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13460391801",
+    "name": "蒸好吃佛跳牆",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0395335,
+    "lng": 121.498592,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13460395101",
+    "name": "東石順蚵仔煎小吃店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0403887,
+    "lng": 121.5005744,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13460403001",
+    "name": "亞東甜不辣",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0397525,
+    "lng": 121.4997793,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13460439801",
+    "name": "金園排骨萬年店",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0435474,
+    "lng": 121.5058377,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13460443001",
+    "name": "貝玉天婦羅",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0435049,
+    "lng": 121.5058582,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13476587880",
+    "name": "凪Nagi 拉麵",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: ramen",
+    "address": "台北市萬華區",
+    "lat": 25.0439578,
+    "lng": 121.507287,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13476587881",
+    "name": "珍珠之王",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市萬華區",
+    "lat": 25.0438737,
+    "lng": 121.5082033,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13494982504",
+    "name": "可能存在的遊樂園",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區武昌街二段83之6",
+    "lat": 25.0454618,
+    "lng": 121.505274,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13535699401",
+    "name": "店小二",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0434222,
+    "lng": 121.5059965,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13551037101",
+    "name": "木咖 Horoka",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0392595,
+    "lng": 121.5048167,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13608660037",
+    "name": "永和豆漿大王",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: taiwanese;breakfast",
+    "address": "台北市萬華區",
+    "lat": 25.045437,
+    "lng": 121.507437,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13608802737",
+    "name": "妳有咖啡 neo cafe",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: western;coffee_shop",
+    "address": "台北市萬華區",
+    "lat": 25.0457077,
+    "lng": 121.5050495,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_13651445101",
+    "name": "有地咖啡",
+    "category": "food",
+    "description": "位於萬華區的cafe。OSM 標籤: cake;coffee_shop",
+    "address": "台北市萬華區開封街二段62",
+    "lat": 25.0464933,
+    "lng": 121.5068273,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_232326525",
+    "name": "萬國大樓",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區漢中街52",
+    "lat": 25.0438789,
+    "lng": 121.5070794,
+    "source": "OSM_萬華區"
+  },
+  {
+    "id": "osm_1156883544",
+    "name": "帕斯塔義麵所",
+    "category": "food",
+    "description": "位於萬華區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市萬華區",
+    "lat": 25.0441539,
+    "lng": 121.5084208,
+    "source": "OSM_萬華區"
+  }
+]

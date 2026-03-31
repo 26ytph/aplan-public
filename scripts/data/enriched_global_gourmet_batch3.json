@@ -1,0 +1,19 @@
+[
+  { "name": "春上布丁蛋糕 (台北車站店)", "category": "food", "description": "台北車站大廳最受歡迎的伴手禮。純粹的古早味布丁蛋糕，口感蓬鬆、蛋香濃郁。來到交通樞紐必帶的高品質在地甜點。", "address": "台北市中正區北平西路3號", "lat": 25.0478, "lng": 121.5173, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "福林飯糰 (信義官邸)", "category": "food", "description": "隱身信義區的高等級傳統飯糰。以特選Q彈秈米與老字號油條聞名，代表了台北高質感民生早餐的究極選擇，絕非普通便利商店飯糰可比。", "address": "台北市信義區松德路", "lat": 25.0345, "lng": 121.5755, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "小茗堂 MING TEA (中山南西店)", "category": "food", "description": "捷運中山站旁的時尚茶飲地標。主打嚴選台灣原片茶葉與精緻調飲，空間充滿都會美學，是代表南西商圈時尚氣息的高質感手搖飲選物店。", "address": "台北市中山區南京西路", "lat": 25.0528, "lng": 121.5215, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "再發號 肉粽 (台北分店)", "category": "food", "description": "傳承百年的台南粽王。在台北也能吃到最紮實、充滿道地南台灣風情的巨無霸肉粽，是追求傳統節慶美食與飽足感的最佳名店。", "address": "台北市大安區", "lat": 25.0330, "lng": 121.5435, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "富霸王豬腳 (松江南京)", "category": "food", "description": "全台北公認最強的豬腳飯。滷得透亮、入口即化，限量供應的腿扣肉是名副其實的「神級庶民美食」，吸引無數在地人與國外饕客慕名而來。", "address": "台北市中山區南京東路二段115巷20號", "lat": 25.0494, "lng": 121.5335, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "陳三鼎 黑糖青蛙鮮奶 (公館老店)", "category": "food", "description": "公館夜市的黑糖珍珠祖師爺。手工熬煮的焦香黑糖珍珠搭配優質鮮乳，代表了台北大學城文化中最令人懷念的一種濃郁滋味。", "address": "台北市中正區羅斯福路三段316巷8弄", "lat": 25.0155, "lng": 121.5323, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "藍家割包 (公館)", "category": "food", "description": "公館台大商圈的米其林必比登推薦。以客製化的肥瘦比例割包與鮮美的玉米排骨湯聞名，是來到捷運公館站巡禮時絕對不能錯過的高品質台灣特色小吃。", "address": "台北市中正區羅斯福路三段316巷8弄3號", "lat": 25.0156, "lng": 121.5325, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "阿川麵線 (雙連)", "category": "food", "description": "雙連捷運站旁的排隊麵線名店。料多實在、湯底鮮甜，深受在地居民喜愛。代表了台北城西地區最誠實、最充滿人情味的高品質早餐。", "address": "台北市大同區民生西路198-17號", "lat": 25.0558, "lng": 121.5165, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "嘉義郭家雞肉飯 (信義店)", "category": "food", "description": "源自嘉義文化路名店。在信義商圈也能享用到粒粒分明、雞油噴香的純粹美味，是該區除了大餐之外最頂尖且平價的日常美食首選。", "address": "台北市信義區", "lat": 25.0360, "lng": 121.5665, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "滿樂鐵板吐司 (善導寺)", "category": "food", "description": "全台北最具話題性的芋泥肉鬆吐司。以紮實的用料與酥脆的鐵板吐司口感，引發無數打卡熱潮，是代表台北當代創意早午餐文化的重要地標。", "address": "台北市中正區杭州南路一段69號", "lat": 25.0425, "lng": 121.5265, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "東發號 油飯麵線 (饒河)", "category": "food", "description": "饒河街夜市土地公廟旁的百年老店。不添加味精、純粹的清爽湯底與Q彈油飯，代表了饒河夜市中最具文化底細與傳承的高級小吃。", "address": "台北市松山區饒河街94號", "lat": 25.0507, "lng": 121.5785, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "佳德鳳梨酥 (Chia Te)", "category": "food", "description": "台北伴手禮界的排隊奇蹟。雖然只此一家，但其蔓越莓鳳梨酥與原味鳳梨酥是無數觀光客與在地人心目中、象徵台北送禮文化最高誠意的代表品項。", "address": "台北市松山區南京東路五段88號", "lat": 25.0518, "lng": 121.5615, "source": "ENRICHED_GLOBAL", "tier": 1 },
+  { "name": "宜蘭滷味 (武昌總店)", "category": "food", "description": "西門町最知名的乾式滷味。以獨家香料熬煮、冷食風味絕佳，是逛西門町電影街、尋求特色在地零嘴與特色高品質小吃的首選。", "address": "台北市萬華區武昌街", "lat": 25.0445, "lng": 121.5035, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "小田食光 (Field)", "category": "food", "description": "中山商圈極具設計感的地中海風格餐廳。以健康在地食材結合時尚空間，展現了台北都會生活中追求健康與高品質休閒餐飲的一面。", "address": "台北市中山區中山北路二段27巷3-3號", "lat": 25.0520, "lng": 121.5225, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "福圓號養生饅頭 (多處分店)", "category": "food", "description": "代表台北精緻養生早餐文化。多穀物、真材實料的紮實口感，是除了西式早餐外，最能支撐高品質台北晨間生活的健康選擇。", "address": "台北市大安區復興南路", "lat": 25.0385, "lng": 121.5435, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "好公道金雞園 (永康店)", "category": "food", "description": "隱身永康街的中式點心名店。米其林必比登推薦，提供高品質的小籠湯包、蘇式酥餅，相比商業化名店，這裡多了一份老台北的溫情與實在。", "address": "台北市大安區永康街28-1號", "lat": 25.0315, "lng": 121.5298, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "祥記橋頭客家純糖麻糬 (寧夏)", "category": "food", "description": "寧夏夜市的經典甜品。在純糖水中翻滾的碩大麻糬，撒上特製花生粉，甜而不膩。是傳統台式甜品中，兼具視覺饗宴與高品質口感的絕技。", "address": "台北市大同區寧夏路", "lat": 25.0556, "lng": 121.5152, "source": "ENRICHED_GLOBAL", "tier": 2 }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "阜杭豆漿 (Fu Hang Soy Milk)",
+    "category": "food",
+    "description": "台北最傳奇的米其林必比登推薦中式早餐店。以厚燒餅夾蛋、鹹豆漿與焦糖甜餅聞名。即使清晨五點開始排隊，其傳統炭火烘烤的香氣依然吸引無數饕客，是台北必吃的早餐指標。",
+    "address": "台北市中正區忠孝東路一段108號2樓",
+    "lat": 25.0442,
+    "lng": 121.5248,
+    "source": "ENRICHED_GOURMET"
+  },
+  {
+    "name": "真芳-碳烤吐司/紅茶牛奶 (民生店)",
+    "category": "food",
+    "description": "台北極具人氣的碳烤吐司專業店。主打傳統風味炭烤三明治、粉漿蛋餅與古早味紅茶牛奶，是捷運中山國中站附近享受高品質、溫暖手作早餐的首選。",
+    "address": "台北市中山區民生東路二段129號",
+    "lat": 25.0583,
+    "lng": 121.5323,
+    "source": "ENRICHED_GOURMET"
+  },
+  {
+    "name": "上引水產 (Addiction Aquatic Development)",
+    "category": "food",
+    "description": "台北最具規模的國際化水產主題商場。結合立吞壽司、炭道備長炭燒、海鮮火鍋與生鮮超市，提供最頂級且多樣化的日式料理與新鮮海產體驗，是觀光與美食的熱門勝地。",
+    "address": "台北市中山區民族東路410巷2弄18號",
+    "lat": 25.0667,
+    "lng": 121.5366,
+    "source": "ENRICHED_GOURMET"
+  },
+  {
+    "name": "肥前屋 (Hizen-ya)",
+    "category": "food",
+    "description": "中山區七條通內最富盛名的老牌日式鰻魚飯專賣店。以平實價格提供高品質的炭烤鰻魚飯、炸蝦天婦羅與各式日式小菜，即使平日也要排隊的指標性美味。",
+    "address": "台北市中山區中山北路一段121巷13號",
+    "lat": 25.0494,
+    "lng": 121.5222,
+    "source": "ENRICHED_GOURMET"
+  },
+  {
+    "name": "一蘭拉麵 台北本店 (ICHIRAN Ramen)",
+    "category": "food",
+    "description": "來自日本福岡的超人氣天然豚骨拉麵專門店。堅持24小時營業，讓您在清晨或深夜都能享受專業味集中座位與客製化的濃郁日式美味。",
+    "address": "台北市信義區松仁路97號",
+    "lat": 25.0345,
+    "lng": 121.5678,
+    "source": "ENRICHED_GOURMET"
+  },
+  {
+    "name": "二子山拉麵店 (Futago Ramen)",
+    "category": "food",
+    "description": "位於大安區建國花市與大安森林公園附近的老牌平價日式拉麵店。提供溫暖的日式豚骨湯頭與叉燒，是當地居民與花客在週末午後享受家常日式美味的好去處。",
+    "address": "台北市大安區建國南路二段151巷2號",
+    "lat": 25.0308,
+    "lng": 121.5366,
+    "source": "ENRICHED_GOURMET"
+  },
+  {
+    "name": "貳樓 Second Floor Cafe (仁愛店)",
+    "category": "food",
+    "description": "大安森林公園附近極具口碑的全天候美式早午餐店。環境舒適寧靜，主打豐富的班尼迪克蛋、歐姆蕾與巨無霸拼盤，非常適合週末早晨來此享受悠閒時光。",
+    "address": "台北市中正區仁愛路二段108號",
+    "lat": 25.0388,
+    "lng": 121.5323,
+    "source": "ENRICHED_GOURMET"
+  },
+  {
+    "name": "金峰魯肉飯 (Jin Feng Braised Pork Rice)",
+    "category": "food",
+    "description": "台北中正紀念堂附近最經典的小吃傳奇。名列必吃美食，招牌魯肉飯、肉焿湯與鼎邊趖是無數台北人的早午餐與消夜首選，提供最道地的台灣平民美味。",
+    "address": "台北市中正區羅斯福路一段10號",
+    "lat": 25.0326,
+    "lng": 121.5186,
+    "source": "ENRICHED_GOURMET"
+  },
+  {
+    "name": "Louisa Coffee 露易莎咖啡 (建國南路店)",
+    "category": "food",
+    "description": "位於建國花市與大安森林公園附近的精品連鎖咖啡廳。全天提供優質咖啡與精緻三明治、熱壓噴口吐司早餐，空間安靜開闊，是晨間規劃行程、享受悠閒早餐的最佳基地。",
+    "address": "台北市大安區建國南路二段131-2號",
+    "lat": 25.0315,
+    "lng": 121.5367,
+    "source": "ENRICHED_GOURMET"
+  },
+  {
+    "name": "五之神製作所 (Gonokami Seisakusho)",
+    "category": "food",
+    "description": "位於正義高中與大安區一帶的高品質日式拉麵。以濃郁的蝦湯底與創意日式料理聞名，是喜愛高端、特色日系風味饕客的私房口袋名單。",
+    "address": "台北市大安區忠孝東路四段170巷6弄13號",
+    "lat": 25.0416,
+    "lng": 121.5510,
+    "source": "ENRICHED_GOURMET"
+  },
+  {
+    "name": "瞞著爹 (Manjedad) 台北壽司本店",
+    "category": "food",
+    "description": "大安區微風廣場附近的頂級無菜單日式料理。主打全台最精準的高檔海味與壽司職人現場手作，從鮮甜的海膽到時令魚類，提供宛如置身東京的最高極致日式體驗。",
+    "address": "台北市大安區八德路二段346巷9弄17號",
+    "lat": 25.0478,
+    "lng": 121.5456,
+    "source": "ENRICHED_GOURMET"
+  },
+  {
+    "name": "鼎泰豐 信義本店 (Din Tai Fung)",
+    "category": "food",
+    "description": "信義區東門站旁的米其林一星台灣傳奇。以極致黃金摺數的小籠包聞名全球，雖然主打麵點，但其各類精緻小食與服務，是台北最高品質的餐飲代名詞。",
+    "address": "台北市大安區信義路二段194號",
+    "lat": 25.0334,
+    "lng": 121.5300,
+    "source": "ENRICHED_GOURMET"
+  },
+  {
+    "name": "大安森林食堂 (Daan Forest Park Shokudo)",
+    "category": "food",
+    "description": "位於大安森林公園正對面的日式自助食堂。原汁原味引進日式家庭餐廳模式，現點現做的玉子燒、關東煮與美味燒魚，讓您在城市綠地旁享受溫暖的日系早餐與午茶。",
+    "address": "台北市大安區信義路三段7號",
+    "lat": 25.0334,
+    "lng": 121.5342,
+    "source": "ENRICHED_GOURMET"
+  },
+  {
+    "name": "吉野家 (Yoshinoya) 建國店",
+    "category": "food",
+    "description": "建國南路上的日式丼飯元祖。全天候提供經典日式牛丼與朝派食早餐，是建國花市採買前補充體力、享受快速且保證品質的晨間日式風味首選。",
+    "address": "台北市大安區建國南路二段39號",
+    "lat": 25.0345,
+    "lng": 121.5369,
+    "source": "ENRICHED_GOURMET"
+  },
+  {
+    "name": "麵屋武藏 (Menya Musashi) 本店",
+    "category": "food",
+    "description": "中山區的日式拉麵名邸。以超大塊的角煮與濃郁魚介系湯頭聞名，每一口都充滿日系職人的究極堅持，是追求大份量與極致風味拉麵愛好者的聖地。",
+    "address": "台北市中山區中山北路一段121巷18號",
+    "lat": 25.0496,
+    "lng": 121.5222,
+    "source": "ENRICHED_GOURMET"
+  }
+]

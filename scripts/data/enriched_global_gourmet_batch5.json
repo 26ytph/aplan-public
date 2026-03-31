@@ -1,0 +1,16 @@
+[
+  { "name": "吳寶春麥方店 (信義旗艦店)", "category": "food", "description": "世界麵包冠軍。其「酒釀桂圓」與「荔枝玫瑰」是名聞遐邇的國際獎項作品，代表了台灣烘焙業的最高水準，也是信義商圈必帶的頂級伴手禮。", "address": "台北市信義區信義路五段124號", "lat": 25.0335, "lng": 121.5685, "source": "ENRICHED_GLOBAL", "tier": 1 },
+  { "name": "50嵐 (西門武昌店)", "category": "food", "description": "台灣手搖飲界的定海神針。雖然是連鎖店，但其「波霸奶茶」與精準比例代表了台北街道最穩定的高品質選擇，是遊客行旅途中的保險首選。", "address": "台北市萬華區武昌街二段", "lat": 25.0448, "lng": 121.5038, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "麻古茶坊 MACU (信義店)", "category": "food", "description": "主打果粒茶的潮流飲品。其「芝芝芒果」與「楊枝甘露」將台灣水果與現代奶蓋完美結合，是當代台北年輕族群與遊客最推薦的特色手搖飲。", "address": "台北市信義區", "lat": 25.0345, "lng": 121.5615, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "士林夜市-豪大大雞排", "category": "food", "description": "士林夜市最震撼視角的街頭小吃。比臉還大的炸雞排，外脆內多汁，代表了台北夜市文化在全球遊客心中最直接的「大份量」美味印象。", "address": "台北市士林區文林路113號", "lat": 25.0875, "lng": 121.5265, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "老龍牛肉麵 (圓山)", "category": "food", "description": "鄰近捷運圓山站與花博園區的高品質牛肉麵。提供厚切牛肉與濃郁清甜的湯頭，是參加大型活動或參觀美術館後的絕佳補給地標。", "address": "台北市大同區", "lat": 25.0715, "lng": 121.5215, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "豆花莊 (寧夏)", "category": "food", "description": "寧夏夜市最經典的豆花店。傳承數十年的手工鹽滷技術，搭配糖水冰沙與古早味配料。相比便利店的布丁，這代表了台北街頭甜品的高級感。", "address": "台北市大同區寧夏路49號", "lat": 25.0565, "lng": 121.5155, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "永和豆漿大王 (復興南路店)", "category": "food", "description": "台北24小時傳統早餐的聖地。燒餅、油條與豆漿的經典組合。對於國際旅客，這是體驗「台北不夜城」與「中式早點文化」的 Tier 2 必排站點。", "address": "台北市大安區復興南路二段102號", "lat": 25.0298, "lng": 121.5435, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "迷客夏 Milksha (多處分店)", "category": "food", "description": "主打「自產鮮乳」的高品質連鎖手搖。其大甲芋頭鮮奶採用真實芋頭壓製，是對於化學香料反感的高標準旅客、尋求天然健康飲品的首選。", "address": "台北市大安區忠孝東路", "lat": 25.0415, "lng": 121.5455, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "金仙魯肉飯 (松山總店)", "category": "food", "description": "松山區魯肉飯與蝦捲的王者。米質晶瑩、魚漿Q彈，是除了連鎖便當店外，對於「高品質台式簡餐」最完美的詮釋地點。", "address": "台北市松山區松山路", "lat": 25.0405, "lng": 121.5775, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "馬辣 頂級麻辣鴛鴦火鍋 (信義旗艦店)", "category": "food", "description": "信義商圈最強性價比吃到飽。除了頂級和牛，多樣化的哈根達斯、莫凡彼冰淇淋牆是其國際知名度的來源，對日韓觀光客極具魅力。", "address": "台北市信義區松壽路22號", "lat": 25.0358, "lng": 121.5675, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "佳芳豆花 (石牌)", "category": "food", "description": "石牌捷運站與榮總商圈的豆花地標。主打細滑口感與傳統配料，是行經淡水線、前往北投溫泉途中，享受在地特色小吃的高級選擇。", "address": "台北市北投區石牌路", "lat": 25.1155, "lng": 121.5155, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "阿全師 羊肉爐 (中山店)", "category": "food", "description": "中山區寒冬暖心的代表。高品質羊排與特製紅燒湯底，是除了西餐廳外，體驗台北在地「補冬文化」與多人聚餐的最佳名店。", "address": "台北市中山區", "lat": 25.0555, "lng": 121.5285, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "VOGELSANG 佛格森麵包 (公館)", "category": "food", "description": "台北大學城師生推薦的歐式麵包領導者。主打天然酵母與紮實歐式口感，是代表台北高品質、健康民生餐飲文化的重要環節。", "address": "台北市中正區羅斯福路", "lat": 25.0165, "lng": 121.5315, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "福圓號 養生饅頭 (大安)", "category": "food", "description": "手作養生饅頭第一品牌。多層次口感與真材實料。對於行旅中需要簡單、健康且高品質代餐的旅客，它是比普通三明治更好的選擇。", "address": "台北市大安區", "lat": 25.0335, "lng": 121.5455, "source": "ENRICHED_GLOBAL", "tier": 3 }
+]

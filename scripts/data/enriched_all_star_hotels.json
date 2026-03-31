@@ -1,0 +1,146 @@
+[
+  {
+    "name": "台北萬豪酒店 (Taipei Marriott Hotel)",
+    "category": "hotel",
+    "description": "位於大直的國際級頂級五星豪華酒店。擁有壯麗的基隆河景觀與超大無柱宴會廳，緊鄰美麗華商圈，提供極致奢華的住宿與渡假體驗。",
+    "address": "台北市中山區樂群二路199號",
+    "lat": 25.0815,
+    "lng": 121.5599,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北美福大飯店 (Grand Mayfull Hotel Taipei)",
+    "category": "hotel",
+    "description": "大直區著名的頂級奢華五星級飯店。以無與倫比的高端餐飲與古典優雅裝潢聞名，提供最極致的尊榮住宿與豪華Buffet體驗。",
+    "address": "台北市中山區樂群二路55號",
+    "lat": 25.0811,
+    "lng": 121.5547,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北文華東方酒店 (Mandarin Oriental Taipei)",
+    "category": "hotel",
+    "description": "台北市內最高級的奢華五星級國際連鎖酒店。以瑰麗的歐式建築設計與米其林星級餐廳聞名，是全球政商名流與名人訪台的頂級住宿首選。",
+    "address": "台北市松山區敦化北路158號",
+    "lat": 25.0545,
+    "lng": 121.5492,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北圓山大飯店 (The Grand Hotel)",
+    "category": "hotel",
+    "description": "台北最具歷史意義的地標級五星級飯店。宮殿式的華麗中國風建築矗立於劍潭山上，提供極具東方古典氣息的奢華住宿與密道探險。",
+    "address": "台北市中山區中山北路四段1號",
+    "lat": 25.0782,
+    "lng": 121.5262,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北寒舍艾美酒店 (Le Méridien Taipei)",
+    "category": "hotel",
+    "description": "萬豪集團旗下的國際頂級五星連鎖飯店。坐落於信義區繁華地段，將當代藝術完美融入奢華住宿空間，是一流的時尚精品酒店。",
+    "address": "台北市信義區松仁路38號",
+    "lat": 25.0384,
+    "lng": 121.5678,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "寒居酒店 (Humble Boutique Hotel)",
+    "category": "hotel",
+    "description": "位於松江南京捷運站旁的頂級精品飯店。寒舍集團傾力打造，以現代奢華的「愛馬仕御用設計團隊」操刀，提供極致質感的城市度假體驗。",
+    "address": "台北市中山區松江路116號",
+    "lat": 25.0528,
+    "lng": 121.5332,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北遠東香格里拉大飯店 (Shangri-La's Far Eastern Plaza Hotel)",
+    "category": "hotel",
+    "description": "敦南商圈的國際老字號五星級連鎖豪華大飯店。擁有頂樓景觀溫水泳池與俯瞰台北101的絕佳高空視野，提供極致尊榮的優雅住宿。",
+    "address": "台北市大安區敦化南路二段201號",
+    "lat": 25.0264,
+    "lng": 121.5489,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北大倉久和大飯店 (The Okura Prestige Taipei)",
+    "category": "hotel",
+    "description": "中山商圈極具代表性的日系頂級五星級連鎖飯店。融合日本細膩的款待服務與深厚美學，是體驗極致日式奢華與高級鐵板燒的住宿名邸。",
+    "address": "台北市中山區南京東路一段9號",
+    "lat": 25.0526,
+    "lng": 121.5230,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北國泰萬怡酒店 (Courtyard by Marriott Taipei Downtown)",
+    "category": "hotel",
+    "description": "萬豪集團直營的市區國際級四星/五星級飯店。擁有絕佳高空景觀與露天酒吧，提供商務與休閒旅客最現代舒適的國際連鎖住宿水準。",
+    "address": "台北市中山區民生東路三段6號",
+    "lat": 25.0583,
+    "lng": 121.5350,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北六福萬怡酒店 (Courtyard by Marriott Taipei)",
+    "category": "hotel",
+    "description": "萬豪集團(Marriott)旗下的國際五星級飯店。與南港車站及CITYLINK購物中心共構，擁有極佳的四鐵共構交通優勢與頂級住宿體驗。",
+    "address": "台北市南港區忠孝東路七段359號",
+    "lat": 25.0526,
+    "lng": 121.6068,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "慕軒飯店 (Madison Taipei Hotel)",
+    "category": "hotel",
+    "description": "位在敦南綠蔭大道上的隱密奢華精品飯店。以低調內斂的紳士風格與威士忌酒吧聞名，連續多年獲得國際頂級精品酒店推薦肯定。",
+    "address": "台北市大安區敦化南路一段331號",
+    "lat": 25.0348,
+    "lng": 121.5486,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "日勝生加賀屋國際溫泉飯店 (Radium Kagaya International Hotel)",
+    "category": "hotel",
+    "description": "位於北投的頂級國際五星級溫泉度假飯店。由日本百年名旅館加賀屋唯一海外分館，提供最具日本皇室等級的管家服務與極致奢華溫泉體驗。",
+    "address": "台北市北投區光明路236號",
+    "lat": 25.1370,
+    "lng": 121.5036,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "JR東日本大飯店 台北 (Hotel Metropolitan Premier Taipei)",
+    "category": "hotel",
+    "description": "前身為威斯汀六福皇宮，現由日本JR東日本集團接手打造的尊榮五星旅館。結合日系沉穩優雅的頂級服務與豐富多樣的高級特色餐廳。",
+    "address": "台北市中山區南京東路三段133號",
+    "lat": 25.0521,
+    "lng": 121.5412,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北凱撒大飯店 (Caesar Park Hotel Taipei)",
+    "category": "hotel",
+    "description": "這是一間位於台北車站正對面，擁有極深厚歷史的國際級五星級大飯店（前身為國際知名的台北希爾頓大飯店）。位處交通樞紐，結合購物商圈，提供極為便利且具備五星級水準的經典住宿服務。",
+    "address": "台北市中正區忠孝西路一段38號",
+    "lat": 25.0461,
+    "lng": 121.5164,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北福華大飯店 (The Howard Plaza Hotel Taipei)",
+    "category": "hotel",
+    "description": "大安區經典的老字號五星級名門飯店。為台灣本土經營的豪華飯店指標，擁有紅木傢俱與眾多知名餐廳，是長輩與海內外華人最推崇的精緻住宿。",
+    "address": "台北市大安區仁愛路三段160號",
+    "lat": 25.0381,
+    "lng": 121.5415,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北老爺大酒店 (Hotel Royal-Nikko Taipei)",
+    "category": "hotel",
+    "description": "中山北路上的日航酒店集團(Nikko Hotels)成員。擁有濃厚的日系國際五星級飯店水準，以純白典雅的精緻管理與美味的烘焙名產聞名。",
+    "address": "台北市中山區中山北路二段37之1號",
+    "lat": 25.0531,
+    "lng": 121.5238,
+    "source": "ENRICHED_PREMIUM"
+  }
+]

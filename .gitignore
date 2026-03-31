@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# System files
+.DS_Store
+
+# Databases
+test.db
+*.sqlite
+
+# AI Agent logs (except journeys)
+.gemini/
+
+# IDE
+.idea/
+.vscode/
+uvicorn*.log
+*.db
+backups/

@@ -1,0 +1,4602 @@
+[
+  {
+    "id": "osm_868325300",
+    "name": "樂雅樂",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese;italian;french",
+    "address": "台北市南港區",
+    "lat": 25.0571098,
+    "lng": 121.6158849,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_871368441",
+    "name": "黝皓嘎逼 有好咖啡",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區南港路一段153",
+    "lat": 25.0550853,
+    "lng": 121.6135685,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_906718322",
+    "name": "Vegetarian Buffet",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0554901,
+    "lng": 121.6138715,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_1720282435",
+    "name": "星巴克",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區",
+    "lat": 25.0580903,
+    "lng": 121.6131236,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_1720282437",
+    "name": "星巴克",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區",
+    "lat": 25.0572563,
+    "lng": 121.6119437,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2083458281",
+    "name": "小植茁植物料理",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區研究院路二段39-9",
+    "lat": 25.0449402,
+    "lng": 121.6158243,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2083470248",
+    "name": "鎮興燒臘",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: cantonese",
+    "address": "台北市南港區研究院路一段106",
+    "lat": 25.0524142,
+    "lng": 121.6160534,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2084130005",
+    "name": "台南虱目魚",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市南港區",
+    "lat": 25.0549952,
+    "lng": 121.6142043,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2084130006",
+    "name": "好康南洋咖哩",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: asian",
+    "address": "台北市南港區",
+    "lat": 25.0549985,
+    "lng": 121.6143403,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2086050791",
+    "name": "新鮮大堡堡",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: burger",
+    "address": "台北市南港區研究院路三段157-2",
+    "lat": 25.033878,
+    "lng": 121.613527,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2086704511",
+    "name": "老張燒餅",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0529333,
+    "lng": 121.6155291,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2086896087",
+    "name": "魷魚羹",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0421232,
+    "lng": 121.6179461,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2181170720",
+    "name": "麥味登",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: american;breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0520194,
+    "lng": 121.6171632,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2287856718",
+    "name": "AWESOME PASTA歐森義式餐飲",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: spanish",
+    "address": "台北市南港區忠孝東路七段637",
+    "lat": 25.053307,
+    "lng": 121.6160987,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2287899400",
+    "name": "海角47號熱炒99",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區研究院路一段47",
+    "lat": 25.0533582,
+    "lng": 121.6165228,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2604138862",
+    "name": "好了啦超大杯",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0507263,
+    "lng": 121.593676,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2616881413",
+    "name": "北平為福樓",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區忠孝東路五段996",
+    "lat": 25.0449577,
+    "lng": 121.5827128,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2619650805",
+    "name": "滿客牛肉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區",
+    "lat": 25.0451211,
+    "lng": 121.5863297,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2642374328",
+    "name": "餡老滿",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區",
+    "lat": 25.0573347,
+    "lng": 121.6163568,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2642374337",
+    "name": "烤鴨",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區",
+    "lat": 25.0551332,
+    "lng": 121.615217,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2642374345",
+    "name": "赤坎牛肉",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區",
+    "lat": 25.05416,
+    "lng": 121.5925712,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2653064541",
+    "name": "MADO",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: turkish;ice_cream",
+    "address": "台北市南港區",
+    "lat": 25.0582155,
+    "lng": 121.6131331,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2756599331",
+    "name": "連成素食店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區昆陽街155",
+    "lat": 25.0498758,
+    "lng": 121.5943102,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2899366913",
+    "name": "濎駿硿肉飯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區研究院路一段26",
+    "lat": 25.0540163,
+    "lng": 121.6168124,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2899366916",
+    "name": "池上木片便當",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.052667,
+    "lng": 121.6160457,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2899366917",
+    "name": "發爺臭臭鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0526154,
+    "lng": 121.6160376,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2899366918",
+    "name": "台灣傳奇小吃",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0524244,
+    "lng": 121.61633,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2899366919",
+    "name": "85度C",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區",
+    "lat": 25.052039,
+    "lng": 121.6159353,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2899366920",
+    "name": "全盛肉粽便當",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0513898,
+    "lng": 121.6156615,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2899366922",
+    "name": "快炒屋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0519017,
+    "lng": 121.6168262,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2899366923",
+    "name": "合發米粉湯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0521315,
+    "lng": 121.6170461,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_2974441540",
+    "name": "宜品素食",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區昆陽街104",
+    "lat": 25.051482,
+    "lng": 121.5935222,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3001670215",
+    "name": "高樂鐵板燒",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區",
+    "lat": 25.0573955,
+    "lng": 121.6155978,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3019724712",
+    "name": "沙拉船Bar",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區忠孝東路七段598",
+    "lat": 25.0529257,
+    "lng": 121.6154291,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3022591204",
+    "name": "佛跳牆",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區",
+    "lat": 25.0513116,
+    "lng": 121.6156476,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3022591205",
+    "name": "武侍酒日式居酒屋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區南港路一段111",
+    "lat": 25.0550251,
+    "lng": 121.6144648,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3185537674",
+    "name": "興波咖啡",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市南港區經貿二路1",
+    "lat": 25.0568191,
+    "lng": 121.6174024,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3275559061",
+    "name": "磚窯古早味懷舊餐廳",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市南港區松河街318",
+    "lat": 25.052876,
+    "lng": 121.583694,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3579686693",
+    "name": "四海遊龍",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: dumplings",
+    "address": "台北市南港區",
+    "lat": 25.0391846,
+    "lng": 121.6216437,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3678904016",
+    "name": "鬍鬚張",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市南港區",
+    "lat": 25.0455189,
+    "lng": 121.580893,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3699875581",
+    "name": "北雲燒臘",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區研究院路二段39之2",
+    "lat": 25.0451645,
+    "lng": 121.6157034,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3699875582",
+    "name": "村笠自助餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區研究院路二段45",
+    "lat": 25.0447457,
+    "lng": 121.6159385,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3699875993",
+    "name": "義猶未盡藝大利麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0453557,
+    "lng": 121.6151685,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3699875994",
+    "name": "老家牛肉麵店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市南港區研究院路二段47",
+    "lat": 25.0446528,
+    "lng": 121.6160001,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3699875995",
+    "name": "賣三頓日式蓋飯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區研究院路二段43",
+    "lat": 25.0448208,
+    "lng": 121.6159135,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3699875996",
+    "name": "錢都日式鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區研究院路二段57",
+    "lat": 25.0444354,
+    "lng": 121.6161336,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3699875997",
+    "name": "香味自助餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區研究院路二段51",
+    "lat": 25.0445372,
+    "lng": 121.6160602,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3699944611",
+    "name": "中研院餐廳",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0408249,
+    "lng": 121.6127014,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3750119961",
+    "name": "昆陽牛肉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區昆陽街140巷5",
+    "lat": 25.0498576,
+    "lng": 121.5940309,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3784279187",
+    "name": "葉家涼麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區",
+    "lat": 25.0540989,
+    "lng": 121.6162629,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3834502671",
+    "name": "滷肉飯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: asian",
+    "address": "台北市南港區",
+    "lat": 25.04193,
+    "lng": 121.6176158,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3834508459",
+    "name": "後壁牛牛肉麵館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區",
+    "lat": 25.0554791,
+    "lng": 121.605988,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_3872432780",
+    "name": "帝王食補",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區忠孝東路七段633",
+    "lat": 25.0533312,
+    "lng": 121.6160079,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4034043013",
+    "name": "一肚子火（日式串燒）",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區",
+    "lat": 25.054173,
+    "lng": 121.6156124,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4114407189",
+    "name": "星巴克",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0528405,
+    "lng": 121.6074834,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4128012541",
+    "name": "念戀日式小館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區新明街81",
+    "lat": 25.0556117,
+    "lng": 121.6109954,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4138731287",
+    "name": "劉家牛肉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區",
+    "lat": 25.0389363,
+    "lng": 121.6219856,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4273014392",
+    "name": "傳說水煎包",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0546827,
+    "lng": 121.6140303,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4347354691",
+    "name": "1010湘",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區",
+    "lat": 25.0584095,
+    "lng": 121.615012,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4347356990",
+    "name": "非常泰概念餐坊",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: thai",
+    "address": "台北市南港區",
+    "lat": 25.0584556,
+    "lng": 121.6145902,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4359025063",
+    "name": "鬍鬚張魯肉飯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: regional",
+    "address": "台北市南港區忠孝東路六段422",
+    "lat": 25.0500605,
+    "lng": 121.5932258,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4359025064",
+    "name": "金春發牛肉店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: regional",
+    "address": "台北市南港區忠孝東路六段372",
+    "lat": 25.0497216,
+    "lng": 121.5917977,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4359025065",
+    "name": "三媽臭臭鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市南港區忠孝東路六段382",
+    "lat": 25.0497806,
+    "lng": 121.5920555,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4359025066",
+    "name": "霸味薑母鴨",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: regional",
+    "address": "台北市南港區忠孝東路六段310",
+    "lat": 25.0493141,
+    "lng": 121.5902,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4359025067",
+    "name": "良美鵝肉專家",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: regional",
+    "address": "台北市南港區忠孝東路六段294",
+    "lat": 25.0492481,
+    "lng": 121.5897172,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4374084080",
+    "name": "真茶自慢",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: teahouse",
+    "address": "台北市南港區忠孝東路六段428巷3",
+    "lat": 25.0499709,
+    "lng": 121.593478,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4524863603",
+    "name": "50嵐",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區",
+    "lat": 25.055483,
+    "lng": 121.6136121,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4716438598",
+    "name": "50嵐",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區忠孝東路六段452",
+    "lat": 25.0503053,
+    "lng": 121.5941972,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4716462793",
+    "name": "大呼過癮(昆陽店)",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市南港區昆陽街91",
+    "lat": 25.0516121,
+    "lng": 121.5936786,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_4762059827",
+    "name": "衛福小棧",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0497665,
+    "lng": 121.5955265,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5110348524",
+    "name": "肉普普",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0483044,
+    "lng": 121.5802748,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5110348525",
+    "name": "大埔平價鐵板燒",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: teppanyaki",
+    "address": "台北市南港區",
+    "lat": 25.0481293,
+    "lng": 121.5803264,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5110348536",
+    "name": "五分埔生魚片",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.045806,
+    "lng": 121.5808739,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5110348812",
+    "name": "潮肉",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區永吉路542",
+    "lat": 25.0451555,
+    "lng": 121.5815117,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5149019983",
+    "name": "PappaRich",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: malaysian",
+    "address": "台北市南港區經貿二路106",
+    "lat": 25.0583531,
+    "lng": 121.6156819,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5149019984",
+    "name": "欣葉",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese;taiwanese",
+    "address": "台北市南港區",
+    "lat": 25.0583269,
+    "lng": 121.6160885,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5211079624",
+    "name": "雲泰萊風味館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: thai",
+    "address": "台北市南港區新民街57",
+    "lat": 25.0556827,
+    "lng": 121.6115503,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5214807025",
+    "name": "歡樂牛排",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: steak_house",
+    "address": "台北市南港區南港路一段170",
+    "lat": 25.0551928,
+    "lng": 121.6110692,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5436665720",
+    "name": "九湯屋日本拉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: ramen",
+    "address": "台北市南港區興華路30巷2",
+    "lat": 25.0548923,
+    "lng": 121.6057586,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5552728615",
+    "name": "50嵐",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區",
+    "lat": 25.0440228,
+    "lng": 121.5822978,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542401",
+    "name": "西螺飯包",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0547494,
+    "lng": 121.6100107,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542402",
+    "name": "蓁好呷精緻早午餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0548232,
+    "lng": 121.6103239,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542403",
+    "name": "特美味盒餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0556423,
+    "lng": 121.6113308,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542404",
+    "name": "佬嘜私廚1店燒臘館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0556215,
+    "lng": 121.6112635,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542405",
+    "name": "斐僑素食",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0556391,
+    "lng": 121.6111574,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542406",
+    "name": "金仙蝦捲飯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0555253,
+    "lng": 121.610669,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542407",
+    "name": "101小飯廳",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0555125,
+    "lng": 121.610423,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542408",
+    "name": "鹿鼎鹿肉火鍋快炒",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市南港區",
+    "lat": 25.0555253,
+    "lng": 121.6106176,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542409",
+    "name": "船屋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區",
+    "lat": 25.0556664,
+    "lng": 121.6114387,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542410",
+    "name": "琪林食堂",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0557481,
+    "lng": 121.6116829,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542411",
+    "name": "新民街快炒",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0559573,
+    "lng": 121.6117939,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542412",
+    "name": "ㄔˇ 留香湯包專賣店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0560831,
+    "lng": 121.6116503,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542413",
+    "name": "兩相宜早餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0558606,
+    "lng": 121.6114362,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542414",
+    "name": "大帥素食館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0557964,
+    "lng": 121.6110372,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542415",
+    "name": "KK手工窯烤披薩",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0559569,
+    "lng": 121.6121849,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542416",
+    "name": "魁拉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: ramen",
+    "address": "台北市南港區",
+    "lat": 25.0551321,
+    "lng": 121.6121417,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542417",
+    "name": "大南港永和豆漿",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0551921,
+    "lng": 121.6124945,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542418",
+    "name": "山東水餃",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.054388,
+    "lng": 121.6123189,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542419",
+    "name": "珍珍牛肉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市南港區",
+    "lat": 25.0550606,
+    "lng": 121.6125128,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564542420",
+    "name": "跑路麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0551962,
+    "lng": 121.6127551,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564549022",
+    "name": "山東餃子館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: dumpling",
+    "address": "台北市南港區",
+    "lat": 25.0528367,
+    "lng": 121.6172495,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564549023",
+    "name": "水晶魯肉飯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0532673,
+    "lng": 121.6155663,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564549025",
+    "name": "Mian Jee's Indian & Pakistani Food",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0541616,
+    "lng": 121.6153787,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564549026",
+    "name": "小南港-懶人私廚",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0549966,
+    "lng": 121.6151807,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564549027",
+    "name": "川楓酒食館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0548569,
+    "lng": 121.6152021,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564549028",
+    "name": "PASTi TRATTORIA",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0546503,
+    "lng": 121.61517,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564549030",
+    "name": "阿西麵店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0551618,
+    "lng": 121.6153443,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564549031",
+    "name": "享味素食漢堡",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0541486,
+    "lng": 121.6154972,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564549032",
+    "name": "Messe Bistro 魅色時尚",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0561142,
+    "lng": 121.617282,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564549033",
+    "name": "丈母娘(阿員の)咖哩飯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: curry",
+    "address": "台北市南港區",
+    "lat": 25.0551462,
+    "lng": 121.613096,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564549034",
+    "name": "老吳攤",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0551867,
+    "lng": 121.613086,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564549036",
+    "name": "蚵仔煎",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0550319,
+    "lng": 121.6130973,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564549037",
+    "name": "如水食堂",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0538394,
+    "lng": 121.6172359,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5564549038",
+    "name": "Fumo義式餐坊",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0550415,
+    "lng": 121.6197824,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5568604931",
+    "name": "大苑子",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區",
+    "lat": 25.0440015,
+    "lng": 121.5823395,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5591399608",
+    "name": "夢幻幾何休閒餐飲",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0448418,
+    "lng": 121.5815027,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5591399612",
+    "name": "京華樓",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0446245,
+    "lng": 121.5817548,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5591399613",
+    "name": "常旺熱炒",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0445637,
+    "lng": 121.5818137,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5591399614",
+    "name": "錢都涮涮鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市南港區",
+    "lat": 25.0445913,
+    "lng": 121.5819824,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5591399615",
+    "name": "喜園涮涮鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區",
+    "lat": 25.0446521,
+    "lng": 121.5820333,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5591399619",
+    "name": "T&T Coffee",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0451567,
+    "lng": 121.5815759,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5591399620",
+    "name": "必勝客",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: pizza",
+    "address": "台北市南港區",
+    "lat": 25.0451548,
+    "lng": 121.5814458,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5712940240",
+    "name": "永吉涼麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: noodle",
+    "address": "台北市南港區",
+    "lat": 25.0449891,
+    "lng": 121.5838212,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5733249172",
+    "name": "大戸屋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.052411,
+    "lng": 121.6047082,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_5800963053",
+    "name": "老家牛肉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese;noodles;asian",
+    "address": "台北市南港區研究院路二段136",
+    "lat": 25.0387727,
+    "lng": 121.6170984,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6212372885",
+    "name": "涮嘴百元火鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: regional",
+    "address": "台北市南港區忠孝東路六段380",
+    "lat": 25.049769,
+    "lng": 121.5919907,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6440886047",
+    "name": "川．椒好運",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0559857,
+    "lng": 121.61652,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6440886048",
+    "name": "呷七碗",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0560926,
+    "lng": 121.6165414,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6440886051",
+    "name": "炸雞大師",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0563817,
+    "lng": 121.6165522,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6440886052",
+    "name": "川．椒好運",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0556941,
+    "lng": 121.61641,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6440886053",
+    "name": "雅悅會館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0557257,
+    "lng": 121.6161632,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6580997585",
+    "name": "嘖咖啡",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市南港區南港路二段135",
+    "lat": 25.05422,
+    "lng": 121.596379,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6805098953",
+    "name": "火鍋世家",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市南港區",
+    "lat": 25.05501,
+    "lng": 121.6065176,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6805098954",
+    "name": "食讚牛肉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市南港區",
+    "lat": 25.0551703,
+    "lng": 121.6072272,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6805098955",
+    "name": "萬佳鄉",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0554669,
+    "lng": 121.6071316,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6805098956",
+    "name": "S&D",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0551366,
+    "lng": 121.6072113,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6805098957",
+    "name": "來一客早餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0556897,
+    "lng": 121.6070962,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6805098959",
+    "name": "阿翠越南美食",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0559943,
+    "lng": 121.6067158,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6805098960",
+    "name": "美の美",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0560504,
+    "lng": 121.6069812,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6805098961",
+    "name": "蘇記小吃店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.055951,
+    "lng": 121.60653,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6805098962",
+    "name": "麥味登",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: american;breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0559366,
+    "lng": 121.6063583,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6805098963",
+    "name": "第一肉羹",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0558885,
+    "lng": 121.6061194,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6884086961",
+    "name": "小木屋鬆餅",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: waffle;tea",
+    "address": "台北市南港區興華路8",
+    "lat": 25.0545701,
+    "lng": 121.6060109,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6884086962",
+    "name": "lógos Coffee",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0549556,
+    "lng": 121.616406,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_6899388189",
+    "name": "家裡共享時光",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市南港區成福路178巷6-1",
+    "lat": 25.0415805,
+    "lng": 121.5874669,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7004305905",
+    "name": "22:02火鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0526273,
+    "lng": 121.6047261,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7004305908",
+    "name": "甩尾卡丁車主題式餐廳",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0532181,
+    "lng": 121.60835,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7106020086",
+    "name": "Tea沃克",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區南港路二段20巷6",
+    "lat": 25.054235,
+    "lng": 121.6051112,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215732",
+    "name": "鮮堡漢堡",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0514054,
+    "lng": 121.5935584,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215733",
+    "name": "珍饌涼麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0515224,
+    "lng": 121.5935555,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215734",
+    "name": "玖玖美食館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0514638,
+    "lng": 121.5935855,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215735",
+    "name": "印度風咖哩黃",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: curry",
+    "address": "台北市南港區",
+    "lat": 25.0516375,
+    "lng": 121.5934889,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215736",
+    "name": "鬼匠拉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: ramen",
+    "address": "台北市南港區",
+    "lat": 25.0520453,
+    "lng": 121.5935628,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215737",
+    "name": "健安雞肉飯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0518864,
+    "lng": 121.5936567,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215739",
+    "name": "好捲早午餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0522581,
+    "lng": 121.5934353,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215740",
+    "name": "昆陽豆漿店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0523521,
+    "lng": 121.5934185,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215741",
+    "name": "南港臺灣真有味鹽酥雞",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0524071,
+    "lng": 121.5933935,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215742",
+    "name": "12點食分",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0524472,
+    "lng": 121.5932512,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215743",
+    "name": "找諶 Chen’s Brunch",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0526599,
+    "lng": 121.5928314,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215745",
+    "name": "粗飽早午餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0533535,
+    "lng": 121.5927523,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215746",
+    "name": "日日香美食屋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0537668,
+    "lng": 121.5926082,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215747",
+    "name": "秘密基地",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0536343,
+    "lng": 121.5923599,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215748",
+    "name": "大尾雞排",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0540035,
+    "lng": 121.5924199,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215749",
+    "name": "三商巧福",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市南港區",
+    "lat": 25.0540084,
+    "lng": 121.5921009,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215750",
+    "name": "文吉池上便當",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0537993,
+    "lng": 121.5914034,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215751",
+    "name": "魯肉飯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0537383,
+    "lng": 121.5913373,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215752",
+    "name": "傑克漢堡",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0537951,
+    "lng": 121.591335,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215753",
+    "name": "香港頂品燒臘店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0539916,
+    "lng": 121.5912212,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215754",
+    "name": "越南之家",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0546774,
+    "lng": 121.5922478,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215755",
+    "name": "京板元氣咖哩",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: curry",
+    "address": "台北市南港區",
+    "lat": 25.0546694,
+    "lng": 121.5924463,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215756",
+    "name": "二師兄精緻早餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.054414,
+    "lng": 121.5925717,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215758",
+    "name": "That's all",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0553261,
+    "lng": 121.5929162,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215759",
+    "name": "味珍香異國風味小棧",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.053468,
+    "lng": 121.5881402,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215760",
+    "name": "田園日本料理",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區",
+    "lat": 25.05075,
+    "lng": 121.5829033,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215761",
+    "name": "熊男燒鳥",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0500831,
+    "lng": 121.5832299,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215762",
+    "name": "阿水豆漿店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0509845,
+    "lng": 121.5816596,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215763",
+    "name": "玉成包子店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0509366,
+    "lng": 121.5817202,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215764",
+    "name": "好吃快煮店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0508955,
+    "lng": 121.5817739,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215765",
+    "name": "宜蘭正常鮮肉小籠湯包",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0507264,
+    "lng": 121.5815788,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215766",
+    "name": "徐大娘私房菜",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0506039,
+    "lng": 121.581604,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215767",
+    "name": "吃老闆ㄦ",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0503381,
+    "lng": 121.5812902,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215768",
+    "name": "京棧便當店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0511437,
+    "lng": 121.5811,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215769",
+    "name": "羊肉羹店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0510279,
+    "lng": 121.5810488,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215770",
+    "name": "麵店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0513326,
+    "lng": 121.5814112,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215771",
+    "name": "米香棧池上便當",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0488022,
+    "lng": 121.5813742,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215772",
+    "name": "桃源街川味牛肉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: noodle",
+    "address": "台北市南港區",
+    "lat": 25.0485769,
+    "lng": 121.5813813,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215773",
+    "name": "真味肉圓",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0484162,
+    "lng": 121.5813489,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215774",
+    "name": "竹村居酒屋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0473163,
+    "lng": 121.580842,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215775",
+    "name": "牛排",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: steak_house",
+    "address": "台北市南港區",
+    "lat": 25.047266,
+    "lng": 121.580857,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7170215776",
+    "name": "五分埔鄉味蚵嗲",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0466613,
+    "lng": 121.5808627,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194693218",
+    "name": "三合鐵板燒",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: teppanyaki",
+    "address": "台北市南港區",
+    "lat": 25.0415141,
+    "lng": 121.6183555,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194693234",
+    "name": "小叮噹早餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0541886,
+    "lng": 121.6163126,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194693239",
+    "name": "海角47號旗艦店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0539217,
+    "lng": 121.6166035,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194693245",
+    "name": "日月潭紅茶 肉蛋吐司",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0467408,
+    "lng": 121.6154863,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194693256",
+    "name": "阿春鵝肉",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0474591,
+    "lng": 121.6157781,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194693262",
+    "name": "客家人麵攤",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0420669,
+    "lng": 121.6177442,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194693268",
+    "name": "楊廚",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0458144,
+    "lng": 121.6175429,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194693274",
+    "name": "那瑪思迭印度料理",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0425802,
+    "lng": 121.6185844,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194693282",
+    "name": "福來食坊",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0401486,
+    "lng": 121.6205473,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706689",
+    "name": "虱目魚湯 豬排飯 滷肉飯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0396877,
+    "lng": 121.6208081,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706696",
+    "name": "小幸快餐便當",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.041448,
+    "lng": 121.6183343,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706702",
+    "name": "無名炭烤",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0352247,
+    "lng": 121.6141353,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706705",
+    "name": "粨一桌食藝料理",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.053235,
+    "lng": 121.6174846,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706709",
+    "name": "阿琴小吃",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.033539,
+    "lng": 121.6128551,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706716",
+    "name": "舊莊蚵仔麵線",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0392522,
+    "lng": 121.6214971,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706718",
+    "name": "想漆肉圓伯之真味肉圓",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0534111,
+    "lng": 121.6160606,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706724",
+    "name": "Do家海鮮飯&麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0472017,
+    "lng": 121.615726,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706736",
+    "name": "逢甲阿郎鹹酥雞",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0475959,
+    "lng": 121.6159129,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706741",
+    "name": "可樂屋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0420232,
+    "lng": 121.6178622,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706746",
+    "name": "鍋大娘小火鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市南港區",
+    "lat": 25.0418952,
+    "lng": 121.6177323,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706752",
+    "name": "3Q脆皮雞排",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0424839,
+    "lng": 121.6184346,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706759",
+    "name": "大豐自助餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0411998,
+    "lng": 121.6188177,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706772",
+    "name": "皇后南洋風味館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.041715,
+    "lng": 121.6179766,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706779",
+    "name": "家常熱炒",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0348977,
+    "lng": 121.6142381,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706786",
+    "name": "味味香土雞城",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.034265,
+    "lng": 121.6166831,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706794",
+    "name": "舊莊豆漿早餐店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0392496,
+    "lng": 121.621685,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706797",
+    "name": "尚美",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0539522,
+    "lng": 121.6161368,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706802",
+    "name": "店仔口 牛肉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市南港區舊莊街二段9",
+    "lat": 25.037737,
+    "lng": 121.6246775,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706805",
+    "name": "永和豆漿",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese;breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0470358,
+    "lng": 121.6156537,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706817",
+    "name": "這一家。眷村味",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0476006,
+    "lng": 121.6153956,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706822",
+    "name": "魷魚羹麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0421591,
+    "lng": 121.6179584,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706827",
+    "name": "TUCAN 大嘴鳥簡餐店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0418369,
+    "lng": 121.6179017,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706834",
+    "name": "協力雞排",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0451752,
+    "lng": 121.6175925,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706840",
+    "name": "58快炒",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0410404,
+    "lng": 121.6184532,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706847",
+    "name": "江東小館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0400927,
+    "lng": 121.6206677,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706853",
+    "name": "福咖哩",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: curry",
+    "address": "台北市南港區",
+    "lat": 25.0416231,
+    "lng": 121.6181,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706860",
+    "name": "桂花香快炒屋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0413857,
+    "lng": 121.6183915,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706863",
+    "name": "家傳牛肉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市南港區",
+    "lat": 25.0532537,
+    "lng": 121.6158593,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706867",
+    "name": "詹媽媽早餐店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0339389,
+    "lng": 121.6105945,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706870",
+    "name": "麥多多早餐店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0531764,
+    "lng": 121.6172979,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706875",
+    "name": "麥多多早餐店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.039306,
+    "lng": 121.6214189,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706878",
+    "name": "幸福家食堂",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0539171,
+    "lng": 121.617154,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706883",
+    "name": "龜山巷小吃店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區舊莊街二段5",
+    "lat": 25.0376162,
+    "lng": 121.6247075,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706886",
+    "name": "南港無招牌好吃早餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0473174,
+    "lng": 121.6157549,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706892",
+    "name": "飲飽食醉",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0462741,
+    "lng": 121.6153628,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706898",
+    "name": "麥味登",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: american;breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0520434,
+    "lng": 121.6170027,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706903",
+    "name": "小籠包",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0421269,
+    "lng": 121.6179191,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706915",
+    "name": "得益食堂",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0427381,
+    "lng": 121.6187305,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706916",
+    "name": "華園",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0317302,
+    "lng": 121.609688,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706922",
+    "name": "魯國滷味",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0422041,
+    "lng": 121.6179563,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706929",
+    "name": "吃吃看水餃",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0398302,
+    "lng": 121.6206162,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706936",
+    "name": "女兒坊麵食館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: noodle",
+    "address": "台北市南港區",
+    "lat": 25.0417919,
+    "lng": 121.6179972,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706943",
+    "name": "好食食坊",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0413641,
+    "lng": 121.6184926,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706946",
+    "name": "孫東寶",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0533361,
+    "lng": 121.616496,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706949",
+    "name": "阿輝G排",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0347812,
+    "lng": 121.6161539,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706952",
+    "name": "南桂坊農情館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0529874,
+    "lng": 121.6126341,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706956",
+    "name": "漢味王",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0392858,
+    "lng": 121.6211898,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706966",
+    "name": "皇冠自助式涮涮鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區",
+    "lat": 25.0472143,
+    "lng": 121.6153115,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706971",
+    "name": "麥多多早餐店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0469473,
+    "lng": 121.6155542,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706982",
+    "name": "三媽臭臭鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市南港區",
+    "lat": 25.0475586,
+    "lng": 121.6158888,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706987",
+    "name": "宵夜控肉飯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0419509,
+    "lng": 121.6176935,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194706993",
+    "name": "唐門潮雞排",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0461191,
+    "lng": 121.6153207,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194707000",
+    "name": "無名 切仔麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0421996,
+    "lng": 121.6179768,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7194707014",
+    "name": "貳叁食堂",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0417532,
+    "lng": 121.6180509,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419023",
+    "name": "鐵家麵線",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0565729,
+    "lng": 121.6032353,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419024",
+    "name": "鐵丸十三堂",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0497271,
+    "lng": 121.5940125,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419027",
+    "name": "阿賢大腸麵線手工肉圓",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區東新街80巷14弄10",
+    "lat": 25.045221,
+    "lng": 121.5870215,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419030",
+    "name": "闞記涼麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0565385,
+    "lng": 121.6055867,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419038",
+    "name": "雞肉飯，甜不辣",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0464627,
+    "lng": 121.5880867,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419040",
+    "name": "藥燉排骨",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0561172,
+    "lng": 121.6051159,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419042",
+    "name": "點新春蚵仔麵線",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0562249,
+    "lng": 121.6056434,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419043",
+    "name": "鴻利香雞排",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0459443,
+    "lng": 121.5872936,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419046",
+    "name": "舊店舖小吃坊",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0420488,
+    "lng": 121.5874978,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419050",
+    "name": "錢吟日式涮涮鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區",
+    "lat": 25.0467392,
+    "lng": 121.5882733,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419053",
+    "name": "興華早餐店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0567488,
+    "lng": 121.6055556,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419054",
+    "name": "興中一鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0559783,
+    "lng": 121.6070382,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419056",
+    "name": "劉記豆漿店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0458942,
+    "lng": 121.5857371,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419057",
+    "name": "樂晨早餐坊",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0569954,
+    "lng": 121.6035914,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419062",
+    "name": "豬家莊",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0555783,
+    "lng": 121.6060337,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419064",
+    "name": "蕃茄紅了",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0561259,
+    "lng": 121.6126911,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419067",
+    "name": "澳門聯華",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0569498,
+    "lng": 121.6005897,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419071",
+    "name": "銘圓美食會館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0392194,
+    "lng": 121.5877599,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211419077",
+    "name": "滿客港式燒臘店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.055792,
+    "lng": 121.6059514,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425486",
+    "name": "蒟蒻綠豆湯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0448865,
+    "lng": 121.5842218,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425487",
+    "name": "蒜翻天",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0414955,
+    "lng": 121.5876548,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425492",
+    "name": "瑞麟 美又美早餐店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0443021,
+    "lng": 121.5842627,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425497",
+    "name": "溫州大餛飩",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0460518,
+    "lng": 121.5867512,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425501",
+    "name": "愛弘早餐店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0550494,
+    "lng": 121.5958025,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425503",
+    "name": "意麵小吃",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0391682,
+    "lng": 121.5884539,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425508",
+    "name": "鼎園牛肉麵館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市南港區",
+    "lat": 25.0561654,
+    "lng": 121.6056516,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425511",
+    "name": "黃媽媽水煎包",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0458272,
+    "lng": 121.5872211,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425516",
+    "name": "越南健康素食",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0453713,
+    "lng": 121.5861341,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425522",
+    "name": "董老爹麵食館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: noodle",
+    "address": "台北市南港區",
+    "lat": 25.0454199,
+    "lng": 121.5864728,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425523",
+    "name": "萬華陳記腸蚵麵線",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0459863,
+    "lng": 121.5853574,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425529",
+    "name": "無名米粉湯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0468656,
+    "lng": 121.5886027,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425530",
+    "name": "湯姆漢堡",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0556367,
+    "lng": 121.6065445,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425532",
+    "name": "港霖燒臘",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0545837,
+    "lng": 121.5956367,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425544",
+    "name": "麻辣燙滷辣啦",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0452153,
+    "lng": 121.5843497,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425553",
+    "name": "第一羊肉爐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0556509,
+    "lng": 121.6066147,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425555",
+    "name": "添飯館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0569756,
+    "lng": 121.6005017,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425558",
+    "name": "康鮮餐飲店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0445272,
+    "lng": 121.5865834,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425562",
+    "name": "祥益素食館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0454544,
+    "lng": 121.586071,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425564",
+    "name": "陳記腸蚵麵線",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: noodle",
+    "address": "台北市南港區",
+    "lat": 25.0460685,
+    "lng": 121.5854905,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425565",
+    "name": "陳家古早麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: noodle",
+    "address": "台北市南港區",
+    "lat": 25.0458417,
+    "lng": 121.5851904,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425573",
+    "name": "涓邸居酒屋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0560662,
+    "lng": 121.6143983,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425574",
+    "name": "海岸活蝦之家",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0548352,
+    "lng": 121.5953381,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425577",
+    "name": "悅揚樓",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0461621,
+    "lng": 121.5867601,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425579",
+    "name": "家裡 共享時光",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0416463,
+    "lng": 121.5873818,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425590",
+    "name": "美味早點站",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0461793,
+    "lng": 121.5870883,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425592",
+    "name": "美式早餐屋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0393786,
+    "lng": 121.588262,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425594",
+    "name": "美又美早餐店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0571315,
+    "lng": 121.6008801,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425599",
+    "name": "炭味家燒烤飯食",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0497121,
+    "lng": 121.5939576,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425605",
+    "name": "星旺豆漿店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0471502,
+    "lng": 121.5887264,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425606",
+    "name": "星宇大餛飩",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0460826,
+    "lng": 121.5876434,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425608",
+    "name": "拱心意義大利麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: italian",
+    "address": "台北市南港區",
+    "lat": 25.0490647,
+    "lng": 121.5940201,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425610",
+    "name": "庭園早餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0392723,
+    "lng": 121.5915418,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425611",
+    "name": "巷仔內麵線焿",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.046352,
+    "lng": 121.5871905,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425614",
+    "name": "品泰廚坊",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0556898,
+    "lng": 121.6059776,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425615",
+    "name": "南港福州乾拌麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0548597,
+    "lng": 121.6108856,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425616",
+    "name": "南港傳統大腸圈",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0555507,
+    "lng": 121.6060613,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425617",
+    "name": "南港抓餅",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.046464,
+    "lng": 121.5883358,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425626",
+    "name": "金國花嘉義火雞肉飯 · 冰品",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0464767,
+    "lng": 121.5882042,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425639",
+    "name": "昆陽鍋貼專賣店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0491084,
+    "lng": 121.5941449,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425640",
+    "name": "昆陽滷肉飯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0497732,
+    "lng": 121.5936452,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425641",
+    "name": "昆陽快餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0497765,
+    "lng": 121.5941336,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425642",
+    "name": "昆陽包子饅頭店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0496931,
+    "lng": 121.5944552,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425643",
+    "name": "昆陽牛肉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市南港區",
+    "lat": 25.0497533,
+    "lng": 121.5935762,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425644",
+    "name": "怡新小吃",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0564806,
+    "lng": 121.6055447,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425646",
+    "name": "奇味蕃茄牛肉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市南港區",
+    "lat": 25.0569346,
+    "lng": 121.6054792,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425648",
+    "name": "咔拉堡",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0498296,
+    "lng": 121.5939278,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425659",
+    "name": "阿龍小吃店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0561948,
+    "lng": 121.6052104,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425660",
+    "name": "阿嬤的米粉湯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0466762,
+    "lng": 121.588641,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425661",
+    "name": "阿蓮小吃",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0460745,
+    "lng": 121.5871016,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425662",
+    "name": "阿瑕鵝肉大王",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0448466,
+    "lng": 121.5832389,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425668",
+    "name": "阿城鵝肉",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.055296,
+    "lng": 121.5962602,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425670",
+    "name": "阿來鵝肉專家",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.046384,
+    "lng": 121.5879773,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425691",
+    "name": "老婆婆的蔥餅和傳統豆花",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0466465,
+    "lng": 121.588699,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425699",
+    "name": "曲家水煎包(原路口水煎包)",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0447426,
+    "lng": 121.5843536,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425703",
+    "name": "好滋味素食",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0556917,
+    "lng": 121.6068735,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425707",
+    "name": "好朋友手工刀削麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0458689,
+    "lng": 121.5873449,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425710",
+    "name": "多多小吃店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0540838,
+    "lng": 121.5966979,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425712",
+    "name": "荃國素食",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0450244,
+    "lng": 121.5829469,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425717",
+    "name": "北方大陸餅",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0467019,
+    "lng": 121.5887799,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425721",
+    "name": "白氏 魷魚鹹酥雞",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0442071,
+    "lng": 121.5844255,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425729",
+    "name": "正宗泰國菜",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: thai",
+    "address": "台北市南港區",
+    "lat": 25.0541706,
+    "lng": 121.596609,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425730",
+    "name": "布咪創意早午餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0401203,
+    "lng": 121.5888286,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425734",
+    "name": "四海遊龍",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: dumplings",
+    "address": "台北市南港區",
+    "lat": 25.0458543,
+    "lng": 121.5856318,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425735",
+    "name": "四季傳香湯滷味",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0498102,
+    "lng": 121.593857,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425741",
+    "name": "古早味米粉湯，飯，麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0450749,
+    "lng": 121.586294,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425744",
+    "name": "兄弟鹽酥雞",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0563553,
+    "lng": 121.6055994,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425752",
+    "name": "心蔬果滷味麵線(素食)",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0443362,
+    "lng": 121.5846771,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425753",
+    "name": "巨森早餐吧",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0456057,
+    "lng": 121.5870904,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425761",
+    "name": "天百味素食坊",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0460111,
+    "lng": 121.5871662,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425766",
+    "name": "中式早午餐捲餅小米粥",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0454095,
+    "lng": 121.5864221,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425770",
+    "name": "山東大滷麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0455231,
+    "lng": 121.58627,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425771",
+    "name": "小確幸早餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0466438,
+    "lng": 121.5883008,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425772",
+    "name": "小確幸早午餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0568729,
+    "lng": 121.6054964,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425775",
+    "name": "小空間Brunch • 早午餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0464426,
+    "lng": 121.5875666,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425780",
+    "name": "大群牛肉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市南港區",
+    "lat": 25.0558214,
+    "lng": 121.6060237,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425783",
+    "name": "大排檔海鮮快炒",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: seafood",
+    "address": "台北市南港區",
+    "lat": 25.0573727,
+    "lng": 121.6018891,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425785",
+    "name": "大正元麥亨堡",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0552985,
+    "lng": 121.5963222,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425789",
+    "name": "上海湯包",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0495621,
+    "lng": 121.5936115,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425791",
+    "name": "上和小館紅面薑母鴨",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0570569,
+    "lng": 121.6007815,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425811",
+    "name": "Q Burger",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0394112,
+    "lng": 121.5876344,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425819",
+    "name": "K.Lab甜點實驗室",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0482413,
+    "lng": 121.5894015,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425821",
+    "name": "Bogart's Smokehouse Taipei",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0547021,
+    "lng": 121.610093,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7211425825",
+    "name": "8鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0548462,
+    "lng": 121.610729,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7213752462",
+    "name": "瓦城泰國料理",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: thai",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0525074,
+    "lng": 121.6045815,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7282086686",
+    "name": "REAL 真‧Cafe‧Bread",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0562294,
+    "lng": 121.6155898,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7426547285",
+    "name": "天百味素食",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0459885,
+    "lng": 121.587117,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7466162832",
+    "name": "蜥蜴咖哩",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: curry;fried_chicken",
+    "address": "台北市南港區南港路一段136巷6弄3",
+    "lat": 25.0558192,
+    "lng": 121.6131168,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7466162833",
+    "name": "獨角獸咖啡",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區新民街23-1",
+    "lat": 25.0560306,
+    "lng": 121.6132911,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7698553432",
+    "name": "玉山農場",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區舊莊街二段306巷1",
+    "lat": 25.0263969,
+    "lng": 121.6496225,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7765188493",
+    "name": "育見幸福食堂",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0580933,
+    "lng": 121.6087711,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7765188496",
+    "name": "3Q糰子",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0632728,
+    "lng": 121.6144581,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7765188497",
+    "name": "歡悅小吃店卡拉OK",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0588988,
+    "lng": 121.6066589,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7765188498",
+    "name": "金豬早午餐",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0591551,
+    "lng": 121.6107332,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7765188499",
+    "name": "夏克複合式餐飲",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.060065,
+    "lng": 121.6122553,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7765188500",
+    "name": "辰旻小吃坊",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0583077,
+    "lng": 121.6069063,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7765188501",
+    "name": "原鄭州路牛肉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0612786,
+    "lng": 121.6127146,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7765188503",
+    "name": "Harbor Market",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0604519,
+    "lng": 121.6125249,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7765188506",
+    "name": "達日好胖卡行動餐車",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0609786,
+    "lng": 121.6125866,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7765594315",
+    "name": "崔妮傑恩",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區研究院路二段128",
+    "lat": 25.0417558,
+    "lng": 121.6139674,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7765594317",
+    "name": "小南門傳統豆花",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0409735,
+    "lng": 121.6126013,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7775081880",
+    "name": "春日部食堂",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.045576,
+    "lng": 121.6140698,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7778780651",
+    "name": "漢堡大師",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0589352,
+    "lng": 121.6109752,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7849377517",
+    "name": "路易莎咖啡",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0526693,
+    "lng": 121.6058765,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7849377519",
+    "name": "Ikinari Steak",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: steak_house",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0527503,
+    "lng": 121.6058573,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7849377521",
+    "name": "爭鮮外帶壽司",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: sushi",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0526909,
+    "lng": 121.6060205,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_7849449243",
+    "name": "星巴克",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區忠孝東路七段371",
+    "lat": 25.0527318,
+    "lng": 121.6067626,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8014080436",
+    "name": "北大荒水餃店",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0550864,
+    "lng": 121.6117002,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8014080437",
+    "name": "鐵路便當南港站",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0552397,
+    "lng": 121.6106661,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8014080438",
+    "name": "永和豆漿",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese;breakfast",
+    "address": "台北市南港區",
+    "lat": 25.0557439,
+    "lng": 121.6102912,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8014080439",
+    "name": "築間幸福鍋物",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市南港區",
+    "lat": 25.056564,
+    "lng": 121.6066874,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8014080441",
+    "name": "JSP呷尚寶",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0569746,
+    "lng": 121.6056519,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8014080442",
+    "name": "佳元蔥油餅舖",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0567719,
+    "lng": 121.6057543,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8014080443",
+    "name": "靖火鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0566963,
+    "lng": 121.6058093,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8014080444",
+    "name": "老眷村煎餅",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0564008,
+    "lng": 121.6059079,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8221343602",
+    "name": "春月日式食堂",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區",
+    "lat": 25.0550089,
+    "lng": 121.6138824,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8412095986",
+    "name": "MAGiC TOUCH 点爭鮮",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: sushi",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0529234,
+    "lng": 121.607301,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8412095987",
+    "name": "Duckling 喝鴨鴨",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: tea",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0526817,
+    "lng": 121.6059507,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8438683276",
+    "name": "不夜侯製茶所",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea;tea",
+    "address": "台北市南港區南港路二段6",
+    "lat": 25.0543631,
+    "lng": 121.6059126,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8438683277",
+    "name": "華西街鐤邊趖",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市南港區南港路二段20巷7",
+    "lat": 25.0544335,
+    "lng": 121.6054802,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8441425922",
+    "name": "路易莎咖啡",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區興華路28",
+    "lat": 25.0549482,
+    "lng": 121.6059297,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8441425938",
+    "name": "這一小鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市南港區市民大道八段369",
+    "lat": 25.0527277,
+    "lng": 121.6060642,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8441425939",
+    "name": "Mövenpick Café",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0527095,
+    "lng": 121.6059462,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8441425940",
+    "name": "必勝客",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: pizza",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0526353,
+    "lng": 121.6046111,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8441425941",
+    "name": "豆腐村",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: korean",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0525583,
+    "lng": 121.6046553,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8441425959",
+    "name": "高麗園銅盤烤肉",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: korean",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0525756,
+    "lng": 121.6047663,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8441425960",
+    "name": "金色三麥 Le Blé d'Or",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: seafood;european",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0525389,
+    "lng": 121.6050283,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8441425961",
+    "name": "牛角",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: barbecue",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.052654,
+    "lng": 121.6048626,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8441425962",
+    "name": "麵家三士",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: ramen;noodles",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0526655,
+    "lng": 121.6049414,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8441425963",
+    "name": "串家物語",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese;bar",
+    "address": "台北市南港區市民大道八段369",
+    "lat": 25.0526759,
+    "lng": 121.6050283,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8441425964",
+    "name": "Mo-Mo Paradise",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese;hotpot",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0524221,
+    "lng": 121.6048013,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8441425965",
+    "name": "貳樓",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: regional",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0526712,
+    "lng": 121.6055251,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_8798209347",
+    "name": "茶聚",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區南港路二段38巷8弄3",
+    "lat": 25.0548823,
+    "lng": 121.604735,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_9004409827",
+    "name": "紅茶洋行",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區興華路10",
+    "lat": 25.0546276,
+    "lng": 121.6060004,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_9004409829",
+    "name": "黑丸嫩仙草",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區興華路16",
+    "lat": 25.0547223,
+    "lng": 121.6059813,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_9064494062",
+    "name": "Chaffee",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0526245,
+    "lng": 121.6052113,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_9064494063",
+    "name": "天仁茗茶",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區忠孝東路七段369",
+    "lat": 25.0526277,
+    "lng": 121.6052406,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_9293542048",
+    "name": "3多靚鍋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市南港區南港路一段164",
+    "lat": 25.0554185,
+    "lng": 121.6119945,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_9342783484",
+    "name": "非常饌牛肉拉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: asian;麵",
+    "address": "台北市南港區南港路三段68",
+    "lat": 25.0541154,
+    "lng": 121.5913048,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_9342783485",
+    "name": "雯永吉",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese;便當",
+    "address": "台北市南港區南港路三段70",
+    "lat": 25.0540994,
+    "lng": 121.5912508,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_9342783486",
+    "name": "吳媽媽食堂",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese;便當",
+    "address": "台北市南港區南港路三段66",
+    "lat": 25.0541306,
+    "lng": 121.591357,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_9518867717",
+    "name": "玉虫画室",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區",
+    "lat": 25.0541441,
+    "lng": 121.6015697,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_10139274745",
+    "name": "田野咖啡",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區南港路二段178巷2",
+    "lat": 25.05445,
+    "lng": 121.6002763,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_10718342790",
+    "name": "麻古",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區",
+    "lat": 25.0556967,
+    "lng": 121.612761,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_10718342791",
+    "name": "約翰紅茶",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區",
+    "lat": 25.0556746,
+    "lng": 121.6128259,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_10718342792",
+    "name": "得正",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區",
+    "lat": 25.0554847,
+    "lng": 121.6135663,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_10721743372",
+    "name": "路易莎咖啡",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區",
+    "lat": 25.0504432,
+    "lng": 121.5802974,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_11254397591",
+    "name": "路易莎咖啡",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區",
+    "lat": 25.0529819,
+    "lng": 121.6161235,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_11496693136",
+    "name": "發來素食養生粥,麵線",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0444128,
+    "lng": 121.6161433,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_11496693138",
+    "name": "現榨果汁",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區",
+    "lat": 25.0446066,
+    "lng": 121.6160266,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_11813554566",
+    "name": "TR Lounge 臺鐵南港禮賓室",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市南港區南港路一段313",
+    "lat": 25.0530436,
+    "lng": 121.6072793,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12133991466",
+    "name": "大河牧場",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區",
+    "lat": 25.0524284,
+    "lng": 121.606864,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12177694738",
+    "name": "Cama",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0449285,
+    "lng": 121.5838854,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12531330992",
+    "name": "路易莎咖啡",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區研究院路二段130",
+    "lat": 25.0407669,
+    "lng": 121.6129932,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12739433573",
+    "name": "吉比鮮釀餐廳",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區經貿二路131",
+    "lat": 25.05917,
+    "lng": 121.617903,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12872977069",
+    "name": "炸雞大師",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0565445,
+    "lng": 121.6173689,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12997225840",
+    "name": "輪輪の町",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese;brunch",
+    "address": "台北市南港區經貿二路131",
+    "lat": 25.0590116,
+    "lng": 121.6183353,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12997270856",
+    "name": "天仁茗茶",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市南港區",
+    "lat": 25.0594304,
+    "lng": 121.6174655,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12997276261",
+    "name": "Preserve",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: pasta;麵包",
+    "address": "台北市南港區經貿二路131",
+    "lat": 25.0596651,
+    "lng": 121.6176898,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12997331949",
+    "name": "蘋果樹蛋包飯",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區經貿二路131",
+    "lat": 25.0586862,
+    "lng": 121.6179238,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12997340651",
+    "name": "Kurogeya 黑毛屋",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區經貿二路131",
+    "lat": 25.0602018,
+    "lng": 121.6179362,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12997342212",
+    "name": "添好運",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 港式茶餐廳",
+    "address": "台北市南港區經貿二路131",
+    "lat": 25.0585492,
+    "lng": 121.6179321,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12997346755",
+    "name": "やよい軒",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區經貿二路131",
+    "lat": 25.0598439,
+    "lng": 121.6178752,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12997351763",
+    "name": "米與多蜜",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區經貿二路131",
+    "lat": 25.0598341,
+    "lng": 121.6177837,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12997363656",
+    "name": "饗麻饗辣",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 麻辣鍋;火鍋",
+    "address": "台北市南港區經貿二路131",
+    "lat": 25.0594155,
+    "lng": 121.6185748,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12999140819",
+    "name": "咖樂迪咖啡農場",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市南港區經貿二路131",
+    "lat": 25.0601904,
+    "lng": 121.6175959,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12999163287",
+    "name": "肉的長谷川",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區經貿二路131",
+    "lat": 25.0589528,
+    "lng": 121.618292,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_12999165235",
+    "name": "La Ohana",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: hawaiian",
+    "address": "台北市南港區經貿二路131",
+    "lat": 25.0592994,
+    "lng": 121.6185725,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_13091179620",
+    "name": "手作茶飲",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市南港區玉成街78",
+    "lat": 25.046391,
+    "lng": 121.5825365,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_13165334918",
+    "name": "樂雅樂",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese;italian;french",
+    "address": "台北市南港區忠孝東路七段508",
+    "lat": 25.0518857,
+    "lng": 121.609775,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_13172532650",
+    "name": "國王便當",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區研究院路二段9之2",
+    "lat": 25.0467032,
+    "lng": 121.6154692,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_13172532651",
+    "name": "雯永吉美食、精饌",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區研究院路二段7之7",
+    "lat": 25.0468873,
+    "lng": 121.6155463,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_13172532658",
+    "name": "三年五班",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區研究院路二段17",
+    "lat": 25.0464391,
+    "lng": 121.6154654,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_13338162121",
+    "name": "中研咖啡",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區",
+    "lat": 25.0440707,
+    "lng": 121.6155441,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_13338177810",
+    "name": "書與咖啡",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市南港區",
+    "lat": 25.0468462,
+    "lng": 121.6155388,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_13338249545",
+    "name": "微笑曙光",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.0456839,
+    "lng": 121.6143646,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_127950347",
+    "name": "北雲餐廳",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區",
+    "lat": 25.0408057,
+    "lng": 121.6122303,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_202938290",
+    "name": "第一鮮生猛現撈熱炒",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese;regional;local",
+    "address": "台北市南港區忠孝東路六段323",
+    "lat": 25.050317,
+    "lng": 121.591834,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_202938291",
+    "name": "貴族世家",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: steak",
+    "address": "台北市南港區",
+    "lat": 25.0503026,
+    "lng": 121.5913875,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_246285712",
+    "name": "北雲餐廳",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區",
+    "lat": 25.0451997,
+    "lng": 121.6156904,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_312592609",
+    "name": "陶膳壽司鋪",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: japanese",
+    "address": "台北市南港區南港路一段2-1",
+    "lat": 25.054761,
+    "lng": 121.6138501,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_483468374",
+    "name": "兄弟麵館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區昆陽街",
+    "lat": 25.0499145,
+    "lng": 121.5945694,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_484170033",
+    "name": "奇味蕃茄牛肉麵",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市南港區昆陽街140巷",
+    "lat": 25.0496705,
+    "lng": 121.5938664,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_484170037",
+    "name": "功夫小館",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: chinese",
+    "address": "台北市南港區昆陽街140巷",
+    "lat": 25.0498338,
+    "lng": 121.5937255,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_824467117",
+    "name": "環山茶莊土雞城",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區舊莊街二段",
+    "lat": 25.0341504,
+    "lng": 121.6359747,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_824467122",
+    "name": "寶樹堂茶園",
+    "category": "food",
+    "description": "位於南港區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市南港區",
+    "lat": 25.026409,
+    "lng": 121.6605933,
+    "source": "OSM_南港區"
+  },
+  {
+    "id": "osm_1163244752",
+    "name": "酒等了・ 臺北流行音樂中心",
+    "category": "food",
+    "description": "位於南港區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市南港區忠孝東路七段99",
+    "lat": 25.0515677,
+    "lng": 121.5993227,
+    "source": "OSM_南港區"
+  }
+]

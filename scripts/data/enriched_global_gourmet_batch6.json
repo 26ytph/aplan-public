@@ -1,0 +1,18 @@
+[
+  { "name": "富鼎旺豬腳 (台北店)", "category": "food", "description": "與富霸王齊名的頂級豬腳名店。其「腿扣」入口即化，醬汁鹹甜適中。代表了台北中山區最具代表性的高品質魯肉飯與豬腳文化。", "address": "台北市中山區南京東路", "lat": 25.0495, "lng": 121.5332, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "美登利壽司 (台北大安店)", "category": "food", "description": "日本東京排隊名店進駐大安區。以新鮮度極高的巨無霸握壽司與CP值著名的日式連鎖壽司店，是東區高品質日料的首選。", "address": "台北市大安區大安路一段81號", "lat": 25.0435, "lng": 121.5452, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "一蘭拉麵 台北別館 (新光三越A11)", "category": "food", "description": "位於信義區百貨內的一蘭二店。24小時營業，提供不妥協的福岡豚骨滋味，是遊客在信義商圈深夜美食的頭號選擇。", "address": "台北市信義區松壽路11號B1", "lat": 25.0355, "lng": 121.5665, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "鼎泰豐 A4店 (Din Tai Fung)", "category": "food", "description": "位於新光三越A4的高端分店。除了保證品質的小籠包，這裡的百貨環境提供了更為舒適尊榮的用餐體驗，是信義區奢華購物的絕佳配餐。", "address": "台北市信義區松高路19號B2", "lat": 25.0392, "lng": 121.5668, "source": "ENRICHED_GLOBAL", "tier": 1 },
+  { "name": "馬辣 頂級麻辣鴛鴦火鍋 (南京店)", "category": "food", "description": "捷運南京復興站附近的麻辣火鍋名店。以其澳洲和牛、頂極海鮮與哈根達斯牆，代表了台北高品質、高CP值的聚餐標準。", "address": "台北市中山區南京東路", "lat": 25.0515, "lng": 121.5435, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "瞞著爹 (壽司丼飯店)", "category": "food", "description": "大安區高品質的海鮮丼飯。滿載而歸的盛合生魚片與特製醋飯，將傳統日系風格發揮到極致，代表了台北高質感中價位日料的標準。", "address": "台北市大安區", "lat": 25.0475, "lng": 121.5455, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "瞞著爹 (金柚店/柚子锅)", "category": "food", "description": "主打精緻火鍋與極致服務的高端日料分店。位於大安區靜巷內，代表了台北高品質追求個性化與隱密性日系飲食品味的一面。", "address": "台北市大安區", "lat": 25.0455, "lng": 121.5435, "source": "ENRICHED_GLOBAL", "tier": 1 },
+  { "name": "瞞著爹 (居酒屋店/西門)", "category": "food", "description": "西門町的高品質日式居酒屋。結合職人串燒與特色生啤，在熱鬧的商圈中提供了高品質、慢步調的極致微醺日系饗宴。", "address": "台北市萬華區", "lat": 25.0445, "lng": 121.5035, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "林東芳牛肉麵 (旗艦店)", "category": "food", "description": "中山區牛肉麵界的旗艦指標。寬敞的空間與不變的老味道，是國際旅客與遊客認識台北「牛肉麵文化」最經典的安全牌。", "address": "台北市中山區", "lat": 25.0485, "lng": 121.5442, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "點水樓 (懷寧總店)", "category": "food", "description": "中正區的老派江浙傳奇。其冠軍小籠包與精緻江浙大菜，代表了台北車站周邊最高品質且具歷史感的中式料理選擇。", "address": "台北市中正區", "lat": 25.0442, "lng": 121.5135, "source": "ENRICHED_GLOBAL", "tier": 1 },
+  { "name": "點水樓 (南京店)", "category": "food", "description": "捷運小巨蛋站旁的江南名標。提供高品質的點心與桌菜，代表了台北體育園區附近最穩定、高品質的商務與家庭聚餐地標。", "address": "台北市松山區", "lat": 25.0515, "lng": 121.5515, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "詹記麻辣火鍋 (敦南老店)", "category": "food", "description": "大安區的麻辣火鍋傳奇起點。復古的氛圍與全台第一的鴨血豆腐，讓每一次用餐都成為一場高品質的台式文化巡禮。", "address": "台北市大安區", "lat": 25.0255, "lng": 121.5465, "source": "ENRICHED_GLOBAL", "tier": 1 },
+  { "name": "一蘭拉麵 台北旗艦本店", "category": "food", "description": "信義區24小時不打烊的日系職人地標。提供世界級的豚骨拉麵，是深夜行程與追求「保證好味」日料旅客的最佳去處。", "address": "台北市信義區", "lat": 25.0345, "lng": 121.5678, "source": "ENRICHED_GLOBAL", "tier": 1 },
+  { "name": "興波咖啡 Superbon (松山)", "category": "food", "description": "冠軍精品咖啡的松山分店。提供極致的烘豆與手沖技術，代表了台北高品質、國際級特色咖啡店的究極標準，不再只是普通廉價咖啡店。", "address": "台北市松山區", "lat": 25.0555, "lng": 121.5515, "source": "ENRICHED_GLOBAL", "tier": 1 },
+  { "name": "二子山拉麵店 (芝山店)", "category": "food", "description": "淡水線芝山站的高人氣平價日式拉麵。大碗滿意且品質穩定，是遊客行經天母與士林地區，尋求紮實且具在地特色美味的首選。", "address": "台北市士林區", "lat": 25.1035, "lng": 121.5225, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "二子山拉麵店 (天母總店)", "category": "food", "description": "天母地區的拉麵長青樹。充滿人情味的溫暖湯頭，是來到天母商圈進行質感一日遊時，最實惠且高品質的在地日常美食選項。", "address": "台北市士林區", "lat": 25.1165, "lng": 121.5315, "source": "ENRICHED_GLOBAL", "tier": 2 }
+]

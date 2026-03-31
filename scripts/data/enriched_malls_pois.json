@@ -1,0 +1,119 @@
+[
+  {
+    "name": "台北 101 購物中心 (Taipei 101 Mall)",
+    "category": "mall",
+    "description": "信義區最具代表性的國際級頂級購物中心。匯聚全球最齊全的頂級精品品牌與米其林星級餐廳，是台北最具指標性的高端 Shopping Mall。",
+    "address": "台北市信義區市府路45號",
+    "lat": 25.0336,
+    "lng": 121.5646,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "BELLAVITA 寶麗廣塲",
+    "category": "mall",
+    "description": "被譽為「貴婦百貨」的奢華歐式建築購物中心。主打國際頂尖精品、米其林星級餐飲與專屬的高隱私逛街體驗，是台北最頂級的精品百貨。",
+    "address": "台北市信義區松仁路28號",
+    "lat": 25.0396,
+    "lng": 121.5683,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "新光三越 台北信義新天地 (Shin Kong Mitsukoshi Xinyi Place)",
+    "category": "mall",
+    "description": "全台規模最大的百貨商圈，由 A4、A8、A9、A11 四大館組成。提供最豐富的國際化妝品、潮流服飾與異國美食街，是信義區時尚購物的核心地帶。",
+    "address": "台北市信義區松壽路11號",
+    "lat": 25.0360,
+    "lng": 121.5661,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "微風信義 (Breeze Xin Yi)",
+    "category": "mall",
+    "description": "與捷運市政府站連通的高端精品百貨。主打全球獨家品牌首店與高空景觀餐廳，提供極具現代感的頂端 Shopping Mall 購物體驗。",
+    "address": "台北市信義區忠孝東路五段68號",
+    "lat": 25.0406,
+    "lng": 121.5660,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "微風南山 (Breeze Nan Shan)",
+    "category": "mall",
+    "description": "信義區最新的國際級複合式購物商場。擁有全台最大型的 atré 微風超市與眾多海外首登台的傳奇人氣美食，是吃貨與潮流人士必逛的頂級地標。",
+    "address": "台北市信義區松智路17號",
+    "lat": 25.0343,
+    "lng": 121.5670,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "統一時代百貨台北店 (Uni-President Department Store)",
+    "category": "mall",
+    "description": "位於捷運市政府站與市府轉運站上方的日系風格大型百貨。結合優雅的生活美學與豐富的美食街，交通便利，是信義區逛街的絕佳起點。",
+    "address": "台北市信義區忠孝東路五段8號",
+    "lat": 25.0409,
+    "lng": 121.5653,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "遠百信義 A13 (Far Eastern Department Store)",
+    "category": "mall",
+    "description": "信義區極具特色的新世代購物中心。館內擁有跨越時空的「大稻埕復古美食街」與威秀影城、頂級精品，是室內避雨與娛樂購物的完美首選。",
+    "address": "台北市信義區松仁路58號",
+    "lat": 25.0373,
+    "lng": 121.5683,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "美麗華百樂園 (Miramar Entertainment Park)",
+    "category": "mall",
+    "description": "大直地區最知名的超大型百貨購物中心。擁有代表性的大型摩天輪與全台最大螢幕的 IMAX 影城，結合娛樂與購物，非常適合家庭親子與情侶約會。",
+    "address": "台北市中山區敬業三路20號",
+    "lat": 25.0833,
+    "lng": 121.5558,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "誠品生活松菸店 (Eslite Spectrum Songyan Store)",
+    "category": "mall",
+    "description": "結合閱讀、文創設計與職人手作的特色風格百貨。位於松山文創園區旁，充滿文化氣息，是尋找特色台灣文創禮品與文藝氛圍的最佳商場。",
+    "address": "台北市信義區菸廠路88號",
+    "lat": 25.0445,
+    "lng": 121.5615,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "誠品生活南西 (Eslite Spectrum Nanxi)",
+    "category": "mall",
+    "description": "中山商圈最具人氣的質感生活百貨。匯集全球知名獨立咖啡品牌與日系潮流服飾，吸引大量文青與年輕族群，是南西商圈必逛的核心地標。",
+    "address": "台北市中山區南京西路14號",
+    "lat": 25.0527,
+    "lng": 121.5204,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "大葉高島屋 (Dayeh Takashimaya)",
+    "category": "mall",
+    "description": "天母地區歷史悠久的正宗日系大型百貨公司。館內擁有全台首創的大型室內水族箱，提供日本頂級的生活用品與高級超市，是天母人休閒購物的核心。",
+    "address": "台北市士林區忠誠路二段55號",
+    "lat": 25.1115,
+    "lng": 121.5323,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "新光三越 台北南西店 (Shin Kong Mitsukoshi Nanxi Store)",
+    "category": "mall",
+    "description": "捷運中山站旁的經典大型指標百貨。由一館及三館組成，擁有實力堅強的美妝專櫃與豐富多彩的特色餐廳，引領中山商圈的時尚潮流。",
+    "address": "台北市中山區南京西路12號",
+    "lat": 25.0525,
+    "lng": 121.5211,
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "CITYLINK 南港店",
+    "category": "mall",
+    "description": "與四鐵共構的南港車站無縫接軌的超大型綜合商場。擁有廣大的室內空間、豐富的餐飲選擇與影城，是親子休閒、室內避雨與逛街的絕佳去處。",
+    "address": "台北市南港區忠孝東路七段369號",
+    "lat": 25.0529,
+    "lng": 121.6069,
+    "source": "ENRICHED_PREMIUM"
+  }
+]

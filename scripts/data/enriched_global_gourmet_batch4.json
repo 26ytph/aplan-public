@@ -1,0 +1,12 @@
+[
+  { "name": "點水樓 (SOGO復興店)", "category": "food", "description": "東區最具指標性的江南料理。除了頂級小籠包，其蟹粉豆腐與江浙大菜代表了百貨商圈中最高等級的商務與家庭聚餐選擇。", "address": "台北市大安區忠孝東路三段300號11樓", "lat": 25.0415, "lng": 121.5435, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "台北101-隨意鳥地方 (Diamond Tony's)", "category": "food", "description": "位於台北101 85樓的高空景觀餐廳。主打頂級義大利料理與經典牛排，是俯瞰大台北盆地、享受奢華商務晚宴的不二之選。", "address": "台北市信義區信義路五段7號85樓", "lat": 25.0336, "lng": 121.5646, "source": "ENRICHED_GLOBAL", "tier": 1 },
+  { "name": "金泰日式料理 (中崙店)", "category": "food", "description": "台北知名的海鮮蓋飯傳奇。以極度澎湃的海鮮船與新鮮鮪魚、海膽聞名，雖然是日常消費，但其品質與視覺衝擊力絕對是附近上班族與遊客的神級名單。", "address": "台北市中山區八德路二段", "lat": 25.0475, "lng": 121.5425, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "阿紅的涮涮鍋 (吉林店)", "category": "food", "description": "中山區的高品質現切肉片火鍋店。堅持每一片牛肉都是現場切片，保證最佳口感與鮮度。這類「巷弄名店」正是遊客在行旅途中追求的特色美味。", "address": "台北市中山區吉林路249號", "lat": 25.0605, "lng": 121.5305, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "公館小李豬血糕", "category": "food", "description": "公館商圈絕對不能錯過的傳統小吃。米其林必比登推薦，Ｑ彈的豬血糕裹上香氣濃郁的花生粉與香菜，這才是真正的台北巷弄美食之光。", "address": "台北市中正區羅斯福路", "lat": 25.0152, "lng": 121.5328, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "祥發港式茶餐廳 (大安)", "category": "food", "description": "道地港味轉身台北！其法蘭西多士與菠蘿油是東區午後最受歡迎的點心，代表了台北多元文化融合下的高品質街頭食尚。", "address": "台北市大安區大安路", "lat": 25.0425, "lng": 121.5448, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "慶城海南雞飯", "category": "food", "description": "南京復興捷運站附近的午餐奇蹟。每天大排長龍的海南雞飯，肉質滑嫩、配菜精湛。這就是遊客在「附近」路過時一定要順便吃到的 Tier 3 神作。", "address": "台北市松山區慶城街16巷8號", "lat": 25.0515, "lng": 121.5455, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "興安街-福德涼麵", "category": "food", "description": "台北人深夜與清晨的涼麵指標。濃郁的麻醬香與招牌三合一湯，是體驗台北24小時美食文化、尋求高品質日常飲食的深度口袋名單。", "address": "台北市中山區興安街76號", "lat": 25.0565, "lng": 121.5415, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "雙連圓仔湯", "category": "food", "description": "雙連捷運站旁的古早味甜品店。以高品質的燒麻糬與紅豆湯聞名，不管是冬天的一碗熱甜湯或夏天的冰品，都是代表大同區歷史感的高質感選擇。", "address": "台北市大同區民生西路136號", "lat": 25.0560, "lng": 121.5208, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "勺日 zhuori (捷運中山站)", "category": "food", "description": "中山商圈極具美感的可頌鬆餅專賣店。結合現代居家美學與高品質午茶，是各國觀光客在此悠閒體驗台北「慢活」氣息的最佳休憩地標。", "address": "台北市中山區南京西路", "lat": 25.0525, "lng": 121.5218, "source": "ENRICHED_GLOBAL", "tier": 3 }
+]

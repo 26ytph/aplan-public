@@ -1,0 +1,5882 @@
+[
+  {
+    "id": "osm_1833133779",
+    "name": "5F布查花園法式餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: french",
+    "address": "台北市北投區",
+    "lat": 25.1217625,
+    "lng": 121.514145,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_1843811036",
+    "name": "星巴克",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區",
+    "lat": 25.1165285,
+    "lng": 121.5162299,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_1844866487",
+    "name": "仙客來",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1188847,
+    "lng": 121.5128936,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_2143411214",
+    "name": "吳家牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市北投區中央北路一段224",
+    "lat": 25.1362876,
+    "lng": 121.4971395,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_2289018105",
+    "name": "爐鍋咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1242477,
+    "lng": 121.4667318,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_2320119248",
+    "name": "星巴克",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區光明路218-4",
+    "lat": 25.1362244,
+    "lng": 121.5043235,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_2387011531",
+    "name": "I'm Here",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1145911,
+    "lng": 121.4840868,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_2514660931",
+    "name": "豪記便當",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區公舘路121",
+    "lat": 25.1299395,
+    "lng": 121.5051032,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_2618514285",
+    "name": "達文士義大利餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: italian",
+    "address": "台北市北投區",
+    "lat": 25.1334574,
+    "lng": 121.4703511,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_2618749466",
+    "name": "粟家牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市北投區",
+    "lat": 25.1385969,
+    "lng": 121.4993375,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_2628220590",
+    "name": "達美樂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: pizza",
+    "address": "台北市北投區",
+    "lat": 25.1147381,
+    "lng": 121.517561,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_2688236639",
+    "name": "Solo Singer Life",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區溫泉路7巷1弄1",
+    "lat": 25.1341865,
+    "lng": 121.5027053,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_2919834859",
+    "name": "Su蔬食料理",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區光明路228",
+    "lat": 25.1359174,
+    "lng": 121.5057449,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3034549343",
+    "name": "五花肉飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1119771,
+    "lng": 121.510234,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3035134993",
+    "name": "滿客屋拉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: ramen",
+    "address": "台北市北投區",
+    "lat": 25.1362512,
+    "lng": 121.5109018,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3035135042",
+    "name": "陶板屋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: chinese",
+    "address": "台北市北投區光明路217",
+    "lat": 25.1362891,
+    "lng": 121.5039824,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3037008407",
+    "name": "水舍銀光",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1359231,
+    "lng": 121.5155212,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3051933199",
+    "name": "小張媽麵店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區三合街二段463",
+    "lat": 25.1263375,
+    "lng": 121.5017707,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3051933200",
+    "name": "50嵐",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市北投區",
+    "lat": 25.1265858,
+    "lng": 121.501321,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3200943672",
+    "name": "品林坊-終極熱炒",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1301256,
+    "lng": 121.4995626,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3200945584",
+    "name": "Provence Bakers & Cafe",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.130948,
+    "lng": 121.4971699,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3200945586",
+    "name": "北投喬園餃子館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1293707,
+    "lng": 121.4999992,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3200948722",
+    "name": "及香手工水餃",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1282287,
+    "lng": 121.4990671,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3336481893",
+    "name": "真鶴日本料理",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: japanese",
+    "address": "台北市北投區大興街57",
+    "lat": 25.1306915,
+    "lng": 121.5001774,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3661063905",
+    "name": "蘇杭餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區振興街45",
+    "lat": 25.1174112,
+    "lng": 121.5224098,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3661063906",
+    "name": "圓圓方方咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區振興街45",
+    "lat": 25.1173173,
+    "lng": 121.5224197,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3661063911",
+    "name": "大稻埕餐館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1162121,
+    "lng": 121.5231027,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3661063912",
+    "name": "鼎鮮麵食館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1161792,
+    "lng": 121.5231027,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3661063913",
+    "name": "西雅圖極品咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區",
+    "lat": 25.1161456,
+    "lng": 121.5231018,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3661070225",
+    "name": "星巴克",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區振興街37",
+    "lat": 25.1176987,
+    "lng": 121.5224067,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3732225207",
+    "name": "北投黑金魚咖啡館",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區育仁路8巷",
+    "lat": 25.1326989,
+    "lng": 121.4986964,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3750773872",
+    "name": "拾米屋",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區大同街153",
+    "lat": 25.1361195,
+    "lng": 121.4989556,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3785978439",
+    "name": "益全便當",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1110996,
+    "lng": 121.521126,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3788212996",
+    "name": "旺角咖啡旅店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1192731,
+    "lng": 121.511284,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3788508668",
+    "name": "拿玻里披薩",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1350123,
+    "lng": 121.4990296,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3795798508",
+    "name": "少帥禪園",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1385252,
+    "lng": 121.5137009,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3811441536",
+    "name": "十和田鐵板燒",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: teppanyaki",
+    "address": "台北市北投區",
+    "lat": 25.1322131,
+    "lng": 121.4972926,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3820884823",
+    "name": "老湖南館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1283623,
+    "lng": 121.4690215,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3820884952",
+    "name": "稻香坊早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1383503,
+    "lng": 121.4895119,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3820884962",
+    "name": "粟家牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市北投區",
+    "lat": 25.1385815,
+    "lng": 121.4915398,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3820884963",
+    "name": "粟家牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市北投區",
+    "lat": 25.1370616,
+    "lng": 121.5042769,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3820884973",
+    "name": "金春發牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市北投區",
+    "lat": 25.1376768,
+    "lng": 121.4931911,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3820884994",
+    "name": "志明牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市北投區",
+    "lat": 25.1364808,
+    "lng": 121.4970725,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3822530545",
+    "name": "MICASA MULTILINGUAL BAKING CLASS",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區北投路二段29",
+    "lat": 25.1313359,
+    "lng": 121.497859,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3824498891",
+    "name": "領鱻小吃",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1151124,
+    "lng": 121.4963496,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3826769575",
+    "name": "藝大咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1332446,
+    "lng": 121.4703718,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3826769576",
+    "name": "魯旦川鍋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1351786,
+    "lng": 121.4711115,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3826769577",
+    "name": "Luguo Cafe / Z Space",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區學園路1",
+    "lat": 25.1334611,
+    "lng": 121.471312,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3849103544",
+    "name": "長疆碳燒羊肉爐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1198868,
+    "lng": 121.5097806,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_3849103545",
+    "name": "霸味薑母鴨石牌店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1199312,
+    "lng": 121.5095787,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4018208919",
+    "name": "爭鮮迴轉壽司",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1159731,
+    "lng": 121.5153982,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4018209441",
+    "name": "都柏林台式自助餐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1184743,
+    "lng": 121.5178944,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4018209442",
+    "name": "怡客咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1158727,
+    "lng": 121.515332,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4034132391",
+    "name": "故鄉",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: chinese",
+    "address": "台北市北投區",
+    "lat": 25.1738325,
+    "lng": 121.5329571,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4102737890",
+    "name": "滿來溫泉拉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: noodle",
+    "address": "台北市北投區中山路1-8",
+    "lat": 25.1369912,
+    "lng": 121.5047573,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4255816906",
+    "name": "西雅圖極品咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區石牌路二段201",
+    "lat": 25.1200893,
+    "lng": 121.519476,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4307554210",
+    "name": "丹提咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1153229,
+    "lng": 121.5154973,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4307554212",
+    "name": "品鮨日式料理",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: japanese",
+    "address": "台北市北投區東華街二段138",
+    "lat": 25.1195367,
+    "lng": 121.5122513,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4307554215",
+    "name": "盧卡漢堡",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.117601,
+    "lng": 121.5130288,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4307554218",
+    "name": "好日子咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區立農街二段293",
+    "lat": 25.1187366,
+    "lng": 121.5159615,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4307554226",
+    "name": "牛董牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市北投區",
+    "lat": 25.1145887,
+    "lng": 121.5150465,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4307554240",
+    "name": "老眷村北方點心",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1167608,
+    "lng": 121.5157642,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4307554242",
+    "name": "醬弄居酒屋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: japanese",
+    "address": "台北市北投區",
+    "lat": 25.1188663,
+    "lng": 121.5119186,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4307554243",
+    "name": "金樺城鴨肉擔",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1166951,
+    "lng": 121.5159042,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4307554244",
+    "name": "阿二麻辣",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1166659,
+    "lng": 121.5159792,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4344542416",
+    "name": "來契川菜",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: sichuan",
+    "address": "台北市北投區",
+    "lat": 25.1201441,
+    "lng": 121.5110125,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4344542442",
+    "name": "溫州大混沌",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: chinese",
+    "address": "台北市北投區",
+    "lat": 25.1199883,
+    "lng": 121.5115666,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4384259015",
+    "name": "櫻五鐵板燒",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: teppanyaki",
+    "address": "台北市北投區",
+    "lat": 25.1382532,
+    "lng": 121.5023391,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4384259022",
+    "name": "爭鮮",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: sushi",
+    "address": "台北市北投區泉源路12",
+    "lat": 25.1370506,
+    "lng": 121.5043383,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4386830986",
+    "name": "草山老街小吃",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1504441,
+    "lng": 121.5487463,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4386830987",
+    "name": "阿婆米粉湯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.150359,
+    "lng": 121.5488134,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4414859490",
+    "name": "北投李家小館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: chinese",
+    "address": "台北市北投區中正街92",
+    "lat": 25.1326461,
+    "lng": 121.4996652,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4414859594",
+    "name": "儷宴會館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: chinese",
+    "address": "台北市北投區泉源路25",
+    "lat": 25.1397777,
+    "lng": 121.506196,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4418462700",
+    "name": "湖田溫泉會館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1507618,
+    "lng": 121.5369059,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4524082957",
+    "name": "名廚",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1780924,
+    "lng": 121.5394389,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4545809289",
+    "name": "石牌手工蛋餅",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: chinese",
+    "address": "台北市北投區實踐街48巷7",
+    "lat": 25.1147448,
+    "lng": 121.5093102,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4620336496",
+    "name": "山東姥姥",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: chinese",
+    "address": "台北市北投區石牌路一段71巷3弄2",
+    "lat": 25.113909,
+    "lng": 121.5110994,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4628572090",
+    "name": "The HUB",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區明德路161",
+    "lat": 25.1115483,
+    "lng": 121.5212275,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4642434690",
+    "name": "豆咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1406583,
+    "lng": 121.4895156,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4683579111",
+    "name": "台灣惠蓀咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1212545,
+    "lng": 121.5130026,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4810839426",
+    "name": "淳覺直饌",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.131269,
+    "lng": 121.4981132,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4810840722",
+    "name": "路易莎咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區",
+    "lat": 25.1329411,
+    "lng": 121.5000498,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4810840725",
+    "name": "金飯碗自助餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1334155,
+    "lng": 121.5024267,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4810841226",
+    "name": "蒔蘿香草蔬食餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: pasta",
+    "address": "台北市北投區",
+    "lat": 25.1305337,
+    "lng": 121.4991611,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4810841230",
+    "name": "食光的好味",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區崇仁路一段19",
+    "lat": 25.1277718,
+    "lng": 121.5013768,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4810842022",
+    "name": "樂雅樂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: japanese;italian;french",
+    "address": "台北市北投區北投路二段9",
+    "lat": 25.130534,
+    "lng": 121.4988793,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4810842122",
+    "name": "瑞麟美又美",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: local",
+    "address": "台北市北投區",
+    "lat": 25.1298245,
+    "lng": 121.4997939,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4812712622",
+    "name": "85度C",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區中央北路一段98",
+    "lat": 25.1348054,
+    "lng": 121.4997014,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4812712623",
+    "name": "阿馬非蔬食餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: coffee_shop;pasta;pizza",
+    "address": "台北市北投區",
+    "lat": 25.1326571,
+    "lng": 121.4972908,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_4836651128",
+    "name": "拾米",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1370594,
+    "lng": 121.5043714,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5048161953",
+    "name": "85度C",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區中和街335",
+    "lat": 25.1410652,
+    "lng": 121.4995195,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5048161956",
+    "name": "Mr. Brown 伯朗咖啡館",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區中和街249",
+    "lat": 25.1396404,
+    "lng": 121.5009755,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5048161958",
+    "name": "原燒",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區中和街366",
+    "lat": 25.1417205,
+    "lng": 121.4994593,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5048161960",
+    "name": "CoCo都可",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市北投區中和街296",
+    "lat": 25.140716,
+    "lng": 121.5001766,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5110501340",
+    "name": "茶湯會",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市北投區",
+    "lat": 25.1360532,
+    "lng": 121.50396,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5110501341",
+    "name": "正典咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1360902,
+    "lng": 121.5041489,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5178049427",
+    "name": "蕭家牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: regional;noodles",
+    "address": "台北市北投區自強街141巷1",
+    "lat": 25.1111063,
+    "lng": 121.5162853,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5178056922",
+    "name": "第二家鹽酥雞",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: friture;regional",
+    "address": "台北市北投區自強街139",
+    "lat": 25.1110756,
+    "lng": 121.5161944,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5199741122",
+    "name": "凱古早味切仔麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: local",
+    "address": "台北市北投區自強街139",
+    "lat": 25.1111016,
+    "lng": 121.5161588,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5378179010",
+    "name": "CoCo都可",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市北投區中央北路二段",
+    "lat": 25.1366264,
+    "lng": 121.4956184,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5378179011",
+    "name": "家福焼臘店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區中央北路二段",
+    "lat": 25.1365479,
+    "lng": 121.4957835,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5378179013",
+    "name": "古店廣式餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區中央北路二段",
+    "lat": 25.1363416,
+    "lng": 121.4962787,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5378179014",
+    "name": "文化魷魚羹",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: taiwanese_dishes",
+    "address": "台北市北投區中央北路二段",
+    "lat": 25.1363698,
+    "lng": 121.4962155,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5969055685",
+    "name": "大馬",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: asian;malaysian",
+    "address": "台北市北投區",
+    "lat": 25.1169732,
+    "lng": 121.5164925,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5980540982",
+    "name": "星巴克",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區大度路三段296巷45",
+    "lat": 25.1247256,
+    "lng": 121.4669691,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_5980548843",
+    "name": "滿瀚鵝肉拉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: ramen",
+    "address": "台北市北投區",
+    "lat": 25.1255995,
+    "lng": 121.4697799,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6170345954",
+    "name": "山上聊",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區竹子湖路3-17",
+    "lat": 25.1607937,
+    "lng": 121.5431663,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6191479260",
+    "name": "察爾斯廚房",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區行義路136",
+    "lat": 25.1294079,
+    "lng": 121.527841,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6205703852",
+    "name": "立新豆漿",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: chinese",
+    "address": "台北市北投區石牌路一段166巷98",
+    "lat": 25.1122049,
+    "lng": 121.5151545,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6407536511",
+    "name": "漢奇肉羹",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區光明路48",
+    "lat": 25.1327394,
+    "lng": 121.4998975,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6408076686",
+    "name": "阿輝伯蘿蔔絲餅",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區光明路72巷",
+    "lat": 25.1323815,
+    "lng": 121.5011804,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6408110089",
+    "name": "黃家酸菜滷肉飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: asian",
+    "address": "台北市北投區新市街30",
+    "lat": 25.1326787,
+    "lng": 121.5027713,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6515941460",
+    "name": "懷念ㄟ滷肉飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: chinese",
+    "address": "台北市北投區實踐街36",
+    "lat": 25.1151089,
+    "lng": 121.5087292,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6515952569",
+    "name": "竹苑素食餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: chinese",
+    "address": "台北市北投區",
+    "lat": 25.1171838,
+    "lng": 121.5169813,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6515975289",
+    "name": "晴光車輪餅",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: chinese",
+    "address": "台北市北投區",
+    "lat": 25.1152231,
+    "lng": 121.5109478,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6522592536",
+    "name": "福園小館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: chinese",
+    "address": "台北市北投區",
+    "lat": 25.1152447,
+    "lng": 121.5101725,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6855627858",
+    "name": "鍋董日式涮涮鍋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: japanese",
+    "address": "台北市北投區",
+    "lat": 25.1152681,
+    "lng": 121.5091042,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6855627860",
+    "name": "CoCo都可",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: bubble_tea",
+    "address": "台北市北投區",
+    "lat": 25.1181144,
+    "lng": 121.5066098,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6861032285",
+    "name": "孫東寶",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1138911,
+    "lng": 121.5125039,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6865431287",
+    "name": "隆昌海鮮",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: seafood",
+    "address": "台北市北投區",
+    "lat": 25.1110034,
+    "lng": 121.5167472,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6865431288",
+    "name": "廖家牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市北投區",
+    "lat": 25.1109937,
+    "lng": 121.5166855,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6865431289",
+    "name": "群咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區自強街122-1",
+    "lat": 25.1106955,
+    "lng": 121.5159781,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6865431300",
+    "name": "丹堤咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1095801,
+    "lng": 121.5194991,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_6919639360",
+    "name": "椰林溫泉美食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1376701,
+    "lng": 121.5276772,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7004210537",
+    "name": "KAF Coffee",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1330492,
+    "lng": 121.5006606,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7004274052",
+    "name": "春乃家洋食館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1358431,
+    "lng": 121.5062241,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7004274053",
+    "name": "天翔餐廳割烹料理",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1360347,
+    "lng": 121.5070845,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7004274054",
+    "name": "火鍋世家",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市北投區",
+    "lat": 25.1380525,
+    "lng": 121.5029325,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7004274055",
+    "name": "輕鬆餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1377102,
+    "lng": 121.5034287,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7035784674",
+    "name": "北投會館餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區大業路527巷88",
+    "lat": 25.1345778,
+    "lng": 121.4835455,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7037344340",
+    "name": "西式餐飲部",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1276666,
+    "lng": 121.4698282,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715763",
+    "name": "芽米日子",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1374262,
+    "lng": 121.5025366,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715764",
+    "name": "鍋董日式涮涮鍋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: japanese",
+    "address": "台北市北投區",
+    "lat": 25.137541,
+    "lng": 121.5027416,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715769",
+    "name": "早安勇士",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.136413,
+    "lng": 121.5007305,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715771",
+    "name": "萬佳鄉",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1379848,
+    "lng": 121.5009365,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715772",
+    "name": "天天來",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1371868,
+    "lng": 121.4995437,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715773",
+    "name": "台南擔仔麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1376276,
+    "lng": 121.4992659,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715774",
+    "name": "鹿港麵線糊",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1367821,
+    "lng": 121.4992588,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715775",
+    "name": "阿芳越南食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區大同街176-1",
+    "lat": 25.1363509,
+    "lng": 121.4990818,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715776",
+    "name": "小吃攤",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 臭豆腐_豬血糕_大腸麵線",
+    "address": "台北市北投區",
+    "lat": 25.1361874,
+    "lng": 121.4992566,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715777",
+    "name": "南海素食早點",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1355172,
+    "lng": 121.4990622,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715778",
+    "name": "蕎萁早午餐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1354189,
+    "lng": 121.4988395,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715779",
+    "name": "大腸麵線",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區中央北路一段141",
+    "lat": 25.1352222,
+    "lng": 121.4986759,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715780",
+    "name": "粥潤花 虱目魚粥",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1351117,
+    "lng": 121.4986236,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715781",
+    "name": "冰汽水果茶舖",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1351335,
+    "lng": 121.4988288,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715782",
+    "name": "翊家人滷味",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1349878,
+    "lng": 121.499085,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715783",
+    "name": "源士林",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1350595,
+    "lng": 121.4993867,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715784",
+    "name": "明谷屋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1351117,
+    "lng": 121.4997139,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715785",
+    "name": "元食堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1347584,
+    "lng": 121.499832,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715786",
+    "name": "無剌虱目魚",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1332901,
+    "lng": 121.5018832,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715787",
+    "name": "高家傳統米食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1332985,
+    "lng": 121.5019894,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715788",
+    "name": "小籠包",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1335271,
+    "lng": 121.502368,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715789",
+    "name": "卡茲香雞排",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1334615,
+    "lng": 121.5023592,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715790",
+    "name": "陳季炸雞",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1333854,
+    "lng": 121.5025644,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715791",
+    "name": "大塊牛排",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: steak_house",
+    "address": "台北市北投區",
+    "lat": 25.1333197,
+    "lng": 121.502698,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715792",
+    "name": "牛霸小吃店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1332804,
+    "lng": 121.5027839,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715793",
+    "name": "北投雞腿達人",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1332348,
+    "lng": 121.5028617,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715794",
+    "name": "手作雞絲飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1331819,
+    "lng": 121.5029475,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715795",
+    "name": "蔦燒日式居酒屋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: japanese",
+    "address": "台北市北投區",
+    "lat": 25.1332372,
+    "lng": 121.5031174,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715796",
+    "name": "雞肉鼎",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1337535,
+    "lng": 121.5031455,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715797",
+    "name": "廣香素食坊",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1338072,
+    "lng": 121.5024165,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715798",
+    "name": "山西刀削麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1341821,
+    "lng": 121.5024766,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715799",
+    "name": "吉品小火鍋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市北投區",
+    "lat": 25.1343391,
+    "lng": 121.5027323,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715800",
+    "name": "新婦海南雞飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1347804,
+    "lng": 121.5023519,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715801",
+    "name": "川之流精緻涮涮鍋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: japanese",
+    "address": "台北市北投區",
+    "lat": 25.1349495,
+    "lng": 121.5024226,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715802",
+    "name": "24小吃店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1361824,
+    "lng": 121.503821,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715803",
+    "name": "轉角麵館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1361998,
+    "lng": 121.5038677,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715804",
+    "name": "古早味蹄膀飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1359726,
+    "lng": 121.5034664,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715805",
+    "name": "鼎膳便當簡餐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1357613,
+    "lng": 121.5031224,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715806",
+    "name": "岡山眷村涼麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1356885,
+    "lng": 121.5030158,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715807",
+    "name": "艾蜜莉廚房",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1362257,
+    "lng": 121.5044281,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715808",
+    "name": "水美食府",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.136115,
+    "lng": 121.5050679,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715809",
+    "name": "炒麵炒飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1356982,
+    "lng": 121.5049216,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715810",
+    "name": "拾斤獅子麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1355078,
+    "lng": 121.5048546,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715812",
+    "name": "念真早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1350022,
+    "lng": 121.504773,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715813",
+    "name": "水都溫泉拉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: ramen",
+    "address": "台北市北投區",
+    "lat": 25.1367908,
+    "lng": 121.5110617,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715814",
+    "name": "Kahurangi Cafe",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1366339,
+    "lng": 121.5110263,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715815",
+    "name": "雍翠庭",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1377522,
+    "lng": 121.5149826,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7138715816",
+    "name": "歐陸餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1378533,
+    "lng": 121.5151228,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7170228278",
+    "name": "金仙魚丸店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1451845,
+    "lng": 121.4954612,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7170228279",
+    "name": "發記麻辣火鍋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市北投區",
+    "lat": 25.1453654,
+    "lng": 121.4944756,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7170228280",
+    "name": "美珠傳統小吃",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1453559,
+    "lng": 121.4946491,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7170228281",
+    "name": "來亭早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1453113,
+    "lng": 121.4948482,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7170228282",
+    "name": "品味韭菜盒",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1451679,
+    "lng": 121.4947307,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7170228283",
+    "name": "派帝炸雞漢堡早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1451997,
+    "lng": 121.4945211,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7170228284",
+    "name": "古早味魷魚羹",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1451619,
+    "lng": 121.4944319,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7170236085",
+    "name": "七褔牛肉麵水餃店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市北投區",
+    "lat": 25.1452117,
+    "lng": 121.4942916,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7170236086",
+    "name": "明亮食堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1452169,
+    "lng": 121.4941825,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7170236087",
+    "name": "三角骨鹽酥雞",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.145416,
+    "lng": 121.4942309,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7170236088",
+    "name": "巧果蔬食餐坊",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1453422,
+    "lng": 121.4931204,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175334736",
+    "name": "鳥玩義兒",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1301707,
+    "lng": 121.471645,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175334742",
+    "name": "蘇姐漢堡",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1410947,
+    "lng": 121.4883213,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175334746",
+    "name": "阿發海產快炒",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1385183,
+    "lng": 121.4916734,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175334751",
+    "name": "海餃十塘",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1364305,
+    "lng": 121.4972598,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175334763",
+    "name": "江浙小館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1282381,
+    "lng": 121.4687962,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175334766",
+    "name": "火鍋世家",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: hotpot",
+    "address": "台北市北投區",
+    "lat": 25.1228415,
+    "lng": 121.5244385,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175334769",
+    "name": "湖南活魚",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1289644,
+    "lng": 121.4700032,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175334779",
+    "name": "小夫妻",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區紗帽路123",
+    "lat": 25.1501989,
+    "lng": 121.5483947,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175334783",
+    "name": "志明牛肉拉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: ramen",
+    "address": "台北市北投區",
+    "lat": 25.1362816,
+    "lng": 121.497036,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344486",
+    "name": "快快丼食堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1240143,
+    "lng": 121.4666418,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344490",
+    "name": "小南門傳統美食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.120144,
+    "lng": 121.5196798,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344496",
+    "name": "瓦城泰國料理",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: thai",
+    "address": "台北市北投區天母西路111",
+    "lat": 25.1189112,
+    "lng": 121.5234211,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344512",
+    "name": "老爹手工蔥大餅",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1406204,
+    "lng": 121.4884105,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344518",
+    "name": "胖老闆",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.138381,
+    "lng": 121.4861799,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344523",
+    "name": "吉祥素食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1363777,
+    "lng": 121.4970782,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344528",
+    "name": "阿姨刀削麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1275761,
+    "lng": 121.4673731,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344535",
+    "name": "永和豆漿",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: chinese;breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1283196,
+    "lng": 121.4688683,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344539",
+    "name": "聚餐光雕廚房",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1226396,
+    "lng": 121.5246284,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344542",
+    "name": "李大吉溫洲大餛飩",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1284265,
+    "lng": 121.4691521,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344547",
+    "name": "雲象泰式餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: thai",
+    "address": "台北市北投區",
+    "lat": 25.1201976,
+    "lng": 121.5196987,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344552",
+    "name": "太陽胡椒餅",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.151307,
+    "lng": 121.5475162,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344559",
+    "name": "吳家牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市北投區",
+    "lat": 25.1362113,
+    "lng": 121.4970679,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344561",
+    "name": "關渡 宇弘越南美食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1236258,
+    "lng": 121.4663628,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344565",
+    "name": "皇家傳承",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1202153,
+    "lng": 121.5197961,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344578",
+    "name": "332肉羹",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1223736,
+    "lng": 121.5242925,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344589",
+    "name": "千戶厚切牛排",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: steak_house",
+    "address": "台北市北投區",
+    "lat": 25.1279564,
+    "lng": 121.4674643,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344595",
+    "name": "美帝漢堡",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1387849,
+    "lng": 121.486749,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344600",
+    "name": "金仙魯肉飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1385659,
+    "lng": 121.4916411,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344604",
+    "name": "鴨寨夫人",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1278135,
+    "lng": 121.4678454,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344615",
+    "name": "麥味登",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: american;breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1227046,
+    "lng": 121.5243639,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344618",
+    "name": "家傳味擔仔麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1285033,
+    "lng": 121.46936,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344622",
+    "name": "佶園排骨飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1233867,
+    "lng": 121.5250292,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344629",
+    "name": "小莊芋頭米粉湯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1502643,
+    "lng": 121.5476867,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344633",
+    "name": "炸地瓜",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1504202,
+    "lng": 121.548901,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344636",
+    "name": "紀家葱抓餅",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區中央北路四段583巷37",
+    "lat": 25.1255002,
+    "lng": 121.4658403,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344640",
+    "name": "義美見學餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1200791,
+    "lng": 121.5197865,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344646",
+    "name": "尋偵手作日本料理",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: japanese",
+    "address": "台北市北投區",
+    "lat": 25.1186926,
+    "lng": 121.5219623,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344652",
+    "name": "大玩偶美式餅脆炸雞",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1225924,
+    "lng": 121.5245244,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344663",
+    "name": "101小吃店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1411339,
+    "lng": 121.4896262,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344669",
+    "name": "來我家海鮮飲食店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: seafood",
+    "address": "台北市北投區",
+    "lat": 25.139145,
+    "lng": 121.4855502,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344675",
+    "name": "富園海鮮樓",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: seafood",
+    "address": "台北市北投區",
+    "lat": 25.1381392,
+    "lng": 121.4920423,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344680",
+    "name": "鄭媽媽早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1269422,
+    "lng": 121.4670894,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344686",
+    "name": "晴光意麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1282272,
+    "lng": 121.4687034,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344693",
+    "name": "相思起小館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1283345,
+    "lng": 121.4689611,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344698",
+    "name": "磺溪小鎮",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1234313,
+    "lng": 121.5254132,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344712",
+    "name": "米塔手感烘焙 關渡店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1253368,
+    "lng": 121.4673667,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344715",
+    "name": "曾記美食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1411738,
+    "lng": 121.4894504,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344721",
+    "name": "miso串燒居酒屋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.118599,
+    "lng": 121.5222959,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344727",
+    "name": "莎諾西餐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1188173,
+    "lng": 121.5237166,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344737",
+    "name": "燒酒狸居食屋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1301439,
+    "lng": 121.4715922,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344743",
+    "name": "老麥麵店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1384959,
+    "lng": 121.4855929,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344748",
+    "name": "北投麥威爾早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1386172,
+    "lng": 121.4867193,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344770",
+    "name": "蒙滷養生麻辣煮",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1286322,
+    "lng": 121.4697409,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344780",
+    "name": "朱寓芋頭米粉湯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1502644,
+    "lng": 121.5484108,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344785",
+    "name": "明德素食園",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1203006,
+    "lng": 121.5197979,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344787",
+    "name": "關渡吉得堡早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1268052,
+    "lng": 121.467136,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344791",
+    "name": "洪祖師擔仔麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1201409,
+    "lng": 121.5198143,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7175344798",
+    "name": "找餐 中西式早午餐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1220902,
+    "lng": 121.5241498,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7194693227",
+    "name": "一六一舖",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1672603,
+    "lng": 121.5404254,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7194693276",
+    "name": "田園休閒餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1707598,
+    "lng": 121.5389051,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7194706704",
+    "name": "陽明山悠閒居",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.160352,
+    "lng": 121.5369969,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7194706737",
+    "name": "名廚料理會館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1786605,
+    "lng": 121.5407594,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7194706748",
+    "name": "竹湖土雞城",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1769165,
+    "lng": 121.5324907,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7194706761",
+    "name": "和風美食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1776106,
+    "lng": 121.5345311,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7194706768",
+    "name": "原鄉私房餐館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1772177,
+    "lng": 121.5337358,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7194706841",
+    "name": "黑木屋餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: regional",
+    "address": "台北市北投區",
+    "lat": 25.1782005,
+    "lng": 121.5423081,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7194706869",
+    "name": "辛亥光復樓",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1596054,
+    "lng": 121.5397651,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7194706923",
+    "name": "竹子湖炒青菜",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1778927,
+    "lng": 121.5340676,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7194706995",
+    "name": "頂湖山農園",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1737867,
+    "lng": 121.5404726,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7194707001",
+    "name": "老湖田小吃店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.170893,
+    "lng": 121.5390815,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7194707009",
+    "name": "竹子湖休閒中心",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1773306,
+    "lng": 121.5317242,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7194711446",
+    "name": "真有味",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1383406,
+    "lng": 121.4909014,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7276061147",
+    "name": "矮仔財滷肉飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區新市街30",
+    "lat": 25.1324324,
+    "lng": 121.5028305,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7370591460",
+    "name": "金李朴韓國小館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: korean",
+    "address": "台北市北投區知行路281",
+    "lat": 25.1213954,
+    "lng": 121.467196,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710508",
+    "name": "三媽臭臭鍋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市北投區",
+    "lat": 25.1328462,
+    "lng": 121.5023095,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710509",
+    "name": "阿宗蚵仔煎",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1330908,
+    "lng": 121.5023636,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710510",
+    "name": "牛王子牛排攤",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: steak_house",
+    "address": "台北市北投區",
+    "lat": 25.1330256,
+    "lng": 121.5024622,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710511",
+    "name": "北投鼎邊銼",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1324081,
+    "lng": 121.5027286,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710512",
+    "name": "北投市場阿將扁食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1321422,
+    "lng": 121.5030706,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710513",
+    "name": "營養蚵仔",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1322527,
+    "lng": 121.5029915,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710514",
+    "name": "老店魷魚羹",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1321556,
+    "lng": 121.502164,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710515",
+    "name": "簡記排骨酥麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1323948,
+    "lng": 121.5021586,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710516",
+    "name": "晟記燒腊",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1324045,
+    "lng": 121.5016544,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710517",
+    "name": "文吉肉羹老店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1324773,
+    "lng": 121.5018448,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710518",
+    "name": "食至名歸當歸鴨",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.132538,
+    "lng": 121.5013701,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710519",
+    "name": "北投老又新牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: beef_noodle",
+    "address": "台北市北投區",
+    "lat": 25.132436,
+    "lng": 121.5010495,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710520",
+    "name": "一級棒早點",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1324142,
+    "lng": 121.5009208,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710521",
+    "name": "巴巴先生的瘋狂廚房",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1319953,
+    "lng": 121.500666,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710522",
+    "name": "瑞泰油麵老店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.132226,
+    "lng": 121.500155,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710523",
+    "name": "北投站前好吃滷味",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1327338,
+    "lng": 121.4992185,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710524",
+    "name": "金鱻熱炒",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.132873,
+    "lng": 121.4991002,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710525",
+    "name": "樂山窄巷拉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1329887,
+    "lng": 121.498989,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710526",
+    "name": "阿雪餐飲",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1327655,
+    "lng": 121.4985751,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710527",
+    "name": "阿金江浙小館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1325332,
+    "lng": 121.4972918,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695710528",
+    "name": "喬園二店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.132345,
+    "lng": 121.4961639,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695911849",
+    "name": "芬方早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1380496,
+    "lng": 121.4845535,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695911850",
+    "name": "方家麵線",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1381182,
+    "lng": 121.4846957,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7695911851",
+    "name": "美好早點小籠包",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1382367,
+    "lng": 121.4849935,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7699886618",
+    "name": "找午倉",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1246272,
+    "lng": 121.467044,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7699886619",
+    "name": "魔女複合式餐飲",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1249616,
+    "lng": 121.467369,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421094",
+    "name": "QQ堡早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.120067,
+    "lng": 121.4663344,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421095",
+    "name": "ㄔˇ留香現做湯包.蒸餃",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1205357,
+    "lng": 121.4666704,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421096",
+    "name": "寶神日式涮涮鍋關渡店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1209018,
+    "lng": 121.4675656,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421097",
+    "name": "關渡鵝肉",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1190591,
+    "lng": 121.4664156,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421098",
+    "name": "關渡禚家餃子館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1225198,
+    "lng": 121.4670373,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421099",
+    "name": "關渡明記大塊雞排",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1211729,
+    "lng": 121.4673795,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421100",
+    "name": "關渡豆漿",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1193536,
+    "lng": 121.4668082,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421101",
+    "name": "關渡豆花",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1206237,
+    "lng": 121.4666435,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421102",
+    "name": "關渡古早街坊",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.117262,
+    "lng": 121.4632392,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421103",
+    "name": "關渡10號茶葉鳥蛋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1173513,
+    "lng": 121.4631942,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421104",
+    "name": "鮮炸雞",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1203511,
+    "lng": 121.4666409,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421105",
+    "name": "漢堡屋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.122028,
+    "lng": 121.467463,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421106",
+    "name": "嘉義東石蚵仔麵線",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.119486,
+    "lng": 121.4663968,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421107",
+    "name": "發麻辣",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1178983,
+    "lng": 121.4643181,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421108",
+    "name": "勝記油飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1226909,
+    "lng": 121.46718,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421109",
+    "name": "郭少爺麵線",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1219679,
+    "lng": 121.4672711,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421110",
+    "name": "第一街快餐便當",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1205691,
+    "lng": 121.4669969,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421111",
+    "name": "基哥小吃",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1188121,
+    "lng": 121.4661058,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421112",
+    "name": "啃吐司·早午餐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1206219,
+    "lng": 121.4668863,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421113",
+    "name": "星馬海南雞飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1226873,
+    "lng": 121.4672959,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421114",
+    "name": "品樂精緻鍋物",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1204166,
+    "lng": 121.4673134,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421115",
+    "name": "厚恩創意拉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1226638,
+    "lng": 121.467523,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421116",
+    "name": "阿貴手工臭豆腐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1192,
+    "lng": 121.466333,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421117",
+    "name": "阿倫美食屋(關渡店)",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1171891,
+    "lng": 121.463105,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421118",
+    "name": "阿韋炒羊肉",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1219728,
+    "lng": 121.467076,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421119",
+    "name": "阿成切仔麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1219733,
+    "lng": 121.4675367,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421120",
+    "name": "花生糖",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1170823,
+    "lng": 121.4632143,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421121",
+    "name": "波霸紅燒雞腿飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1214783,
+    "lng": 121.4674489,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421122",
+    "name": "林董山西蕃茄牛肉刀削麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1222502,
+    "lng": 121.4673597,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421123",
+    "name": "承川飲食店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1171211,
+    "lng": 121.4631982,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421124",
+    "name": "和禧素食坊",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區知行路316巷20弄1",
+    "lat": 25.1223835,
+    "lng": 121.4682539,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421125",
+    "name": "佳佳小吃店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1217159,
+    "lng": 121.4672363,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421126",
+    "name": "阮Q臭豆腐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1205017,
+    "lng": 121.4669057,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421127",
+    "name": "好糧",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1208453,
+    "lng": 121.4687015,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421128",
+    "name": "玉城素食滷味",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1172322,
+    "lng": 121.4631037,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421129",
+    "name": "巨林美而美",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.122323,
+    "lng": 121.4671171,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421130",
+    "name": "左賀食堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1216389,
+    "lng": 121.4669084,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421131",
+    "name": "台灣牛溫體豬",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1188885,
+    "lng": 121.4662284,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421132",
+    "name": "丼布狸居食屋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1217876,
+    "lng": 121.467648,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421133",
+    "name": "水鳥公園52號",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區知行路260巷52",
+    "lat": 25.1207536,
+    "lng": 121.4691065,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421134",
+    "name": "日村涮涮鍋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1202977,
+    "lng": 121.4690427,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421135",
+    "name": "天空廚房",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1207609,
+    "lng": 121.4689764,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421136",
+    "name": "小廚川味牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.122442,
+    "lng": 121.4670534,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421137",
+    "name": "大呼過癮",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1208368,
+    "lng": 121.4683689,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421138",
+    "name": "三顧茅廬麻辣滷味",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1207178,
+    "lng": 121.4673248,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421139",
+    "name": "八金坊平價日式料理",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1212276,
+    "lng": 121.4674318,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421141",
+    "name": "七褔牛肉麵水餃店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1214049,
+    "lng": 121.4674667,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421142",
+    "name": "92水鳥",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1183417,
+    "lng": 121.4687303,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7700421143",
+    "name": "31號",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1171903,
+    "lng": 121.4632911,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7734711649",
+    "name": "臥籠崗包子",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1203778,
+    "lng": 121.5071422,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652918",
+    "name": "賓城小吃店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1400005,
+    "lng": 121.5008812,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652920",
+    "name": "香酥雞",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.139042,
+    "lng": 121.5013801,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652921",
+    "name": "劉家早堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1260938,
+    "lng": 121.5280359,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652922",
+    "name": "蓬萊台菜餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1394292,
+    "lng": 121.5014505,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652923",
+    "name": "馥十方",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.139521,
+    "lng": 121.501124,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652926",
+    "name": "hoja kitchen",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1391161,
+    "lng": 121.500664,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652931",
+    "name": "阿伯臭豆腐/豆花",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1261236,
+    "lng": 121.5280735,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652932",
+    "name": "家聚Brunch",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1400636,
+    "lng": 121.5008316,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652940",
+    "name": "水煎包",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1396363,
+    "lng": 121.501193,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652942",
+    "name": "裴記火雞肉飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.140576,
+    "lng": 121.5000531,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652946",
+    "name": "臭豆腐 豆花 餐車",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1259961,
+    "lng": 121.5278522,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652950",
+    "name": "小吃麵攤",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1391015,
+    "lng": 121.5014646,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652951",
+    "name": "米琪早餐吧",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1402039,
+    "lng": 121.5004521,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652954",
+    "name": "齊聖素食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.138753,
+    "lng": 121.501155,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747652956",
+    "name": "日本拉麵屋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1406415,
+    "lng": 121.4999874,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7747683212",
+    "name": "sweet kingdom",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1303107,
+    "lng": 121.5292436,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822693",
+    "name": "北投復興牛肉麵店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1422793,
+    "lng": 121.5001664,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822694",
+    "name": "小方小吃店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1419922,
+    "lng": 121.4998868,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822695",
+    "name": "佛光山安國寺滴水坊",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.147095,
+    "lng": 121.503518,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822696",
+    "name": "QBurger",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.143571,
+    "lng": 121.4981715,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822697",
+    "name": "無店名の麵店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1426034,
+    "lng": 121.4986322,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822698",
+    "name": "日食早午餐 Day Food",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1408485,
+    "lng": 121.4997976,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822700",
+    "name": "無眠workshop",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1419412,
+    "lng": 121.500039,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822702",
+    "name": "京盈牛",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1394979,
+    "lng": 121.5013922,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822706",
+    "name": "暹邏泰式家常菜",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1397219,
+    "lng": 121.4992317,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822707",
+    "name": "永和豆漿",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: chinese;breakfast",
+    "address": "台北市北投區",
+    "lat": 25.141163,
+    "lng": 121.4993765,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822708",
+    "name": "阿雲米粉炒",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1390007,
+    "lng": 121.4996622,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822709",
+    "name": "金凌鴨莊",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.141438,
+    "lng": 121.4992169,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822711",
+    "name": "幸福屋早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1404273,
+    "lng": 121.5002161,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822712",
+    "name": "泉茶田園閒情",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1462218,
+    "lng": 121.5104909,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822714",
+    "name": "龍鹽酥雞",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.139022,
+    "lng": 121.499176,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822715",
+    "name": "賀食堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1412291,
+    "lng": 121.4993477,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822717",
+    "name": "永裕排骨便當",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1415072,
+    "lng": 121.499166,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822718",
+    "name": "十方素食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1409881,
+    "lng": 121.4993537,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822719",
+    "name": "大米便當",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1402081,
+    "lng": 121.4992552,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822721",
+    "name": "酒米食堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1395282,
+    "lng": 121.5004809,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822722",
+    "name": "吾妻家食堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1447031,
+    "lng": 121.4962491,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822723",
+    "name": "酷樂雞",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1415539,
+    "lng": 121.4991257,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822724",
+    "name": "老福興燒餅",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1410227,
+    "lng": 121.4993557,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822725",
+    "name": "檳榔宗北九州傳統屋台料理",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1447504,
+    "lng": 121.4962665,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822726",
+    "name": "櫻花鄉韓式美食館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.142309,
+    "lng": 121.500147,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822727",
+    "name": "美吉早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1418179,
+    "lng": 121.4999405,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822728",
+    "name": "北投乾烙韭菜盒子 總店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.141444,
+    "lng": 121.4998479,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822730",
+    "name": "梅苑小館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1390038,
+    "lng": 121.5000182,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822731",
+    "name": "魚酥羹",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1414118,
+    "lng": 121.4998627,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822734",
+    "name": "好佳早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1422957,
+    "lng": 121.4999009,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822735",
+    "name": "陳媽早餐店 （小雞飯）",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1423345,
+    "lng": 121.5001879,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822736",
+    "name": "房記煇伯鴨肉羹",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1416462,
+    "lng": 121.4990379,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822738",
+    "name": "真知味快炒",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1392575,
+    "lng": 121.4999921,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822739",
+    "name": "佳味魷魚羹",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1408224,
+    "lng": 121.4994986,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822740",
+    "name": "王家 蔥油餅",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1417785,
+    "lng": 121.4997212,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822741",
+    "name": "苗栗客家菜館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1447941,
+    "lng": 121.4962343,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822742",
+    "name": "好聚會日式料理",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1410938,
+    "lng": 121.499347,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7749822743",
+    "name": "玉食堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1431522,
+    "lng": 121.4983566,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7775187071",
+    "name": "摘星樓星月360度旋轉景觀餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1080361,
+    "lng": 121.4994042,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7775202970",
+    "name": "嶼食咖啡",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1552255,
+    "lng": 121.546801,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7775574802",
+    "name": "小金魚奶茶",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1337874,
+    "lng": 121.5024986,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7794355421",
+    "name": "粟厝",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1336025,
+    "lng": 121.47594,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7794355422",
+    "name": "桃源早餐吧",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1352565,
+    "lng": 121.4782709,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7794355423",
+    "name": "126小吃店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1374716,
+    "lng": 121.4833289,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7794355424",
+    "name": "榮記鴨肉庄",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1375092,
+    "lng": 121.4833979,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7794355425",
+    "name": "留菜香食堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1377387,
+    "lng": 121.4839196,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7794355426",
+    "name": "野餐咖啡館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1378298,
+    "lng": 121.484709,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7794355427",
+    "name": "星悦小吃坊",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1237194,
+    "lng": 121.4666207,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097868",
+    "name": "愛你喔手作坊",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1095783,
+    "lng": 121.521899,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097869",
+    "name": "德鮮屋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1103327,
+    "lng": 121.5211627,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097870",
+    "name": "一畝田豆花",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1103499,
+    "lng": 121.5209807,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097871",
+    "name": "台南虱目魚專賣店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1103963,
+    "lng": 121.5203975,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097872",
+    "name": "六六早餐吧",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1102254,
+    "lng": 121.5205909,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097873",
+    "name": "六媽小火鍋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1101472,
+    "lng": 121.5204913,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097874",
+    "name": "牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1098304,
+    "lng": 121.520205,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097875",
+    "name": "二姐鐵板燒",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1097626,
+    "lng": 121.5201054,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097876",
+    "name": "梁社漢排骨",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: taiwanese",
+    "address": "台北市北投區",
+    "lat": 25.1097213,
+    "lng": 121.5196796,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097877",
+    "name": "石牌牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1096466,
+    "lng": 121.5193145,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097878",
+    "name": "丰明殿昆布蔬果涮涮鍋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1097299,
+    "lng": 121.5192462,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097880",
+    "name": "食在幸福",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1086205,
+    "lng": 121.5185473,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097881",
+    "name": "霸味薑母鴨",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1085278,
+    "lng": 121.5185265,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097882",
+    "name": "凱洛",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1080725,
+    "lng": 121.5183578,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097883",
+    "name": "元味",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.107945,
+    "lng": 121.5182593,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798097884",
+    "name": "阿鸞滷肉飯，咖哩飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1073572,
+    "lng": 121.5177168,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137185",
+    "name": "仟人活力",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1074331,
+    "lng": 121.5177745,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137187",
+    "name": "日久早午餐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1075734,
+    "lng": 121.5178516,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137188",
+    "name": "池上便當",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1057387,
+    "lng": 121.5176052,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137189",
+    "name": "阿洲米粉湯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1046515,
+    "lng": 121.5189164,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137190",
+    "name": "文林原汁牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: noodle",
+    "address": "台北市北投區",
+    "lat": 25.1050748,
+    "lng": 121.5183679,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137195",
+    "name": "京城烤鴨",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1119213,
+    "lng": 121.5103222,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137196",
+    "name": "四海遊龍",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: dumplings",
+    "address": "台北市北投區",
+    "lat": 25.1130238,
+    "lng": 121.5101084,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137197",
+    "name": "隆華粵菜燒臘館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1129276,
+    "lng": 121.5102904,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137198",
+    "name": "洛城吐司",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1150404,
+    "lng": 121.5107169,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137199",
+    "name": "鮮堡漢堡",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1152159,
+    "lng": 121.5108865,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137200",
+    "name": "91堅果館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1153197,
+    "lng": 121.5113264,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137201",
+    "name": "越南小吃",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1153155,
+    "lng": 121.5114847,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137202",
+    "name": "吉得堡漢堡",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.116054,
+    "lng": 121.5115706,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137203",
+    "name": "石牌公園腸粉豆槳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1161124,
+    "lng": 121.5112283,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137204",
+    "name": "丼窟日式食堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1167071,
+    "lng": 121.5120104,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137205",
+    "name": "鮮味屋小吃",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1172106,
+    "lng": 121.5115123,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137206",
+    "name": "老張牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1169993,
+    "lng": 121.5119163,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137207",
+    "name": "馬咖咖啡義大利麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1169723,
+    "lng": 121.5119988,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137208",
+    "name": "Q仔素",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1169362,
+    "lng": 121.5122909,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137209",
+    "name": "婆媽",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1168074,
+    "lng": 121.5123554,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137210",
+    "name": "香港鏞記燒臘快餐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1173359,
+    "lng": 121.5128139,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137211",
+    "name": "早坊早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1172209,
+    "lng": 121.5126626,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137212",
+    "name": "旺利自助餐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1170831,
+    "lng": 121.5126968,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137213",
+    "name": "快樂豆花",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1172303,
+    "lng": 121.5128584,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137214",
+    "name": "蔥油餅",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1173497,
+    "lng": 121.513169,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137215",
+    "name": "禾竹家常菜",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1183899,
+    "lng": 121.5124654,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137216",
+    "name": "鱉大王",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1180005,
+    "lng": 121.5127427,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137217",
+    "name": "上味相素食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1176579,
+    "lng": 121.512995,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7798137218",
+    "name": "兩披索靚鍋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.117688,
+    "lng": 121.5137015,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7936796217",
+    "name": "85度C",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區",
+    "lat": 25.1220073,
+    "lng": 121.4672819,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_7950298248",
+    "name": "泳池咖啡廳",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1344855,
+    "lng": 121.4995351,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383348179",
+    "name": "寶堡飽複合式早餐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1198326,
+    "lng": 121.5060988,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383348180",
+    "name": "莊腳咖哩飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1204004,
+    "lng": 121.5062715,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383348181",
+    "name": "日蒔嚐常",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1213835,
+    "lng": 121.5049192,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383348182",
+    "name": "唭哩岸手工麵線",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1207704,
+    "lng": 121.5048073,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383348183",
+    "name": "唭哩岸早餐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1207258,
+    "lng": 121.5051772,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383348184",
+    "name": "甄味炒飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1205025,
+    "lng": 121.5063303,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391843",
+    "name": "許媽媽便當",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1301135,
+    "lng": 121.5018264,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391844",
+    "name": "YU丼販",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1306458,
+    "lng": 121.5014908,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391845",
+    "name": "不貽樣湯包",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1308406,
+    "lng": 121.5013109,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391846",
+    "name": "阿德鵝肉店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1305367,
+    "lng": 121.500814,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391847",
+    "name": "享鍋鍋膳之家",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1305144,
+    "lng": 121.500686,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391849",
+    "name": "馬場台菜熱炒",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1282988,
+    "lng": 121.5001859,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391850",
+    "name": "張吳記什錦麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1277344,
+    "lng": 121.4999975,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391851",
+    "name": "萊馥坊",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1271523,
+    "lng": 121.5001739,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391852",
+    "name": "我家客家小館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1269668,
+    "lng": 121.5002555,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391853",
+    "name": "有有有鵝肉",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1267805,
+    "lng": 121.500484,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391854",
+    "name": "肉販-燒肉飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1266766,
+    "lng": 121.5005158,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391855",
+    "name": "man蛋-肉蛋吐司",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1265122,
+    "lng": 121.5005694,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391856",
+    "name": "阿生海鮮店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1264708,
+    "lng": 121.5005533,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391857",
+    "name": "Kk窯烤披薩",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1263628,
+    "lng": 121.5006579,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391858",
+    "name": "食米鄉",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1266234,
+    "lng": 121.5013859,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391859",
+    "name": "董記牛肉麵店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1266724,
+    "lng": 121.5013745,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391861",
+    "name": "小米蔥油餅",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1264714,
+    "lng": 121.5013147,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391862",
+    "name": "奇岩小吃店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1264251,
+    "lng": 121.5011791,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391863",
+    "name": "Apple203",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1263826,
+    "lng": 121.5011896,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391864",
+    "name": "粥師傅廣東粥",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1262435,
+    "lng": 121.5012868,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391865",
+    "name": "Mina .咖啡",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1261928,
+    "lng": 121.5016202,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391866",
+    "name": "小美食堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1263348,
+    "lng": 121.5016758,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391868",
+    "name": "2+1健康廚房",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1264314,
+    "lng": 121.5021613,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391869",
+    "name": "云娘雲南過橋米線",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1266432,
+    "lng": 121.5023598,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391870",
+    "name": "芳芳小吃店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1273499,
+    "lng": 121.501767,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391871",
+    "name": "韓楓館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1269996,
+    "lng": 121.5014552,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391872",
+    "name": "華城港式燒臘",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1268381,
+    "lng": 121.5014867,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391873",
+    "name": "炸雞王",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1269037,
+    "lng": 121.5013694,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391874",
+    "name": "便當店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1271726,
+    "lng": 121.501307,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391875",
+    "name": "金仙魯肉飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1271162,
+    "lng": 121.5013151,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391876",
+    "name": "五十味豬腳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1274009,
+    "lng": 121.5013037,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391877",
+    "name": "鳳凰食補薑母鴨",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1275478,
+    "lng": 121.5013935,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391878",
+    "name": "古月芝麻蔥油餅",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.128113,
+    "lng": 121.5009658,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391879",
+    "name": "221食堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1279611,
+    "lng": 121.5010331,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391880",
+    "name": "吳八鍋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1280126,
+    "lng": 121.5010625,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391881",
+    "name": "敏居酒食堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1277166,
+    "lng": 121.5012386,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391882",
+    "name": "張家麵線",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1286224,
+    "lng": 121.5018254,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391883",
+    "name": "許姑丈餃子",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1284718,
+    "lng": 121.5011106,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391884",
+    "name": "派帝漢堡",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1288308,
+    "lng": 121.5010957,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391885",
+    "name": "伊鍋一",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1297415,
+    "lng": 121.5011314,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391886",
+    "name": "北投海苔飯卷",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.130542,
+    "lng": 121.5012065,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391888",
+    "name": "PIZZA HUT必勝客",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1303332,
+    "lng": 121.5011696,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391889",
+    "name": "chill chill café",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1303963,
+    "lng": 121.5003213,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391890",
+    "name": "三興自助餐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1304272,
+    "lng": 121.5004628,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391891",
+    "name": "真鶴日式海鮮料理",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.130593,
+    "lng": 121.5004414,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391892",
+    "name": "雙江辣Style",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1306379,
+    "lng": 121.5005419,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391893",
+    "name": "許多肉創意食堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.130701,
+    "lng": 121.5007022,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391895",
+    "name": "巧涼古早味冰熱甜品",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1316626,
+    "lng": 121.5024704,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391896",
+    "name": "富記油飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1315588,
+    "lng": 121.5020701,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391897",
+    "name": "王掌櫃私房鹽水雞",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1318539,
+    "lng": 121.5020299,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391898",
+    "name": "老家餡餅北投店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1318757,
+    "lng": 121.5019085,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391899",
+    "name": "何佳佳蔥油餅",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.131744,
+    "lng": 121.501877,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391900",
+    "name": "北投乾烙韭菜盒子",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1314672,
+    "lng": 121.5016732,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391901",
+    "name": "雞腳張",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1314107,
+    "lng": 121.5017094,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391902",
+    "name": "牛小弟平價牛排",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1312535,
+    "lng": 121.5018576,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391903",
+    "name": "好厝邊",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1306749,
+    "lng": 121.5020155,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391904",
+    "name": "北投羊肉焿",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1307316,
+    "lng": 121.5023711,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391905",
+    "name": "88客棧",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.130735,
+    "lng": 121.5024973,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391906",
+    "name": "光輝傳統美食小吃",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1307161,
+    "lng": 121.5022839,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391907",
+    "name": "許家牛肉麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1309493,
+    "lng": 121.5024423,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391908",
+    "name": "北投麵線大王",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.130973,
+    "lng": 121.5026059,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391909",
+    "name": "小魔女咖啡早午餐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1309694,
+    "lng": 121.5029258,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391910",
+    "name": "燈亮客來",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1309831,
+    "lng": 121.5031464,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391911",
+    "name": "士官長涼麵",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1308329,
+    "lng": 121.5034247,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391912",
+    "name": "越南小吃",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.13099,
+    "lng": 121.5034475,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391913",
+    "name": "陳記素食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1311926,
+    "lng": 121.5034788,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391914",
+    "name": "海鮮拉麵清燉豬腳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1313703,
+    "lng": 121.5034731,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391915",
+    "name": "磺港豆漿",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1315424,
+    "lng": 121.5034395,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391927",
+    "name": "二花早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1327221,
+    "lng": 121.4990156,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391928",
+    "name": "貴婦滷味",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.132741,
+    "lng": 121.4990573,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391929",
+    "name": "一心餃子牛肉麵專賣店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1332264,
+    "lng": 121.4987475,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391930",
+    "name": "素食 早上開始",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1335075,
+    "lng": 121.4985967,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391931",
+    "name": "菩提素食早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1334656,
+    "lng": 121.498594,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391932",
+    "name": "傳統之最豆花堂",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1335549,
+    "lng": 121.4984907,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391933",
+    "name": "子女居酒屋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1336037,
+    "lng": 121.4982597,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391934",
+    "name": "南台灣麵食滷味",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1333243,
+    "lng": 121.4981853,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391935",
+    "name": "張媽媽素食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1334402,
+    "lng": 121.4979843,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391936",
+    "name": "佳佳脆皮雞蛋糕",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1336573,
+    "lng": 121.498449,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391937",
+    "name": "炸地瓜蘿蔔糕米腸藥膳排骨",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1338601,
+    "lng": 121.4983503,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391938",
+    "name": "香草綠早餐店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1340137,
+    "lng": 121.4983911,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8383391939",
+    "name": "宵夜",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1341502,
+    "lng": 121.4984025,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_8922062696",
+    "name": "路易莎咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: coffee_shop",
+    "address": "台北市北投區",
+    "lat": 25.1190409,
+    "lng": 121.5221351,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_9629155353",
+    "name": "牙口",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區大興街9巷45",
+    "lat": 25.1309979,
+    "lng": 121.4971519,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_9829408467",
+    "name": "全家福素食",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: regional",
+    "address": "台北市北投區石牌路一段166巷112",
+    "lat": 25.112077,
+    "lng": 121.5152523,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_11404705855",
+    "name": "水果兔自然麵包",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: pizza",
+    "address": "台北市北投區",
+    "lat": 25.1521162,
+    "lng": 121.547068,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_11466991068",
+    "name": "包子商行",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區公舘路33",
+    "lat": 25.1330736,
+    "lng": 121.5031558,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_12183722135",
+    "name": "利哥麻辣燙",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 火鍋",
+    "address": "台北市北投區",
+    "lat": 25.1219246,
+    "lng": 121.4673248,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_13167326860",
+    "name": "壹樓早餐",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: breakfast",
+    "address": "台北市北投區",
+    "lat": 25.1220152,
+    "lng": 121.4672959,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_13527677002",
+    "name": "Changing Cafe/淺淾咖啡",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1158725,
+    "lng": 121.5184475,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_13527690601",
+    "name": "吉豚屋 石牌店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1158003,
+    "lng": 121.5153207,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_172361199",
+    "name": "學生餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.122935,
+    "lng": 121.5115297,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_256161759",
+    "name": "阿福草X輕食·飲",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區學園路1",
+    "lat": 25.1319457,
+    "lng": 121.4684769,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_256161761",
+    "name": "寶萊納餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1318005,
+    "lng": 121.4663775,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_329838552",
+    "name": "黑木屋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1780446,
+    "lng": 121.5318385,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_407213347",
+    "name": "山中園",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: regional;taiwanese",
+    "address": "台北市北投區竹子湖路33-7",
+    "lat": 25.1728082,
+    "lng": 121.5328604,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_421424471",
+    "name": "玉瀧谷餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區竹子湖路8-16",
+    "lat": 25.1634952,
+    "lng": 121.5360034,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_456286909",
+    "name": "湖田大樹下",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1727901,
+    "lng": 121.538679,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_546759770",
+    "name": "里仁關渡喬大店",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1212956,
+    "lng": 121.4727235,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_547017647",
+    "name": "學生餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1346827,
+    "lng": 121.470978,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_559386099",
+    "name": "餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1573682,
+    "lng": 121.548056,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_587072072",
+    "name": "湖田橋餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1704288,
+    "lng": 121.5387247,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_660702586",
+    "name": "冠宸食館",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1763399,
+    "lng": 121.5397056,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_660702587",
+    "name": "頂湖小鎮",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1772227,
+    "lng": 121.5400917,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_660702592",
+    "name": "杉木林餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1777522,
+    "lng": 121.530666,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_660702593",
+    "name": "青菜園",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: local",
+    "address": "台北市北投區竹子湖路55-11",
+    "lat": 25.1773517,
+    "lng": 121.5311581,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_660878847",
+    "name": "華之友",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1829211,
+    "lng": 121.5586276,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_689548282",
+    "name": "河畔印月",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1135046,
+    "lng": 121.4948144,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_730667585",
+    "name": "大腸滷肉飯",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1383086,
+    "lng": 121.5026789,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_730667586",
+    "name": "滷底捞",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1380607,
+    "lng": 121.5026221,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_730667588",
+    "name": "路易莎",
+    "category": "food",
+    "description": "位於北投區的cafe。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1379121,
+    "lng": 121.5030084,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_730667589",
+    "name": "豪記",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1380518,
+    "lng": 121.502656,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_730667590",
+    "name": "中北便當",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1380904,
+    "lng": 121.5025897,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_730667591",
+    "name": "雅加達",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1383752,
+    "lng": 121.5027302,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_730667592",
+    "name": "我家",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1383646,
+    "lng": 121.5027157,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_730667594",
+    "name": "豐何麵線",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.138118,
+    "lng": 121.5022899,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_767952792",
+    "name": "名陽匍休閒農莊",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1765244,
+    "lng": 121.5376011,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_767952793",
+    "name": "彩景海芋園",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1766302,
+    "lng": 121.5397341,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_767955335",
+    "name": "農產品",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區竹子湖路82",
+    "lat": 25.1808792,
+    "lng": 121.5617939,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_767955336",
+    "name": "珠珠小歇",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1827585,
+    "lng": 121.5607246,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_768572955",
+    "name": "紅磚厝",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1597496,
+    "lng": 121.5013484,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_768572958",
+    "name": "觀園樓",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1544411,
+    "lng": 121.5406121,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_770797772",
+    "name": "野菜屋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1728392,
+    "lng": 121.5301152,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_824251092",
+    "name": "喬園海鮮料理",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.13326,
+    "lng": 121.496023,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_824251093",
+    "name": "鮮味燒居酒屋",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.133456,
+    "lng": 121.4953425,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_824273402",
+    "name": "北灣俱場",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1208964,
+    "lng": 121.4975144,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_830255618",
+    "name": "山園野菜餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1772872,
+    "lng": 121.5308426,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_833511577",
+    "name": "陽明山 山藥之家",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1593511,
+    "lng": 121.53894,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_833521227",
+    "name": "花田花草集",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區湖山路二段40",
+    "lat": 25.1582964,
+    "lng": 121.5360816,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_835365788",
+    "name": "湖田橋餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1704116,
+    "lng": 121.5387171,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_835453952",
+    "name": "皇廷中華料理餐廳",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1111086,
+    "lng": 121.5101978,
+    "source": "OSM_北投區"
+  },
+  {
+    "id": "osm_1068869927",
+    "name": "Rumah",
+    "category": "food",
+    "description": "位於北投區的restaurant。OSM 標籤: 特色美食",
+    "address": "台北市北投區",
+    "lat": 25.1083809,
+    "lng": 121.5126489,
+    "source": "OSM_北投區"
+  }
+]

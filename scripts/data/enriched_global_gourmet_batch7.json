@@ -1,0 +1,9 @@
+[
+  { "name": "法朋烘焙甜點坊 (Le Ruban Pâtisserie)", "category": "food", "description": "大安區最高等級的法式甜點店。以在地食材結合法式工法，其「老奶奶檸檬蛋糕」是台北社交圈最受歡迎的精緻點味，代表了台北西點文化的極致。", "address": "台北市大安區仁愛路四段300巷20弄11號", "lat": 25.0358, "lng": 121.5515, "source": "ENRICHED_GLOBAL", "tier": 2 },
+  { "name": "朋廚烘焙坊 (Bonjour)", "category": "food", "description": "民生社區最具代表性的歐式麵包店。堅持無添加與高品質奶油，代表了台北高質感社區生活中，對於麵包與咖啡品質的優雅堅持。", "address": "台北市松山區民生東路", "lat": 25.0588, "lng": 121.5565, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "珠寶盒法式點心坊 (boîte de bijou)", "category": "food", "description": "台北師大附近的法式工藝代表。精緻的小蛋糕與高品質歐式麵包，是尋求異國風味與高品質點心的國際旅客在捷運古亭/東門站附近的最佳選擇。", "address": "台北市大安區安和路二段209巷10號", "lat": 25.0255, "lng": 121.5485, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "麵包廚房 (Pan-Pot)", "category": "food", "description": "西門町最知名的職人麵包店。雖然位於熱鬧商圈，但其高品質的材料與純粹的烘焙技術，深受美食家與遊客推崇。", "address": "台北市萬華區峨眉街", "lat": 25.0445, "lng": 121.5035, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "一之軒 (站前旗艦店)", "category": "food", "description": "台北車站附近的伴手禮與早餐首選。雖然是連鎖，但旗艦店提供的麵包種類與高品質現煎點心，是遊客行經站前區域最穩定的保障。", "address": "台北市中正區忠孝西路", "lat": 25.0475, "lng": 121.5165, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "PAZZO 花園咖啡 (信義店)", "category": "food", "description": "結合時尚服飾與絕美頂樓花園的網紅咖啡店。提供高品質餐點與極佳的101觀景視角，代表了台北都會流行與休閒餐飲的跨界融合。", "address": "台北市信義區", "lat": 25.0355, "lng": 121.5655, "source": "ENRICHED_GLOBAL", "tier": 3 },
+  { "name": "CAFE!N 硬咖啡 (民權店)", "category": "food", "description": "台北當代咖啡美學的代表。與國際設計師合作，提供極簡視覺與高品質精品咖啡，是都會白領與時尚旅客的新興口袋名單。", "address": "台北市中山區中山北路二段", "lat": 25.0515, "lng": 121.5225, "source": "ENRICHED_GLOBAL", "tier": 3 }
+]

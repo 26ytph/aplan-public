@@ -1,0 +1,202 @@
+[
+  {
+    "name": "RAW (Taipei 101)",
+    "category": "food",
+    "description": "由名廚江振誠領軍，被譽為全台最難訂位的米其林二星餐廳。以江氏「八角哲學」重新定義台灣味，是國際級的美食藝術殿堂，絕對值得專程飛抵台北體驗。",
+    "address": "台北市中山區樂群三路301號",
+    "lat": 25.0841,
+    "lng": 121.5593,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 1
+  },
+  {
+    "name": "頤宮 Le Palais (君品酒店)",
+    "category": "food",
+    "description": "全台唯一蟬聯多年的米其林三星餐廳。以極致的廣東料理聞名，其「先知鴨」與「火焰片皮鴨」是無數國際饕客夢寐以求的最高等級美味。",
+    "address": "台北市大同區承德路一段3號17樓",
+    "lat": 25.0489,
+    "lng": 121.5170,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 1
+  },
+  {
+    "name": "鼎泰豐 信義本店 (Din Tai Fung Classic)",
+    "category": "food",
+    "description": "全球聞名的小籠包傳奇發源地。每一顆小籠包都具備精準的18摺與黃金比例，雖然已有眾多分店，但本店的朝聖意義與頂尖服務，是來台北旅遊的最高指標。",
+    "address": "台北市大安區信義路二段194號",
+    "lat": 25.0334,
+    "lng": 121.5300,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 1
+  },
+  {
+    "name": "金蓬萊遵古台菜餐廳",
+    "category": "food",
+    "description": "天母地區的米其林一星台菜鼻祖。傳承三代的排骨酥是鎮店之寶，提供最道地且精緻的北投酒家菜文化縮影，是國內外政要名流的最愛。",
+    "address": "台北市士林區天母東路101號",
+    "lat": 25.1166,
+    "lng": 121.5342,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 1
+  },
+  {
+    "name": "陽明山 The Top 屋頂上",
+    "category": "food",
+    "description": "坐擁台北最高級夜景的景觀餐廳。結合南洋度假風情與頂級燒烤、熱炒，是國際觀光客與情侶約會的最強地標，能俯瞰整個大台北盆地的璀璨燈火。",
+    "address": "台北市士林區凱旋路61巷4弄33號",
+    "lat": 25.1328,
+    "lng": 121.5434,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 2
+  },
+  {
+    "name": "馬辣頂級麻辣鴛鴦火鍋 (漢口店)",
+    "category": "food",
+    "description": "西門町最具代表性的頂級火鍋。提供澳洲和牛、天使紅蝦以及數十種哈根達斯冰淇淋無限量供應，是韓國、東南亞遊客來台必指名的火鍋聖地。",
+    "address": "台北市萬華區漢口街二段30號",
+    "lat": 25.0450,
+    "lng": 121.5060,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 2
+  },
+  {
+    "name": "春水堂 創始店 (Chun Shui Tang)",
+    "category": "food",
+    "description": "珍珠奶茶的世界發源地。堅持慢功出細活的調飲技術，除了經典珍奶，其功夫麵與特製茶食也是體現台灣精緻茶飲文化的必去之處。",
+    "address": "台北市中山區南京東路一段29號",
+    "lat": 25.0518,
+    "lng": 121.5235,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 2
+  },
+  {
+    "name": "橘色涮涮屋 (Extension 1 by Orange)",
+    "category": "food",
+    "description": "火鍋界的愛馬仕。以極致的桌邊代煮服務與頂級食材聞名，最後的「精華黃金粥」是畫龍點睛之作，深受商務人士與高端觀光客青睞。",
+    "address": "台北市內湖區內湖路一段265號",
+    "lat": 25.0825,
+    "lng": 121.5700,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 2
+  },
+  {
+    "name": "林東芳牛肉麵",
+    "category": "food",
+    "description": "台北牛肉麵界的長青樹，曾獲米其林必比登推薦。其靈魂在於獨門的中藥湯頭與特製辣牛油，是深夜也能享用的高品質台灣牛肉麵指標。",
+    "address": "台北市中山區安東街4-3號",
+    "lat": 25.0485,
+    "lng": 121.5432,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 2
+  },
+  {
+    "name": "饒河街夜市-陳董藥燉排骨",
+    "category": "food",
+    "description": "饒河夜市的米其林指標。四季皆宜的溫潤補湯，排骨燉得爛而入味。相比隨便找的街邊店，陳董代表了台灣夜市文化的職人精神與穩定品質。",
+    "address": "台北市松山區饒河街160號",
+    "lat": 25.0505,
+    "lng": 121.5775,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 2
+  },
+  {
+    "name": "阿宗麵線 (Ay-Chung Flour-Rice Noodle)",
+    "category": "food",
+    "description": "西門町的街頭站著吃的傳奇。香濃的大腸麵線配上特製辣椒、蒜泥與烏醋，代表了台北街頭美食最具動感與活力的一面，國際遊客必訪清單。",
+    "address": "台北市萬華區峨眉街8-1號",
+    "lat": 25.0433,
+    "lng": 121.5061,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 2
+  },
+  {
+    "name": "寧夏夜市-劉芋仔蛋黃芋餅",
+    "category": "food",
+    "description": "寧夏夜市最瘋狂的排隊名店。米其林指南推薦，現炸的芋丸包裹著鹹蛋黃，甜鹹口感達到完美平衡，是體驗台灣夜市精緻小品的首選。",
+    "address": "台北市大同區寧夏路",
+    "lat": 25.0558,
+    "lng": 121.5153,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 2
+  },
+  {
+    "name": "詹記麻辣火鍋 (敦南店)",
+    "category": "food",
+    "description": "台北最難訂位的潮牌火鍋店。復古的台式浪漫裝潢與號稱全台最強的果凍鴨血，是追求時髦與極致美味的年輕旅客與老饕的首選。",
+    "address": "台北市大安區和平東路三段60號",
+    "lat": 25.0248,
+    "lng": 121.5463,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 2
+  },
+  {
+    "name": "MUME",
+    "category": "food",
+    "description": "大安區最具實驗性的米其林一星當代料理。結合台灣在地時令食材與法式分子料理手法，是國際美食家造訪台北時必排的Fine Dining名單。",
+    "address": "台北市大安區四維路28號",
+    "lat": 25.0375,
+    "lng": 121.5488,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 1
+  },
+  {
+    "name": "Simple Kaffa 興波咖啡 (旗艦店)",
+    "category": "food",
+    "description": "世界咖啡冠軍吳則霖領軍，被評為全球最佳咖啡館第一名。位於華山文創園區旁，提供極致的一杯咖啡與絕佳的空間設計，是跨國咖啡愛好者的聖地。",
+    "address": "台北市中正區忠孝東路二段27號",
+    "lat": 25.0445,
+    "lng": 121.5288,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 1
+  },
+  {
+    "name": "T+T",
+    "category": "food",
+    "description": "米其林一星的時尚摩登料理。將傳統小吃元素如蚵仔麵線轉化為高級料理，創意十足且環境優雅，是體驗「新台菜」力量的國際級門面。",
+    "address": "台北市松山區敦化北路165巷11號",
+    "lat": 25.0565,
+    "lng": 121.5512,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 1
+  },
+  {
+    "name": "三味食堂 (Sammie Japanese Restaurant)",
+    "category": "food",
+    "description": "西門町極具感官衝擊的超大型握壽司。以超厚切、巨無霸鮭魚握壽司聞名，深受韓國觀光客瘋狂喜愛，代表了台北日式料理的另一種狂邁風景。",
+    "address": "台北市萬華區貴陽街二段116號",
+    "lat": 25.0396,
+    "lng": 121.5033,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 2
+  },
+  {
+    "name": "鼎旺麻辣鍋 (一店)",
+    "category": "food",
+    "description": "大安區老字號麻辣鍋。除了高品質湯底，其被評為全台最強的「鳳爪」更是無數老饕寧願外帶也要吃到的絕響，是附近商務交流與聚餐的名店。",
+    "address": "台北市大安區大安路一段251號",
+    "lat": 25.0355,
+    "lng": 121.5442,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 3
+  },
+  {
+    "name": "梁記嘉義雞肉飯",
+    "category": "food",
+    "description": "松江南京商圈最知名的雞肉飯店。甚至被稱為「全台北最好吃的雞肉飯」，結合半熟荷包蛋的經典吃法，讓簡單的庶民美食提升到了極致層次。",
+    "address": "台北市中山區松江路90巷19號",
+    "lat": 25.0494,
+    "lng": 121.5323,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 3
+  },
+  {
+    "name": "悄悄好食 (Ciao Ciao Scone)",
+    "category": "food",
+    "description": "台北司康界的第一把交椅。多樣化的口味與外脆內鬆軟的極致口感，是尋找特色午茶與高品質外帶甜點的絕佳選擇，不再只是無趣的連鎖咖啡廳店員。",
+    "address": "台北市大安區仁愛路三段118巷4號",
+    "lat": 25.0388,
+    "lng": 121.5401,
+    "source": "ENRICHED_GLOBAL",
+    "tier": 3
+  }
+]

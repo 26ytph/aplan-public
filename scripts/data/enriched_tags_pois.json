@@ -1,0 +1,122 @@
+[
+  {
+    "name": "北投星乃湯溫泉會館",
+    "category": "spot",
+    "description": "提供極致放鬆休息的日式溫泉會館。適合在繁忙的都市生活中尋找一處安靜的角落，享受療癒身心的溫泉與精緻的下午茶，是遠離喧囂、悠閒放空的絕佳去處。",
+    "address": "台北市北投區",
+    "lat": 25.1378,
+    "lng": 121.5032,
+    "image_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef",
+    "source": "ENRICHED_TAGS"
+  },
+  {
+    "name": "草山行館景觀餐廳",
+    "category": "food",
+    "description": "位於陽明山上的歷史建築，現改建為充滿文藝氣息的景觀咖啡廳。在這裡可以點一杯咖啡，靜靜看著遠方的夕陽，享受極致的放鬆休息與療癒時光。",
+    "address": "台北市北投區湖底路89號",
+    "lat": 25.1539,
+    "lng": 121.5427,
+    "image_url": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf",
+    "source": "ENRICHED_TAGS"
+  },
+  {
+    "name": "不老客家傳統麻糬 (大安店)",
+    "category": "food",
+    "description": "買一份療癒系古早味甜點，到附近的安靜小公園找張長椅坐下。這種簡單的午後放空，是台北人最接地氣的放鬆休息方式。",
+    "address": "台北市大安區",
+    "lat": 25.0410,
+    "lng": 121.5435,
+    "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+    "source": "ENRICHED_TAGS"
+  },
+  {
+    "name": "臺北市立兒童新樂園",
+    "category": "spot",
+    "description": "台北市最大的親子同樂天堂！園區內有摩天輪、旋轉木馬等各種適合孩童與兒童玩樂的遊樂設施，是家庭假日帶小孩放電的最佳景點。",
+    "address": "台北市士林區承德路五段55號",
+    "lat": 25.0976,
+    "lng": 121.5147,
+    "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176",
+    "source": "ENRICHED_TAGS"
+  },
+  {
+    "name": "國立臺灣科學教育館 (科教館)",
+    "category": "spot",
+    "description": "寓教於樂的最佳室內景點，充滿各種科學互動體驗設施，不僅適合小孩子動手玩，也是親子同樂、家庭探索知識的雨天好去處。",
+    "address": "台北市士林區士商路189號",
+    "lat": 25.0963,
+    "lng": 121.5167,
+    "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d",
+    "source": "ENRICHED_TAGS"
+  },
+  {
+    "name": "大都會公園 - 熊猴森樂園",
+    "category": "park",
+    "description": "全台最大的溜滑梯主題共融式公園，擁有超寬廣的草皮與兒童遊具，家庭親子同樂必去的超級放電場所，小孩玩到不想回家。",
+    "address": "新北市三重區疏洪東路一段",
+    "lat": 25.0566,
+    "lng": 121.4820,
+    "image_url": "https://images.unsplash.com/photo-1605141527756-31a477d70ba2",
+    "source": "ENRICHED_TAGS"
+  },
+  {
+    "name": "陽明山擎天崗大草原",
+    "category": "nature",
+    "description": "一望無際的碧綠草皮與悠閒的牛群，台北市最知名的自然探索景點。適合健行、野餐、踏青，呼吸滿滿的芬多精，享受大自然的美好生態。",
+    "address": "台北市士林區菁山路101巷246號",
+    "lat": 25.1666,
+    "lng": 121.5739,
+    "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b",
+    "source": "ENRICHED_TAGS"
+  },
+  {
+    "name": "象山親山步道",
+    "category": "nature",
+    "description": "交通最便利的戶外生態步道。沿途充滿豐富的植物生態，登頂後可俯瞰台北101與繁華市景，是都市人親近自然、探索自然山林的絕佳選擇。",
+    "address": "台北市信義區信義路五段150巷",
+    "lat": 25.0270,
+    "lng": 121.5706,
+    "image_url": "https://images.unsplash.com/photo-1483729558449-99db0934fecd",
+    "source": "ENRICHED_TAGS"
+  },
+  {
+    "name": "大安森林公園",
+    "category": "park",
+    "description": "被譽為台北市的「都市之肺」，擁有廣大的樹林與豐富的鳥類生態。無論是晨間慢跑還是午後散步，都能在這裡進行一場微型的自然探索。",
+    "address": "台北市大安區新生南路二段1號",
+    "lat": 25.0312,
+    "lng": 121.5358,
+    "image_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
+    "source": "ENRICHED_TAGS"
+  },
+  {
+    "name": "國立故宮博物院",
+    "category": "spot",
+    "description": "世界頂級的博物館，收藏無數珍貴的歷史文物。室內空間寬敞舒適、冷氣開放，完全不受天氣影響，絕對是來台北遇到下雨時最推薦的室內避雨與看展演景點。",
+    "address": "台北市士林區至善路二段221號",
+    "lat": 25.1023,
+    "lng": 121.5485,
+    "image_url": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d",
+    "source": "ENRICHED_TAGS"
+  },
+  {
+    "name": "信義區地下街與新光三越連通橋",
+    "category": "spot",
+    "description": "完美連結各大百貨公司的室內空間與天橋，逛街、購物、吃美食完全不需撐傘。遇到大雷雨時，這裡是完美的室內避雨與時尚購物勝地。",
+    "address": "台北市信義區",
+    "lat": 25.0354,
+    "lng": 121.5662,
+    "image_url": "https://images.unsplash.com/photo-1519567770579-c2fc5436bcf9",
+    "source": "ENRICHED_TAGS"
+  },
+  {
+    "name": "臺北市立美術館 (北美館)",
+    "category": "spot",
+    "description": "佔地廣闊的現代藝術展覽館，場內空調冷氣舒適。無論外頭狂風暴雨還是炙熱艷陽，都能在這裡悠哉看展，是文青首選的室內避雨好地方。",
+    "address": "台北市中山區中山北路三段181號",
+    "lat": 25.0722,
+    "lng": 121.5245,
+    "image_url": "https://images.unsplash.com/photo-1562624475-cb6c138725ee",
+    "source": "ENRICHED_TAGS"
+  }
+]

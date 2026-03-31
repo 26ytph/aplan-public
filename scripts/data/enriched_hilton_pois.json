@@ -1,0 +1,12 @@
+[
+  {
+    "name": "台北中山九昱希爾頓逸林酒店 (DoubleTree by Hilton)",
+    "category": "hotel",
+    "description": "希爾頓集團(Hilton)旗下的國際級五星連鎖豪華飯店。距離台北車站與中山商圈極近，提供最經典的逸林熱巧克力熱餅乾迎賓，是結合商務與休閒的頂級住宿指標。",
+    "address": "台北市中山區中山北路一段122號",
+    "lat": 25.0493,
+    "lng": 121.5222,
+    "image_url": "https://images.unsplash.com/photo-1542314831-c6a4d27ce66b",
+    "source": "ENRICHED_PREMIUM"
+  }
+]

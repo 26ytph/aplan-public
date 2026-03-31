@@ -1,0 +1,1241 @@
+<!DOCTYPE html>
+<html lang="zh-TW" id="html-root">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ app_name }}</title>
+    <!-- 引入 Tailwind CSS (CDN 開發模式) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#4F46E5', // Indigo-600
+                        secondary: '#10B981', // Emerald-500
+                        dark: '#111827', // Gray-900
+                    }
+                }
+            }
+        }
+    </script>
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Noto Sans TC', sans-serif;
+        }
+
+        /* 隱藏捲軸但可滑動 */
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+
+        /* 標籤選中特效 */
+        .tag-active {
+            background-color: #4F46E5;
+            color: white;
+            border-color: #4F46E5;
+            transform: scale(1.05);
+            box-shadow: 0 4px 6px -1px rgba(79, 70, 229, 0.4);
+        }
+
+        /* Phase 26: 語言切換按鈕 */
+        .lang-btn {
+            padding: 2px 8px;
+            border-radius: 9999px;
+            font-size: 0.65rem;
+            font-weight: 500;
+            border: 1px solid #e5e7eb;
+            background: white;
+            color: #6b7280;
+            cursor: pointer;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+        .lang-btn:hover {
+            border-color: #4F46E5;
+            color: #4F46E5;
+        }
+        .lang-btn.active {
+            background: #4F46E5;
+            color: white;
+            border-color: #4F46E5;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-50 text-gray-800 min-h-screen">
+
+    <!-- 頂部 Navigation -->
+    <nav class="bg-white shadow-sm sticky top-0 z-50">
+        <div class="max-w-md mx-auto px-4 py-3 flex justify-between items-center">
+            <h1 class="text-xl font-bold text-dark flex items-center gap-2 shrink-0">
+                <i class="fa-solid fa-clock-rotate-left text-primary"></i>
+                <span data-i18n="app_title">臺北時光機</span>
+            </h1>
+            <!-- Phase 26: 語言切換器 -->
+            <div class="flex items-center gap-1 mx-2 flex-wrap justify-end" id="lang-switcher">
+                <button class="lang-btn active" data-lang="zh-TW" onclick="switchLang(this)">繁中</button>
+                <button class="lang-btn" data-lang="ja" onclick="switchLang(this)">日本語</button>
+                <button class="lang-btn" data-lang="ko" onclick="switchLang(this)">한국어</button>
+                <button class="lang-btn" data-lang="en" onclick="switchLang(this)">EN</button>
+                <button class="lang-btn" data-lang="th" onclick="switchLang(this)">ไทย</button>
+            </div>
+            <button class="text-gray-500 hover:text-primary transition-colors shrink-0">
+                <i class="fa-regular fa-user-circle text-2xl"></i>
+            </button>
+        </div>
+    </nav>
+
+    <!-- UI: 全域 Toast 通知 (Sprint 6 體驗優化) -->
+    <div id="toast-container"
+        class="fixed bottom-24 left-0 right-0 z-50 flex flex-col items-center pointer-events-none px-4 space-y-2">
+        <!-- Javascript 動態插入 Toast 卡片 -->
+    </div>
+
+    <!-- 主容器 (Mobile 優先尺寸) -->
+    <main class="max-w-md mx-auto p-4 pb-24">
+
+        <!-- ==================== UI 區塊 0：AI 魔法搜尋框 (Sprint 4.3) ==================== -->
+        <section class="mb-6 relative">
+            <div
+                class="relative bg-white rounded-full shadow-md border border-gray-200 flex items-center p-2 transition-all duration-300 focus-within:ring-2 focus-within:ring-primary focus-within:border-transparent">
+                <!-- 語音麥克風按鈕 -->
+                <button id="btn-mic"
+                    class="w-10 h-10 rounded-full text-gray-400 hover:text-primary hover:bg-indigo-50 flex items-center justify-center transition-colors shrink-0"
+                    title="語音輸入">
+                    <i class="fa-solid fa-microphone text-lg"></i>
+                </button>
+
+                <!-- 輸入框 -->
+                <input type="text" id="ai-search-input" placeholder="說點什麼...例如「台北車站附近避雨吃宵夜」"
+                    data-i18n-placeholder="search_placeholder"
+                    class="flex-1 bg-transparent px-3 py-2 text-sm text-dark placeholder-gray-400 outline-none w-full">
+
+                <!-- 送出按鈕 -->
+                <button id="btn-ai-submit"
+                    class="w-10 h-10 rounded-full bg-primary text-white hover:bg-indigo-700 flex items-center justify-center transition-colors shrink-0 shadow-sm"
+                    title="AI 解析">
+                    <i class="fa-solid fa-paper-plane"></i>
+                </button>
+            </div>
+
+            <!-- AI 思考狀態提示 -->
+            <div id="ai-thinking-indicator"
+                class="hidden absolute top-full left-0 right-0 mt-2 text-center text-xs text-primary font-medium animate-pulse">
+                <i class="fa-solid fa-brain mr-1"></i> <span data-i18n="ai_thinking">🧠 AI 正在理解您的需求...</span>
+            </div>
+        </section>
+
+        <!-- ==================== UI 區塊 1：情境儀表板 ==================== -->
+        <section class="bg-white rounded-2xl p-4 shadow-sm mb-6 border border-gray-100">
+            <h2 class="text-sm font-bold text-gray-500 mb-3 uppercase tracking-wider" data-i18n="context_title">即時情境感知</h2>
+
+            <div class="grid grid-cols-2 gap-3 mb-3">
+                <div class="bg-gray-50 rounded-xl p-3 flex items-center gap-3">
+                    <div class="w-10 h-10 rounded-full bg-orange-100 text-orange-500 flex items-center justify-center shrink-0">
+                        <i class="fa-solid fa-sun-cloud"></i>
+                    </div>
+                    <div class="overflow-hidden w-full">
+                        <p class="text-xs text-gray-500" data-i18n="weather_label">天氣</p>
+                        <p class="text-sm font-semibold truncate" id="ctx-weather">晴時多雲</p>
+                    </div>
+                </div>
+
+                <div class="bg-gray-50 rounded-xl p-3 flex items-center gap-3">
+                    <div class="w-10 h-10 rounded-full bg-purple-100 text-purple-600 flex items-center justify-center shrink-0">
+                        <i class="fa-regular fa-clock"></i>
+                    </div>
+                    <div class="overflow-hidden w-full">
+                        <p class="text-xs text-gray-500" data-i18n="time_label">出遊時間</p>
+                        <select id="ctx-time" class="bg-transparent text-sm font-semibold w-full outline-none cursor-pointer truncate">
+                            <option value="現在">現在</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <div class="space-y-3">
+                <div class="bg-gray-50 rounded-xl p-3 flex items-center gap-3">
+                    <div class="w-10 h-10 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center shrink-0">
+                        <i class="fa-solid fa-location-dot"></i>
+                    </div>
+                    <div class="w-full overflow-hidden">
+                        <p class="text-xs text-gray-500" data-i18n="location_label">目前位置</p>
+                        <select id="ctx-location-select" class="bg-transparent text-sm font-semibold w-full outline-none cursor-pointer truncate">
+                            <option value="">載入中...</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="bg-gray-50 rounded-xl p-3 flex items-center gap-3">
+                    <div class="w-10 h-10 rounded-full bg-teal-100 text-teal-600 flex items-center justify-center shrink-0">
+                        <i class="fa-solid fa-compass-drafting"></i>
+                    </div>
+                    <div class="w-full overflow-hidden">
+                        <p class="text-xs text-gray-500" title="語意檢索方圓公里限制" data-i18n="search_range_label">搜尋範圍</p>
+                        <select id="ctx-radius" class="bg-transparent text-sm font-semibold w-full outline-none cursor-pointer truncate">
+                            <option value="0.5" data-i18n="range_500m">500 公尺內 (近身探索)</option>
+                            <option value="1" selected data-i18n="range_1km">1 公里內 (散步範圍)</option>
+                            <option value="2" data-i18n="range_2km">2 公里內 (步行/腳踏車)</option>
+                            <option value="5" data-i18n="range_5km">5 公里內 (短程出遊)</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 隱藏表單欄位供 API 使用 -->
+            <input type="hidden" id="input-lat" value="">
+            <input type="hidden" id="input-lng" value="">
+        </section>
+
+        <!-- ==================== AI 條件提示條 (Phase 24.1 重新設計) ==================== -->
+        <div id="ai-context-banner" class="hidden mb-4 bg-indigo-50 border border-indigo-200 rounded-xl px-4 py-2.5 text-sm animate-fade-in-up">
+            <!-- 純資訊展示區 -->
+            <div class="flex items-center gap-1.5 text-indigo-700 mb-2">
+                <i class="fa-solid fa-brain"></i>
+                <span><span data-i18n="ai_banner_prefix">AI 已根據「</span><strong id="ai-query-text" class="mx-0.5"></strong><span data-i18n="ai_banner_suffix">」自動設定條件</span></span>
+            </div>
+            <!-- 操作指示區（與訊息分離） -->
+            <div class="flex items-center justify-between">
+                <span class="text-indigo-500/70 text-xs">
+                    <i class="fa-solid fa-hand-pointer mr-1"></i><span data-i18n="ai_banner_hint">您可以手動微調下方的地點、時間、範圍及偏好標籤，再點「產生我的時光機導覽」重新查詢</span>
+                </span>
+                <button id="btn-clear-ai" class="ml-3 shrink-0 text-xs text-red-400 hover:text-red-600 border border-red-200 hover:border-red-400 rounded-lg px-2.5 py-1 transition-all" title="清除 AI 條件，恢復手動模式">
+                    <i class="fa-solid fa-rotate-left mr-1"></i><span data-i18n="ai_banner_reset">重設條件</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- ==================== UI 區塊 2：主題互動區 ==================== -->
+        <section class="mb-8">
+            <h2 class="text-lg font-bold text-dark mb-4" data-i18n="explore_title">今天想探索什麼？</h2>
+            <p class="text-sm text-gray-500 mb-4" data-i18n="explore_subtitle">可複選，AI 將為你客製化精選行程</p>
+
+            <div class="flex flex-wrap gap-2" id="tags-container">
+                <span class="text-sm text-gray-400">載入標籤中...</span>
+            </div>
+        </section>
+
+        <!-- ==================== UI 區塊 4：動態行程展示卡片 ==================== -->
+        <!-- 這部分預設隱藏，收到 API 回應後才顯示 -->
+        <section id="results-section" class="hidden animate-fade-in-up transition-all duration-500">
+            <div class="border-t border-gray-200 pt-6 mb-4">
+                <h2 class="text-lg font-bold text-dark mb-2" data-i18n="ai_recommend_title">✨ AI 專屬推薦</h2>
+                <!-- 總結 -->
+                <p id="result-summary"
+                    class="text-sm text-gray-600 bg-indigo-50 border-l-4 border-primary p-3 rounded-r-lg mb-6 leading-relaxed">
+                    <!-- Javascript 填入 -->
+                </p>
+            </div>
+
+            <!-- 推薦景點列表 -->
+            <div id="result-cards-container" class="space-y-4">
+                <!-- Javascript 卡片模板渲染位置 -->
+            </div>
+        </section>
+
+    </main>
+
+    <!-- ==================== UI 區塊 3：一鍵生成按鈕 (固定於底部) ==================== -->
+    <div
+        class="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 p-4 pb-safe shadow-[0_-4px_6px_-1px_rgba(0,0,0,0.05)] z-40">
+        <div class="max-w-md mx-auto">
+            <button id="btn-generate"
+                class="w-full bg-primary hover:bg-indigo-700 text-white font-bold py-3.5 px-4 rounded-xl flex items-center justify-center gap-2 transition-all duration-200 shadow-md">
+                <i class="fa-solid fa-wand-magic-sparkles"></i>
+                <span data-i18n="generate_btn">產生我的時光機導覽</span>
+            </button>
+        </div>
+    </div>
+
+
+    <!-- ==================== 前端邏輯 (Vanilla JS) ==================== -->
+    <script>
+        // ==================== Phase 26: i18n 多語系模組 ====================
+        let currentLang = 'zh-TW';
+
+        const i18nStrings = {
+            'zh-TW': {
+                app_title: '臺北時光機',
+                search_placeholder: '說點什麼...例如「台北車站附近避雨吃宵夜」',
+                ai_thinking: '🧠 AI 正在理解您的需求...',
+                context_title: '即時情境感知',
+                weather_label: '天氣',
+                time_label: '出遊時間',
+                location_label: '目前位置',
+                search_range_label: '搜尋範圍',
+                range_500m: '500 公尺內 (近身探索)',
+                range_1km: '1 公里內 (散步範圍)',
+                range_2km: '2 公里內 (步行/腳踏車)',
+                range_5km: '5 公里內 (短程出遊)',
+                explore_title: '今天想探索什麼？',
+                explore_subtitle: '可複選，AI 將為你客製化精選行程',
+                ai_recommend_title: '✨ AI 專屬推薦',
+                generate_btn: '產生我的時光機導覽',
+                loading_text: 'AI 時光機計算中...',
+                map_navigate: '開啟地圖導航',
+                mic_listening: '聆聽中...',
+                ai_banner_prefix: 'AI 已根據「',
+                ai_banner_suffix: '」自動設定條件',
+                ai_banner_hint: '您可以手動微調下方的地點、時間、範圍及偏好標籤，再點「產生我的時光機導覽」重新查詢',
+                ai_banner_reset: '重設條件',
+                time_now: '現在', time_today: '今日', time_tomorrow: '明日',
+                categories: {
+                    '美食小吃': '美食小吃', '藝文音樂': '藝文音樂', '歷史古蹟': '歷史古蹟',
+                    '時尚購物': '時尚購物', '放鬆休息': '放鬆休息', '親子同樂': '親子同樂',
+                    '自然探索': '自然探索', '室內避雨': '室內避雨',
+                },
+            },
+            'ja': {
+                app_title: '台北タイムマシン',
+                search_placeholder: '何か話してください…例：「台北駅近くで雨宿りして夜食を」',
+                ai_thinking: '🧠 AIがあなたのリクエストを理解しています...',
+                context_title: 'リアルタイム状況認識',
+                weather_label: '天気',
+                time_label: '外出時間',
+                location_label: '現在地',
+                search_range_label: '検索範囲',
+                range_500m: '500m以内（近距離探索）',
+                range_1km: '1km以内（散歩圏内）',
+                range_2km: '2km以内（徒歩/自転車）',
+                range_5km: '5km以内（ショートトリップ）',
+                explore_title: '今日は何を探しますか？',
+                explore_subtitle: '複数選択OK、AIがあなただけのルートを作ります',
+                ai_recommend_title: '✨ AIおすすめ',
+                generate_btn: 'マイタイムマシンツアーを生成',
+                loading_text: 'AIタイムマシン計算中...',
+                map_navigate: 'マップで開く',
+                mic_listening: '聞いています...',
+                ai_banner_prefix: 'AIは「',
+                ai_banner_suffix: '」に基づき条件を設定しました',
+                ai_banner_hint: '下の地点・時間・範囲・タグを手動で調整し「ツアー生成」で再検索できます',
+                ai_banner_reset: 'リセット',
+                time_now: '今', time_today: '本日', time_tomorrow: '明日',
+                categories: {
+                    '美食小吃': 'グルメ', '藝文音樂': 'アート・音楽', '歷史古蹟': '歴史遺産',
+                    '時尚購物': 'ショッピング', '放鬆休息': 'リラックス', '親子同樂': '親子向け',
+                    '自然探索': '自然探索', '室內避雨': '屋内スポット',
+                },
+            },
+            'ko': {
+                app_title: '타이베이 타임머신',
+                search_placeholder: '무엇이든 말해보세요…예: 「타이베이역 근처 비 피해 야식」',
+                ai_thinking: '🧠 AI가 요청을 분석하고 있습니다...',
+                context_title: '실시간 상황 인식',
+                weather_label: '날씨',
+                time_label: '외출 시간',
+                location_label: '현재 위치',
+                search_range_label: '검색 범위',
+                range_500m: '500m 이내 (근거리 탐색)',
+                range_1km: '1km 이내 (산책 거리)',
+                range_2km: '2km 이내 (도보/자전거)',
+                range_5km: '5km 이내 (단거리 여행)',
+                explore_title: '오늘 무엇을 탐험할까요?',
+                explore_subtitle: '복수 선택 가능, AI가 맞춤 일정을 만들어드립니다',
+                ai_recommend_title: '✨ AI 추천',
+                generate_btn: '나의 타임머신 투어 생성',
+                loading_text: 'AI 타임머신 계산 중...',
+                map_navigate: '지도에서 열기',
+                mic_listening: '듣고 있습니다...',
+                ai_banner_prefix: 'AI가 「',
+                ai_banner_suffix: '」을 기반으로 조건을 설정했습니다',
+                ai_banner_hint: '아래 장소·시간·범위·태그를 수동으로 조정한 후 "투어 생성"으로 재검색하세요',
+                ai_banner_reset: '초기화',
+                time_now: '지금', time_today: '오늘', time_tomorrow: '내일',
+                categories: {
+                    '美食小吃': '맛집', '藝文音樂': '예술·음악', '歷史古蹟': '역사유적',
+                    '時尚購物': '쇼핑', '放鬆休息': '휴식', '親子同樂': '가족체험',
+                    '自然探索': '자연탐험', '室內避雨': '실내명소',
+                },
+            },
+            'en': {
+                app_title: 'Taipei Time Machine',
+                search_placeholder: 'Say something... e.g. "Late night food near Taipei Station"',
+                ai_thinking: '🧠 AI is understanding your request...',
+                context_title: 'Real-Time Context',
+                weather_label: 'Weather',
+                time_label: 'Departure Time',
+                location_label: 'Current Location',
+                search_range_label: 'Search Radius',
+                range_500m: 'Within 500m (nearby)',
+                range_1km: 'Within 1km (walking)',
+                range_2km: 'Within 2km (walk/bike)',
+                range_5km: 'Within 5km (short trip)',
+                explore_title: 'What do you want to explore?',
+                explore_subtitle: 'Multi-select, AI will curate your personalized itinerary',
+                ai_recommend_title: '✨ AI Picks for You',
+                generate_btn: 'Generate My Time Machine Tour',
+                loading_text: 'AI Time Machine calculating...',
+                map_navigate: 'Open Map Navigation',
+                mic_listening: 'Listening...',
+                ai_banner_prefix: 'AI set conditions based on "',
+                ai_banner_suffix: '"',
+                ai_banner_hint: 'You can adjust location, time, radius & tags below, then tap "Generate" to re-search',
+                ai_banner_reset: 'Reset',
+                time_now: 'Now', time_today: 'Today', time_tomorrow: 'Tomorrow',
+                categories: {
+                    '美食小吃': 'Food & Snacks', '藝文音樂': 'Arts & Music', '歷史古蹟': 'Historical Sites',
+                    '時尚購物': 'Shopping', '放鬆休息': 'Relaxation', '親子同樂': 'Family Fun',
+                    '自然探索': 'Nature', '室內避雨': 'Indoor Activities',
+                },
+            },
+            'th': {
+                app_title: 'ไทเปไทม์แมชชีน',
+                search_placeholder: 'พูดอะไรสักอย่าง...เช่น「หาที่กินดึกใกล้สถานีไทเป」',
+                ai_thinking: '🧠 AI กำลังทำความเข้าใจคำขอของคุณ...',
+                context_title: 'สถานการณ์เรียลไทม์',
+                weather_label: 'สภาพอากาศ',
+                time_label: 'เวลาออกเที่ยว',
+                location_label: 'ตำแหน่งปัจจุบัน',
+                search_range_label: 'รัศมีค้นหา',
+                range_500m: 'ภายใน 500 ม. (ใกล้เคียง)',
+                range_1km: 'ภายใน 1 กม. (เดินเล่น)',
+                range_2km: 'ภายใน 2 กม. (เดิน/จักรยาน)',
+                range_5km: 'ภายใน 5 กม. (ทริปสั้น)',
+                explore_title: 'วันนี้อยากสำรวจอะไร?',
+                explore_subtitle: 'เลือกได้หลายอย่าง AI จะสร้างเส้นทางเฉพาะคุณ',
+                ai_recommend_title: '✨ AI แนะนำ',
+                generate_btn: 'สร้างทัวร์ไทม์แมชชีนของฉัน',
+                loading_text: 'AI ไทม์แมชชีนกำลังคำนวณ...',
+                map_navigate: 'เปิดแผนที่นำทาง',
+                mic_listening: 'กำลังฟัง...',
+                ai_banner_prefix: 'AI ตั้งค่าเงื่อนไขตาม「',
+                ai_banner_suffix: '」',
+                ai_banner_hint: 'คุณสามารถปรับสถานที่ เวลา รัศมี และแท็กด้านล่าง แล้วกด "สร้างทัวร์" เพื่อค้นหาใหม่',
+                ai_banner_reset: 'รีเซ็ต',
+                time_now: 'ตอนนี้', time_today: 'วันนี้', time_tomorrow: 'พรุ่งนี้',
+                categories: {
+                    '美食小吃': 'อาหาร', '藝文音樂': 'ศิลปะ·ดนตรี', '歷史古蹟': 'โบราณสถาน',
+                    '時尚購物': 'ช้อปปิ้ง', '放鬆休息': 'พักผ่อน', '親子同樂': 'ครอบครัว',
+                    '自然探索': 'ธรรมชาติ', '室內避雨': 'ในร่ม',
+                },
+            },
+        };
+
+        function applyI18n(lang) {
+            const t = i18nStrings[lang] || i18nStrings['zh-TW'];
+            // Update text content
+            document.querySelectorAll('[data-i18n]').forEach(el => {
+                const key = el.dataset.i18n;
+                if (t[key]) el.textContent = t[key];
+            });
+            // Update placeholders
+            document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+                const key = el.dataset.i18nPlaceholder;
+                if (t[key]) el.placeholder = t[key];
+            });
+            // Update HTML lang attribute
+            document.getElementById('html-root').lang = lang === 'zh-TW' ? 'zh-TW' : lang;
+
+            // [Phase 26.1] 翻譯分類標籤
+            if (t.categories) {
+                document.querySelectorAll('#tags-container button.interest-tag').forEach(btn => {
+                    const rawCat = btn.dataset.value;  // 原始繁中分類名
+                    const translated = t.categories[rawCat] || rawCat;
+                    const emojis = ['🍜', '🎤', '🏛️', '🛍️', '☕', '👨‍👩‍👧', '🌳', '☔'];
+                    const idx = Array.from(btn.parentElement.children).indexOf(btn);
+                    const emoji = emojis[idx % emojis.length];
+                    btn.innerHTML = `${emoji} ${translated}`;
+                });
+            }
+
+            // [Phase 26.1] 翻譯時間選單
+            const ctxTime = document.getElementById('ctx-time');
+            if (ctxTime && t.time_now) {
+                Array.from(ctxTime.options).forEach(opt => {
+                    let text = opt.textContent;
+                    // 替換 現在/今日/明日 為對應語言
+                    text = text.replace('現在', t.time_now)
+                               .replace('今日', t.time_today)
+                               .replace('明日', t.time_tomorrow);
+                    opt.textContent = text;
+                });
+            }
+        }
+
+        function switchLang(btn) {
+            currentLang = btn.dataset.lang;
+            // Toggle active style
+            document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            // Apply i18n
+            applyI18n(currentLang);
+        }
+        // ==================== End i18n Module ====================
+
+        document.addEventListener('DOMContentLoaded', () => {
+
+            // --- 狀態變數 ---
+            const selectedTags = new Set();
+            let aiLockWeather = false; // [Bug Fix] 防止 AI 天氣被自動定位更新覆蓋
+
+            // --- [Phase 24] 統一狀態重置函式 ---
+            // 在每次 AI 送出或手動產生之前呼叫，清理上一輪的殘留狀態
+            function resetQueryState(mode = 'ai') {
+                // 1. 移除所有「動態生成」的標籤按鈕
+                document.querySelectorAll('.dynamic-tag').forEach(el => el.remove());
+                
+                // 2. 清空標籤選中狀態
+                selectedTags.clear();
+                document.querySelectorAll('.interest-tag').forEach(b => b.classList.remove('tag-active'));
+                
+                // 3. 清空上一次的結果
+                resultsSection.classList.add('hidden');
+                resultCardsContainer.innerHTML = '';
+                
+                // 4. 如果是手動模式，清空對話框（避免 raw_intent 殘留污染）
+                if (mode === 'manual') {
+                    aiSearchInput.value = '';
+                    // 隱藏 AI 條件提示條
+                    document.getElementById('ai-context-banner').classList.add('hidden');
+                    // 移除 AI 動態插入的地點選項
+                    document.querySelectorAll('#ctx-location-select option.ai-location').forEach(el => el.remove());
+                    // 移除 AI 動態插入的時間選項
+                    document.querySelectorAll('#ctx-time option.ai-time').forEach(el => el.remove());
+                }
+                
+                // 5. [Phase 24.1 Fix] 重新綁定標籤事件，確保剩餘標籤可點擊
+                bindTagEvents();
+            }
+
+            // --- [Phase 24] AI 條件提示條：清除按鈕 ---
+            document.getElementById('btn-clear-ai').addEventListener('click', () => {
+                resetQueryState('manual');
+                showToast('✅ 已清除 AI 條件，您可以手動重新選擇偏好。', 'info');
+            });
+
+            // --- UI 輔助功能：Toast 通知 ---
+            function showToast(message, type = 'error') {
+                const container = document.getElementById('toast-container');
+                const toast = document.createElement('div');
+
+                // 根據類型決定顏色
+                const bgColors = {
+                    'error': 'bg-red-500',
+                    'success': 'bg-green-500',
+                    'info': 'bg-blue-500',
+                    'warning': 'bg-yellow-500'
+                };
+                const bgColor = bgColors[type] || bgColors['info'];
+                const icon = type === 'error' ? 'fa-triangle-exclamation' : 'fa-circle-info';
+
+                toast.className = `transform transition-all pointer-events-auto duration-300 ease-in-out translate-y-[100%] opacity-0 ${bgColor} text-white px-4 py-3 rounded-lg shadow-lg flex items-center gap-3 text-sm max-w-sm w-full`;
+                toast.innerHTML = `
+                    <i class="fa-solid ${icon} text-lg shrink-0"></i>
+                    <span class="flex-1">${message}</span>
+                    <button class="opacity-70 hover:opacity-100 transition-opacity" onclick="this.parentElement.remove()">
+                        <i class="fa-solid fa-xmark"></i>
+                    </button>
+                `;
+
+                container.appendChild(toast);
+
+                // 動畫：滑入
+                setTimeout(() => {
+                    toast.classList.remove('translate-y-[100%]', 'opacity-0');
+                    toast.classList.add('translate-y-0', 'opacity-100');
+                }, 10);
+
+                // 自動消失 (僅限成功或一般資訊，錯誤與警告強迫使用者手動關閉)
+                if (type === 'success' || type === 'info') {
+                    setTimeout(() => {
+                        toast.classList.remove('translate-y-0', 'opacity-100');
+                        toast.classList.add('translate-y-[100%]', 'opacity-0');
+                        setTimeout(() => toast.remove(), 300);
+                    }, 4000);
+                }
+            }
+
+            function clearToasts() {
+                const container = document.getElementById('toast-container');
+                if (container) container.innerHTML = '';
+            }
+
+            // --- DOM 元件 ---
+            const tagsContainer = document.getElementById('tags-container');
+            const locationSelect = document.getElementById('ctx-location-select');
+            const inputLat = document.getElementById('input-lat');
+            const inputLng = document.getElementById('input-lng');
+            const btnGenerate = document.getElementById('btn-generate');
+            const resultsSection = document.getElementById('results-section');
+            const resultSummary = document.getElementById('result-summary');
+            const resultCardsContainer = document.getElementById('result-cards-container');
+            const ctxTimeSelect = document.getElementById('ctx-time');
+
+            // --- 載入 Metadata (Sprint 4.2) ---
+            async function fetchMetadata() {
+                try {
+                    const res = await fetch('/api/v1/metadata');
+                    const data = await res.json();
+
+                    // 渲染位置選項
+                    locationSelect.innerHTML = '';
+                    data.locations.forEach((loc) => {
+                        const opt = document.createElement('option');
+                        opt.value = loc.id;
+                        opt.dataset.lat = loc.lat;
+                        opt.dataset.lng = loc.lng;
+                        opt.textContent = loc.name;
+                        locationSelect.appendChild(opt);
+                    });
+
+                    // 預設選中第一筆，填入座標
+                    if (data.locations.length > 0) {
+                        inputLat.value = data.locations[0].lat;
+                        inputLng.value = data.locations[0].lng;
+                    }
+
+                    // 渲染標籤
+                    tagsContainer.innerHTML = '';
+                    const emojis = ['🍜', '🎤', '🏛️', '🛍️', '☕', '👨‍👩‍👧', '🌳', '☔'];
+                    data.categories.forEach((cat, idx) => {
+                        const emoji = emojis[idx % emojis.length];
+                        const btn = document.createElement('button');
+                        btn.className = "interest-tag px-4 py-2 rounded-full border border-gray-200 bg-white text-sm font-medium text-gray-600 transition-all duration-200 hover:border-primary";
+                        btn.dataset.value = cat;
+                        btn.innerHTML = `${emoji} ${cat}`;
+                        tagsContainer.appendChild(btn);
+                    });
+
+                    // 重新綁定標籤點擊事件
+                    bindTagEvents();
+                } catch (e) {
+                    console.error("載入 Metadata 失敗", e);
+                    tagsContainer.innerHTML = '<span class="text-sm text-red-500">載入標籤失敗，請重整頁面</span>';
+                }
+            }
+
+            // --- Sprint 4.3: 意圖解析與語音邏輯 ---
+            const btnMic = document.getElementById('btn-mic');
+            const btnAiSubmit = document.getElementById('btn-ai-submit');
+            const aiSearchInput = document.getElementById('ai-search-input');
+            const aiThinkingIndicator = document.getElementById('ai-thinking-indicator');
+
+            // Web Speech API 初始化
+            let recognition = null;
+            if ('webkitSpeechRecognition' in window || 'SpeechRecognition' in window) {
+                const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+                recognition = new SpeechRecognition();
+                recognition.lang = 'zh-TW';
+                recognition.interimResults = false;
+                recognition.maxAlternatives = 1;
+
+                recognition.onstart = function () {
+                    btnMic.classList.add('text-red-500', 'bg-red-50', 'animate-pulse');
+                    btnMic.classList.remove('text-gray-400');
+                    aiSearchInput.placeholder = "聆聽中...";
+                };
+
+                recognition.onresult = function (event) {
+                    const transcript = event.results[0][0].transcript;
+                    aiSearchInput.value = transcript;
+                };
+
+                recognition.onerror = function (event) {
+                    console.error("語音辨識錯誤:", event.error);
+                    showToast("開啟麥克風失敗，請確認瀏覽器權限或嘗試打字輸入。", 'warning');
+                };
+
+                recognition.onend = function () {
+                    btnMic.classList.remove('text-red-500', 'bg-red-50', 'animate-pulse');
+                    btnMic.classList.add('text-gray-400');
+                    aiSearchInput.placeholder = "說點什麼...例如「台北車站附近避雨吃宵夜」";
+
+                    // 語音結束後，如果輸入框有字，自動觸發送出
+                    if (aiSearchInput.value.trim() !== '') {
+                        btnAiSubmit.click();
+                    }
+                };
+            }
+
+            btnMic.addEventListener('click', () => {
+                if (recognition) {
+                    recognition.start();
+                } else {
+                    showToast("抱歉，您的瀏覽器不支援語音辨識功能，請改用打字輸入。", 'warning');
+                }
+            });
+
+            // 監聽 Enter 鍵
+            aiSearchInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') {
+                    e.preventDefault();
+                    btnAiSubmit.click();
+                }
+            });
+
+            // [Phase 27] One-Shot Fast-Track：意圖解析 + 推薦合併為單次呼叫
+            btnAiSubmit.addEventListener('click', async () => {
+                const userInput = aiSearchInput.value.trim();
+                if (!userInput) return;
+
+                // [Phase 24] 每次 AI 送出前，清理上一輪的殘留狀態
+                clearToasts();
+                resetQueryState('ai');
+                aiLockWeather = true; // [Bug Fix] 啟動 AI 鎖定，防止 dispatchEvent 觸發的 updateWeatherUI 弄亂天氣量
+
+                // 1. 蒐集目前的可用選項
+                const availableLocations = Array.from(locationSelect.options).map(opt => opt.text);
+                const tagButtons = document.querySelectorAll('.interest-tag');
+                const availableTags = Array.from(tagButtons).map(btn => btn.dataset.value);
+
+                const payload = {
+                    user_input: userInput,
+                    lang: currentLang,
+                    latitude: parseFloat(inputLat.value) || null,
+                    longitude: parseFloat(inputLng.value) || null,
+                    radius_km: document.getElementById('ctx-radius').value === 'null' ? null : parseFloat(document.getElementById('ctx-radius').value),
+                    current_time: ctxTimeSelect.value,
+                    current_weather: document.getElementById('ctx-weather').innerText.trim(),
+                    current_location_name: locationSelect.options[locationSelect.selectedIndex]?.text.replace(/📍|\s*\(.*\)/g, '').trim(),
+                    available_locations: availableLocations,
+                    available_tags: availableTags
+                };
+
+                // 2. 凍結所有輸入 + 同時顯示推薦區 Loading
+                aiThinkingIndicator.classList.remove('hidden');
+                btnAiSubmit.disabled = true;
+                aiSearchInput.disabled = true;
+                aiSearchInput.classList.add('opacity-50', 'cursor-not-allowed', 'bg-gray-100');
+                btnAiSubmit.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i>';
+
+                const originalBtnContent = btnGenerate.innerHTML;
+                btnGenerate.disabled = true;
+                btnGenerate.classList.add('opacity-75', 'cursor-not-allowed');
+                btnGenerate.innerHTML = `
+                    <svg class="animate-spin -ml-1 mr-2 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                        <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                    </svg>
+                    <span>${(i18nStrings[currentLang] || i18nStrings['zh-TW']).loading_text}</span>
+                `;
+                resultSummary.innerHTML = `⚡ Fast-Track：一次呼叫完成意圖解析 + AI 推薦...`;
+                resultsSection.classList.remove('hidden');
+                resultCardsContainer.innerHTML = '';
+
+                try {
+                    // 3. 呼叫 One-Shot Fast-Track API
+                    const response = await fetch('/api/v1/fast-recommend/', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify(payload)
+                    });
+
+                    if (!response.ok) {
+                        const errText = await response.text();
+                        throw new Error(`Fast-Track 失敗 (${response.status}): ` + (errText.includes('Quota') ? 'AI 伺服器繁忙 (免費額度限制)，請稍後再試。' : errText.substring(0, 200)));
+                    }
+
+                    const result = await response.json();
+                    console.log("⚡ Fast-Track 結果:", result);
+
+                    // 4. 同時更新 UI 條件 + 渲染推薦
+                    let hasUpdates = false;
+
+                    // 4.1 Location
+                    if (result.selected_location) {
+                        let locationMatched = false;
+                        for (let i = 0; i < locationSelect.options.length; i++) {
+                            if (locationSelect.options[i].text.includes(result.selected_location) || 
+                                result.selected_location.includes(locationSelect.options[i].text.replace(/📍|\s*\(.*\)/g, '').trim())) {
+                                locationSelect.selectedIndex = i;
+                                locationSelect.dispatchEvent(new Event('change'));
+                                locationMatched = true;
+                                hasUpdates = true;
+                                break;
+                            }
+                        }
+                        if (!locationMatched) {
+                            if (result.resolved_lat && result.resolved_lng) {
+                                console.log("✅ [前端] 使用後端解析座標:", result.resolved_lat, result.resolved_lng);
+                                const opt = document.createElement('option');
+                                opt.value = 'ai-geo-' + Date.now();
+                                opt.dataset.lat = result.resolved_lat;
+                                opt.dataset.lng = result.resolved_lng;
+                                opt.textContent = `🎯 ${result.selected_location} (AI 定位)`;
+                                opt.className = 'ai-location';
+                                locationSelect.insertBefore(opt, locationSelect.firstChild);
+                                locationSelect.selectedIndex = 0;
+                                locationSelect.dispatchEvent(new Event('change'));
+                                hasUpdates = true;
+                            } else {
+                                // 終極備案：如果後端 DB Fallback 也沒解到座標 (理論上極少發生) 
+                                try {
+                                    const geoRes = await fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(result.selected_location + ' 台北')}&limit=1&addressdetails=1`);
+                                    if (geoRes.ok) {
+                                        const geoData = await geoRes.json();
+                                        if (geoData.length > 0) {
+                                            const place = geoData[0];
+                                            const opt = document.createElement('option');
+                                            opt.value = 'ai-geo-' + Date.now();
+                                            opt.dataset.lat = place.lat;
+                                            opt.dataset.lng = place.lon;
+                                            opt.textContent = `🎯 ${result.selected_location} (OSM 推測)`;
+                                            opt.className = 'ai-location';
+                                            locationSelect.insertBefore(opt, locationSelect.firstChild);
+                                            locationSelect.selectedIndex = 0;
+                                            locationSelect.dispatchEvent(new Event('change'));
+                                            hasUpdates = true;
+                                        }
+                                    }
+                                } catch (geoErr) {
+                                    console.warn('AI 地點 Geocoding 失敗:', geoErr);
+                                }
+                            }
+                        }
+                    }
+
+                    // 4.2 Radius (New)
+                    if (result.radius_km !== null && result.radius_km !== undefined) {
+                        const radiusSelect = document.getElementById('ctx-radius');
+                        radiusSelect.value = result.radius_km.toString();
+                        hasUpdates = true;
+                    }
+
+                    // 4.2 Weather
+                    if (result.selected_weather) {
+                        document.getElementById('ctx-weather').innerText = result.selected_weather;
+                        hasUpdates = true;
+                    }
+
+                    // 4.3 Tags
+                    if (result.selected_tags && result.selected_tags.length > 0) {
+                        selectedTags.clear();
+                        tagButtons.forEach(b => b.classList.remove('tag-active'));
+                        result.selected_tags.forEach(tagVal => {
+                            let btn = document.querySelector(`.interest-tag[data-value="${tagVal}"]`);
+                            if (!btn) {
+                                btn = document.createElement('button');
+                                btn.className = "interest-tag dynamic-tag px-4 py-2 rounded-full border border-primary bg-white text-sm font-medium text-primary transition-all duration-200 shadow-sm tag-active animate-fade-in-up";
+                                btn.dataset.value = tagVal;
+                                btn.innerHTML = `✨ #${tagVal}`;
+                                btn.addEventListener('click', (e) => {
+                                    const val = e.target.closest('button').dataset.value;
+                                    const el = e.target.closest('button');
+                                    if (selectedTags.has(val)) { selectedTags.delete(val); el.classList.remove('tag-active'); }
+                                    else { selectedTags.add(val); el.classList.add('tag-active'); }
+                                });
+                                tagsContainer.insertBefore(btn, tagsContainer.firstChild);
+                            } else {
+                                btn.classList.add('tag-active');
+                            }
+                            selectedTags.add(tagVal);
+                            hasUpdates = true;
+                        });
+                    }
+
+                    // 4.4 Time
+                    if (result.selected_time) {
+                        let timeFound = false;
+                        for (let i = 0; i < ctxTimeSelect.options.length; i++) {
+                            if (ctxTimeSelect.options[i].value === result.selected_time) {
+                                ctxTimeSelect.selectedIndex = i;
+                                timeFound = true;
+                                break;
+                            }
+                        }
+                        if (!timeFound) {
+                            const opt = document.createElement('option');
+                            opt.value = result.selected_time;
+                            opt.textContent = `⭐ ${result.selected_time}`;
+                            ctxTimeSelect.appendChild(opt);
+                            ctxTimeSelect.value = result.selected_time;
+                        }
+                        hasUpdates = true;
+                    }
+
+                    // AI 條件提示列
+                    if (hasUpdates) {
+                        const banner = document.getElementById('ai-context-banner');
+                        document.getElementById('ai-query-text').textContent = userInput;
+                        banner.classList.remove('hidden');
+                    }
+
+                    // 5. 直接渲染推薦結果（不再 setTimeout + btnGenerate.click()）
+                    renderResults(result);
+                    showToast('⚡ Fast-Track 完成！意圖解析 + AI 推薦一步到位', 'success');
+
+                } catch (e) {
+                    console.error(e);
+                    showToast(e.message, 'error');
+                } finally {
+                    aiThinkingIndicator.classList.add('hidden');
+                    btnAiSubmit.disabled = false;
+                    aiSearchInput.disabled = false;
+                    aiSearchInput.classList.remove('opacity-50', 'cursor-not-allowed', 'bg-gray-100');
+                    btnAiSubmit.innerHTML = '<i class="fa-solid fa-paper-plane"></i>';
+                    btnGenerate.disabled = false;
+                    btnGenerate.classList.remove('opacity-75', 'cursor-not-allowed');
+                    btnGenerate.innerHTML = originalBtnContent;
+                    
+                    // [Bug Fix] 解除 AI 鎖定，讓後續手動切換能恢復正常天氣連動
+                    setTimeout(() => { aiLockWeather = false; }, 500);
+                }
+            });
+
+            // --- 標籤點擊邏輯 ---
+            function bindTagEvents() {
+                const tagButtons = document.querySelectorAll('.interest-tag');
+                tagButtons.forEach(btn => {
+                    btn.addEventListener('click', (e) => {
+                        const tagValue = e.target.closest('button').dataset.value;
+                        const buttonEl = e.target.closest('button');
+
+                        if (selectedTags.has(tagValue)) {
+                            selectedTags.delete(tagValue);
+                            buttonEl.classList.remove('tag-active');
+                        } else {
+                            selectedTags.add(tagValue);
+                            buttonEl.classList.add('tag-active');
+                        }
+                    });
+                });
+            }
+
+            // --- 下拉選單變化邏輯 ---
+            locationSelect.addEventListener('change', (e) => {
+                const selectedOpt = e.target.selectedOptions[0];
+                if (selectedOpt) {
+                    inputLat.value = selectedOpt.dataset.lat;
+                    inputLng.value = selectedOpt.dataset.lng;
+                    updateWeatherUI();
+                }
+            });
+
+            ctxTimeSelect.addEventListener('change', () => {
+                updateWeatherUI();
+            });
+
+            // --- 產生按鈕邏輯 ---
+            btnGenerate.addEventListener('click', async () => {
+
+                // [Phase 24] 若是手動觸發（非 AI 自動連動），清空殘留的 AI 條件
+                // 判斷方式：如果 AI Context Banner 沒有顯示，說明不是 AI 自動流
+                // 如果 Banner 顯示中，說明是 AI 自動觸發的 btnGenerate.click()，不要清空
+                const isAiAutoTrigger = !document.getElementById('ai-context-banner').classList.contains('hidden');
+                // 手動按下時，對話框若有殘留文字，幫使用者清掉以免污染 raw_intent
+                const rawIntentValue = aiSearchInput.value.trim() || null;
+
+                // 1. 準備 Payload
+                const payload = {
+                    user_id: "demo_user_001",
+                    interests: Array.from(selectedTags),
+                    latitude: parseFloat(inputLat.value),
+                    longitude: parseFloat(inputLng.value),
+                    current_time: ctxTimeSelect.value,
+                    weather: document.getElementById('ctx-weather').innerText,
+                    raw_intent: isAiAutoTrigger ? rawIntentValue : null,  // [Phase 24] 手動模式不帶 raw_intent
+                    radius_km: document.getElementById('ctx-radius').value === 'null' ? null : parseFloat(document.getElementById('ctx-radius').value),
+                    lang: currentLang  // [Phase 26] 多語系
+                };
+
+                // 2. 切換 UI 為 Loading 狀態
+                const originalBtnContent = btnGenerate.innerHTML;
+                btnGenerate.disabled = true;
+                btnGenerate.classList.add('opacity-75', 'cursor-not-allowed');
+                btnGenerate.innerHTML = `
+                    <svg class="animate-spin -ml-1 mr-2 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                        <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                    </svg>
+                    <span>${(i18nStrings[currentLang] || i18nStrings['zh-TW']).loading_text}</span>
+                `;
+
+                // 顯示情境小結 (Sprint 4.2 需求)
+                const locName = locationSelect.options[locationSelect.selectedIndex]?.text || "未知地點";
+                const selectedLabels = Array.from(selectedTags).join('、') || "驚喜探索";
+                const currentCtxWeather = document.getElementById('ctx-weather').innerText;
+                resultSummary.innerHTML = `正在為您規劃位於 <b>【${locName}】</b>，天氣 <b>【${currentCtxWeather}】</b> 的 <b>【${selectedLabels}】</b> 行程，這將花費幾秒鐘時間...`;
+                resultsSection.classList.remove('hidden');
+                resultCardsContainer.innerHTML = ''; // 清空卡片
+
+                try {
+                    // 3. 呼叫推薦 API
+                    const response = await fetch('/api/v1/recommendations/', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify(payload)
+                    });
+
+                    if (!response.ok) {
+                        try {
+                            const errData = await response.json();
+                            throw new Error(errData.detail || `系統錯誤 (${response.status})`);
+                        } catch(e) {
+                            if (e.message) throw e;
+                            throw new Error(`API Error: ${response.status}`);
+                        }
+                    }
+
+                    const data = await response.json();
+
+                    // 4. 渲染推薦結果
+                    renderResults(data);
+
+                } catch (error) {
+                    console.error("生成失敗:", error);
+                    alert("抱歉，時光機暫時故障了，請稍後再試！\n錯誤訊息：" + error.message);
+                    resultsSection.classList.add('hidden'); // 隱藏沒用的結果匡
+                } finally {
+                    // 5. 恢復按鈕狀態
+                    btnGenerate.disabled = false;
+                    btnGenerate.classList.remove('opacity-75', 'cursor-not-allowed');
+                    btnGenerate.innerHTML = originalBtnContent;
+
+                    // 6. 滾動到結果區塊
+                    if (!resultsSection.classList.contains('hidden')) {
+                        resultsSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }
+                }
+            });
+
+            // --- 結果卡片渲染函數 ---
+            function renderResults(data) {
+                // 填入最終的 AI 總結
+                resultSummary.innerText = data.itinerary_summary;
+
+                // 產生卡片 HTML
+                let cardsHtml = '';
+                data.recommended_pois.forEach((poi, index) => {
+                    const hasImage = poi.image_url && poi.image_url.trim() !== '';
+                    const lat = poi.lat;
+                    const lng = poi.lng;
+                    
+                    // [Phase 33.5 Fix] 使用 OpenStreetMap 官方 Embed Iframe 作為穩定的退路
+                    const offset = 0.003; // 地圖縮放範圍 (約幾百公尺)
+                    const bbox = `${lng - offset},${lat - offset},${lng + offset},${lat + offset}`;
+                    const embedMapUrl = `https://www.openstreetmap.org/export/embed.html?bbox=${bbox}&layer=mapnik&marker=${lat},${lng}`;
+                    
+                    cardsHtml += `
+                        <div class="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden relative transition-all duration-300 hover:shadow-lg hover:-translate-y-1 mb-5 group/card">
+                            
+                            <!-- 頂部圖片區塊 -->
+                            <div class="h-48 w-full bg-slate-100 relative overflow-hidden">
+                                ${hasImage
+                                    ? `<img src="${poi.image_url}" alt="${poi.name}" class="w-full h-full object-cover transition-transform duration-500 group-hover/card:scale-105" 
+                                            onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                                       <div style="display:none;" class="w-full h-full relative">
+                                           <iframe class="w-full h-[120%] -translate-y-4 pointer-events-none grayscale-[0.2] contrast-[1.1] brightness-[1.05]" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="${embedMapUrl}"></iframe>
+                                           <div class="absolute inset-0 bg-indigo-900/5 pointer-events-none"></div>
+                                           <div class="absolute bottom-0 right-0 bg-black/40 backdrop-blur-sm text-[10px] text-white/80 px-2 py-0.5 pointer-events-none">
+                                               © OpenStreetMap
+                                           </div>
+                                       </div>`
+                                    : `<div class="w-full h-full relative">
+                                           <!-- pointer-events-none 讓 iframe 不會干擾卡片的點擊或 hover，行為如同靜態圖片 -->
+                                           <!-- 將 iframe 高度設大一點再上移，隱藏底部的原始標籤列 -->
+                                           <iframe class="w-full h-[120%] -translate-y-4 pointer-events-none grayscale-[0.2] contrast-[1.1] brightness-[1.05]" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="${embedMapUrl}"></iframe>
+                                           
+                                           <!-- 覆蓋層讓地圖看起來更 Premium (與原先的設計語言吻合) -->
+                                           <div class="absolute inset-0 bg-indigo-900/5 pointer-events-none"></div>
+                                           <div class="absolute bottom-0 right-0 bg-black/40 backdrop-blur-sm text-[10px] text-white/80 px-2 py-0.5 pointer-events-none">
+                                               © OpenStreetMap contributors
+                                           </div>
+                                       </div>`
+                                }
+                                <div class="absolute top-3 left-3 bg-white/90 backdrop-blur-sm text-dark text-xs font-bold px-3 py-1.5 rounded-full shadow-sm z-10">
+                                    Top ${index + 1}
+                                </div>
+                                <button class="absolute top-3 right-3 w-8 h-8 bg-black/30 backdrop-blur-md rounded-full text-white hover:text-red-500 hover:bg-white transition-all flex items-center justify-center z-10">
+                                    <i class="fa-regular fa-heart"></i>
+                                </button>
+                            </div>
+                            
+                            <!-- 底部內容區塊 -->
+                            <div class="p-4 pl-5 relative">
+                                <!-- 左側裝飾線 -->
+                                <div class="absolute left-0 top-5 bottom-5 w-1 bg-secondary rounded-r"></div>
+                                
+                                <h3 class="font-bold text-dark text-lg mb-1 leading-tight pr-2">${poi.name}</h3>
+                                
+                                <div class="flex items-center gap-1.5 text-xs text-gray-500 mb-3">
+                                    <i class="fa-solid fa-location-dot text-secondary/80"></i>
+                                    <span class="truncate">${poi.address || '地址未提供'}</span>
+                                </div>
+                                
+                                <p class="text-sm text-gray-600 leading-relaxed mb-4 bg-gray-50/80 p-3 rounded-lg border border-gray-100">
+                                    ${poi.reason}
+                                </p>
+                                
+                                ${ (() => {
+                                    if (!poi.ubike_info || (!poi.ubike_info.start_station && !poi.ubike_info.end_station)) return '';
+                                    let html = `
+                                        <div class="mb-4 bg-emerald-50/60 rounded-xl p-3 border border-emerald-100/50">
+                                            <div class="flex items-center gap-2 mb-2 text-emerald-800 font-semibold text-[11px] uppercase tracking-wider">
+                                                <i class="fa-solid fa-bicycle text-emerald-600"></i>
+                                                YouBike 微交通小幫手
+                                            </div>
+                                            <div class="space-y-1.5">
+                                    `;
+                                    if (poi.ubike_info.start_station) {
+                                        const st = poi.ubike_info.start_station;
+                                        html += `
+                                                <div class="flex items-center justify-between text-xs bg-white/80 p-2 rounded-lg shadow-sm border border-emerald-50/50 group/bike shrink-0">
+                                                    <span class="text-gray-600 truncate flex items-center gap-1.5">
+                                                        <span class="w-4 h-4 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center font-bold text-[9px]">起</span>
+                                                        ${st.station_name} <span class="text-[10px] text-gray-400">距離 ${st.distance_m}m</span>
+                                                    </span>
+                                                    <span class="whitespace-nowrap font-bold text-emerald-700 bg-emerald-100/80 px-2.5 py-1 rounded-full text-[10px] transition-colors group-hover/bike:bg-emerald-200">可借 ${st.available_bikes} 輛</span>
+                                                </div>
+                                        `;
+                                    }
+                                    if (poi.ubike_info.end_station) {
+                                        const ed = poi.ubike_info.end_station;
+                                        html += `
+                                                <div class="flex items-center justify-between text-xs bg-white/80 p-2 rounded-lg shadow-sm border border-emerald-50/50 group/bike shrink-0">
+                                                    <span class="text-gray-600 truncate flex items-center gap-1.5">
+                                                        <span class="w-4 h-4 rounded-full bg-indigo-100 text-indigo-600 flex items-center justify-center font-bold text-[9px]">迄</span>
+                                                        ${ed.station_name} <span class="text-[10px] text-gray-400">距離 ${ed.distance_m}m</span>
+                                                    </span>
+                                                    <span class="whitespace-nowrap font-bold text-indigo-700 bg-indigo-100/80 px-2.5 py-1 rounded-full text-[10px] transition-colors group-hover/bike:bg-indigo-200">可還 ${ed.empty_docks} 格</span>
+                                                </div>
+                                        `;
+                                    }
+                                    html += `
+                                            </div>
+                                        </div>
+                                    `;
+                                    return html;
+                                })() }
+
+                                <div class="flex gap-2">
+                                    <a href="https://www.google.com/maps/search/?api=1&query=${poi.lat},${poi.lng}" target="_blank" class="flex-1 bg-indigo-50 hover:bg-indigo-100 text-primary text-sm font-semibold py-2.5 px-3 rounded-xl flex items-center justify-center gap-2 transition-colors">
+                                        <i class="fa-solid fa-map-location-dot"></i> ${(i18nStrings[currentLang] || i18nStrings['zh-TW']).map_navigate}
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                });
+
+                resultCardsContainer.innerHTML = cardsHtml;
+            }
+
+            // --- Phase 5 動態時間與定位 ---
+            function initTimePicker() {
+                const t = i18nStrings[currentLang] || i18nStrings['zh-TW'];
+                ctxTimeSelect.innerHTML = `<option value="現在">${t.time_now || '現在'}</option>`;
+                const now = new Date();
+                
+                // 動態產生未來 24 小時整點選項
+                for (let i = 1; i <= 24; i++) {
+                    const future = new Date(now.getTime() + i * 60 * 60 * 1000);
+                    const isTomorrow = future.getDate() !== now.getDate();
+                    const datePrefix = isTomorrow ? (t.time_tomorrow || '明日') + ' ' : (t.time_today || '今日') + ' ';
+                    const hourStr = future.getHours().toString().padStart(2, '0');
+                    const timeLabel = `${datePrefix}${hourStr}:00`;
+                    
+                    const opt = document.createElement('option');
+                    opt.value = timeLabel;
+                    opt.textContent = timeLabel;
+                    ctxTimeSelect.appendChild(opt);
+                }
+            }
+
+            function initGeolocation() {
+                if ('geolocation' in navigator) {
+                    navigator.geolocation.getCurrentPosition(
+                        async (position) => {
+                            const lat = position.coords.latitude;
+                            const lng = position.coords.longitude;
+                            
+                            let locationText = '📍 目前位置 (GPS定位中)';
+                            
+                            // 插入到選單第一位並選取
+                            const opt = document.createElement('option');
+                            opt.value = 'gps-current';
+                            opt.dataset.lat = lat;
+                            opt.dataset.lng = lng;
+                            opt.textContent = locationText;
+                            
+                            locationSelect.insertBefore(opt, locationSelect.firstChild);
+                            locationSelect.selectedIndex = 0;
+                            
+                            // 觸發更新
+                            locationSelect.dispatchEvent(new Event('change'));
+                            
+                            // 非同步：OSM Reverse Geocoding
+                            try {
+                                const response = await fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lng}&zoom=16&addressdetails=1`);
+                                if (response.ok) {
+                                    const data = await response.json();
+                                    const address = data.address;
+                                    const displayPart = address.road || address.suburb || address.city_district || ((lat.toFixed(3)) + ',' + (lng.toFixed(3)));
+                                    opt.textContent = `📍 目前位置 (${displayPart})`;
+                                }
+                            } catch (e) {
+                                console.warn('Reverse Geocoding failed:', e);
+                                opt.textContent = `📍 目前位置 (${lat.toFixed(2)}, ${lng.toFixed(2)})`;
+                            }
+                            
+                            showToast('已取得最新設備精準定位', 'success');
+                        },
+                        (error) => {
+                            console.warn('Geolocation failed or denied:', error);
+                            // 即便失敗，也觸發一次 change 來更新預設天氣
+                            locationSelect.dispatchEvent(new Event('change'));
+                        },
+                        { timeout: 10000 }
+                    );
+                } else {
+                    locationSelect.dispatchEvent(new Event('change'));
+                }
+            }
+
+            // --- 即時氣象連動 ---
+            async function updateWeatherUI() {
+                const lat = inputLat.value;
+                const lng = inputLng.value;
+                const timeStr = ctxTimeSelect.value;
+                
+                if (aiLockWeather) return; // [Bug Fix] 如果正處於 AI 更新流，跳過自動更新以免覆蓋「大雨滂沱」等特定情境
+                if (!lat || !lng || !timeStr) return;
+                
+                try {
+                    const res = await fetch(`/api/v1/context/weather?lat=${lat}&lng=${lng}&target_time=${encodeURIComponent(timeStr)}`);
+                    if (res.ok) {
+                        const data = await res.json();
+                        // Open-Meteo 回傳的 display_text 可能包含 "晴朗無雲 (20.5°C) 💧降雨率0%"
+                        document.getElementById('ctx-weather').innerText = data.display_text;
+                        
+                        // 動態更換天氣圖示
+                        const weatherIcon = document.querySelector('.fa-sun-cloud').parentElement;
+                        weatherIcon.innerHTML = ''; // Clear existing icon
+                        if (data.display_text.includes('雨') || data.display_text.includes('雪')) {
+                            weatherIcon.innerHTML = '<i class="fa-solid fa-cloud-rain"></i>';
+                            weatherIcon.className = 'w-10 h-10 rounded-full bg-blue-100 text-blue-500 flex items-center justify-center shrink-0';
+                        } else if (data.display_text.includes('雲') || data.display_text.includes('陰') || data.display_text.includes('霧')) {
+                            weatherIcon.innerHTML = '<i class="fa-solid fa-cloud"></i>';
+                            weatherIcon.className = 'w-10 h-10 rounded-full bg-gray-100 text-gray-500 flex items-center justify-center shrink-0';
+                        } else {
+                            weatherIcon.innerHTML = '<i class="fa-solid fa-sun text-yellow-500"></i>';
+                            weatherIcon.className = 'w-10 h-10 rounded-full bg-orange-100 text-orange-500 flex items-center justify-center shrink-0';
+                        }
+                    }
+                } catch (e) {
+                    console.error('更新天氣失敗', e);
+                }
+            }
+
+            // 初始化序列
+            initTimePicker();
+            fetchMetadata().then(() => {
+                initGeolocation();
+            });
+        });
+    </script>
+</body>
+
+</html>

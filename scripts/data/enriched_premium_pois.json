@@ -1,0 +1,102 @@
+[
+  {
+    "name": "台北喜來登大飯店 (Sheraton Grand Taipei Hotel)",
+    "category": "hotel",
+    "description": "位於台北車站附近的國際級五星連鎖豪華飯店。無論是商務差旅或度假放鬆，都能提供卓越的住宿體驗、頂級的餐飲服務與完善的設施。",
+    "address": "台北市中正區忠孝東路一段12號",
+    "lat": 25.0443,
+    "lng": 121.5224,
+    "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "君品酒店 (Palais de Chine Hotel)",
+    "category": "hotel",
+    "description": "座落於台北車站旁、京站時尚廣場樓上的頂級國際五星級飯店。結合歐式古典與東方美學，是交通最便利的豪華住宿選擇。",
+    "address": "台北市大同區承德路一段3號",
+    "lat": 25.0494,
+    "lng": 121.5173,
+    "image_url": "https://images.unsplash.com/photo-1551882547-ff40c0d5e9af",
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北時代寓所 (Hotel Resonance Taipei, Tapestry Collection by Hilton)",
+    "category": "hotel",
+    "description": "希爾頓 (Hilton) 集團旗下的設計型精品酒店。位於善導寺捷運站旁（近台北車站），提供充滿現代藝術感的頂級住宿環境與知名星巴克進駐。",
+    "address": "台北市中正區林森南路7號",
+    "lat": 25.0441,
+    "lng": 121.5238,
+    "image_url": "https://images.unsplash.com/photo-1542314831-c6a4d27ce66b",
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北晶華酒店 (Regent Taipei)",
+    "category": "hotel",
+    "description": "台北市中心首屈一指的國際頂級豪華五星級酒店。擁有精品購物廊(Regent Galleria)、頂級SPA與多間米其林推薦餐廳，是政商名流首選的住宿體驗。",
+    "address": "台北市中山區中山北路二段39巷3號",
+    "lat": 25.0538,
+    "lng": 121.5245,
+    "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北君悅酒店 (Grand Hyatt Taipei)",
+    "category": "hotel",
+    "description": "信義區最具代表性的國際連鎖豪華五星級酒店。緊鄰台北101與世貿中心，提供頂級奢華的住宿服務與豐富的美食百匯。",
+    "address": "台北市信義區松壽路2號",
+    "lat": 25.0357,
+    "lng": 121.5615,
+    "image_url": "https://images.unsplash.com/photo-1564501049412-61c2a3083791",
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "台北W飯店 (W Taipei)",
+    "category": "hotel",
+    "description": "萬豪集團旗下的年輕時尚奢華品牌酒店。位於信義區忠孝東路上，擁有高空酒吧、派對泳池與前衛設計，是國際級潮流住宿首選。",
+    "address": "台北市信義區忠孝東路五段10號",
+    "lat": 25.0401,
+    "lng": 121.5651,
+    "image_url": "https://images.unsplash.com/photo-1571508601890-7f28b4c06fc2",
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "遠東SOGO 台北忠孝館",
+    "category": "mall",
+    "description": "捷運忠孝復興站旁的經典大型百貨購物中心。擁有極為齊全的化妝品專櫃、男女流行服飾與地下美食街，是東區時尚購物的指標地。",
+    "address": "台北市大安區忠孝東路四段45號",
+    "lat": 25.0415,
+    "lng": 121.5447,
+    "image_url": "https://images.unsplash.com/photo-1519567770579-c2fc5436bcf9",
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "遠東SOGO 台北復興館 (BR4)",
+    "category": "mall",
+    "description": "與捷運忠孝復興站共構的頂級時尚百貨購物中心。主打國際精品、名牌包款、日系服飾與高樓層特色餐廳，購物與美食兼具。",
+    "address": "台北市大安區忠孝東路三段300號",
+    "lat": 25.0416,
+    "lng": 121.5435,
+    "image_url": "https://images.unsplash.com/photo-1481437156560-3205f6a55735",
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "微風廣場 (Breeze Center)",
+    "category": "mall",
+    "description": "近忠孝復興站的高端精品百貨購物中心。寬敞舒適的室內空間、高級超市(Breeze Super)、國賓影城與各大國際名牌進駐，是台北名媛貴婦的購物聖地。",
+    "address": "台北市松山區復興南路一段39號",
+    "lat": 25.0468,
+    "lng": 121.5438,
+    "image_url": "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04",
+    "source": "ENRICHED_PREMIUM"
+  },
+  {
+    "name": "京站時尚廣場 (Q Square)",
+    "category": "mall",
+    "description": "與台北車站、高鐵、客運轉運站共構的大型綜合百貨購物中心。適合搭車前後來此室內逛街、吃美食、看電影，時尚流行應有盡有。",
+    "address": "台北市大同區承德路一段1號",
+    "lat": 25.0493,
+    "lng": 121.5173,
+    "image_url": "https://images.unsplash.com/photo-1580793241553-e9f1ccec1826",
+    "source": "ENRICHED_PREMIUM"
+  }
+]
