@@ -9,7 +9,7 @@ services:
       - key: GEMINI_API_KEY
         sync: false
       - key: DATABASE_URL
-        value: sqlite+aiosqlite:///./test.db
+        value: sqlite+aiosqlite:///./src/db/aplan.db
       - key: ENVIRONMENT
         value: production
       - key: HOST
