@@ -1,86 +1,142 @@
-# 🕰️ 臺北時光機 (Taipei Time Machine)
-**— 2026 YTP 黑客松 競賽專案 —**
+# 臺北時光機 · Taipei Time Machine
 
-> **「拋開死板的下拉選單，用最自然的一句話，帶你穿梭臺北的日與夜。」**
+> 用一句自然語言，探索臺北的日與夜。
 
-**臺北時光機** 是一個結合了「**即時情境感知 (Context-Aware)**」、「**語音意圖解析 (Intent Parsing)**」與「**多維度語意檢索 (Semantic RAG)**」的新世代旅遊推薦 Web 應用。我們將散落的開放資料重新解構，為喜歡自由彈性探索的旅客，提供最客製化、隨心所欲的智慧導覽體驗。
+臺北時光機是一套 AI 驅動的台北旅遊推薦系統。拋棄死板的下拉選單，用語音或文字告訴它你現在的心情與需求，它會結合你的 GPS 位置、即時天氣和時間，推薦最適合的下一站，並自動附上最近的 YouBike 借還點。
 
----
-
-## 🏆 給評審的技術亮點 (Technical Architecture Highlights)
-
-本專案完全由團隊與 AI 共同協力 (AI-Native) 打造，歷經 8 個 Sprint 的架構迭代，具備以下企業級 (Enterprise-grade) 亮點：
-
-### 1. 🎯 Semantic UX 與動態語意意圖解析 (Intent Parsing)
-拋棄傳統死板的資料庫 `Category` (如 spot, hotel) 下拉選單。
-我們實作了**語意化探索標籤** (如 `☔ 室內避雨`, `🍜 美食小吃`, `🌳 自然探索`)。當使用者用語音輸入「外面下雨想躲雨找小吃」，系統底層的 LLM Adapter 會透過 **Pydantic Schema 強制約束** 解析意圖，精準點亮對應標籤，達成極致的 UX 體驗。
-
-### 2. 🌍 即時情境聯動介面 (Context-Aware UI)
-前端實裝了 **HTML5 原生 Geolocation API** 以獲取精準裝置座標，並搭載動態計算的 **24 小時時間輪盤**。
-系統內部建立 `WeatherService` 靜默監聽經緯度與時間的變動，非同步呼叫 `Open-Meteo` 開源氣象模型 (具備無縫無痛熱切換 CWA 的能力)，瞬間根據時空背景切換 UI 的天氣圖示與溫度，讓大腦擁有最清晰的環境脈絡。
-
-### 3. ⚡ 超低延遲多維度檢索與向量庫 (ChromaDB + SQLite)
-我們以非同步架構爬取了 **Taipei Open Data** 與 **交通部 TDX**，經資料清洗後，透過 **Google Gemini Text Embedding API (768維度)** 賦予語意。
-目前收錄高達 **2,367 筆** 菁英地標 (涵蓋大台北米其林餐廳、國家級自然景點、頂級百貨與 119 座捷運站週邊)。檢索時融合了：
-1. **ChromaDB** 語意相似度檢索。
-2. **SQLite** 關聯查詢與 **Tier 分級權重 (Michelin-style)** 星級加分。
-3. **Haversine** 空間地理距離演算法，結合最新的懲罰公式 (`語意 * 1.0 + 距離處罰 * 0.2`)，並支援前台客製化搜尋半徑過濾。
-**端到端檢索 (End-to-End Retrieval) 透過 `/fast-recommend` 服時僅約 0.5 秒！**
-
-### 4. 🗺️ 動態地圖退路機制 (Dynamic Geographic Fallback)
-針對優質但無官方照片的在地小吃或活動，我們解除了傳統的「無圖拋棄」限制。
-開發了 `Dynamic Map Generation` 機制：依據 POI 的 `Lat/Lng`，系統會自動呼叫 **OpenStreetMap (OSM) 嵌入式動態地圖** 服務。配上專屬的高對比度深色濾鏡與空間座標標記，不僅確保了「有圖有真相」的資訊底線，還能讓使用者直接在卡片上滑動與縮放地圖！
-
-### 5. 🚲 即時微交通情境層 (Real-time Micro-Mobility Layer)
-超越傳統「景點推薦」的極限，我們解決了「如何前往」的痛點。
-透過介接臺北市政府開放資料平台的 **YouBike 2.0 Azure Blob 動態即時端點**，系統會在 LLM 鎖定推薦景點後，利用 Haversine 演算法與 **60秒記憶體快取 (TTL Cache)** 機制，瞬間為使用者抓出「距離使用者最近且有車可借」以及「距離目的地最近且有位可還」的 YouBike 站點，優雅地以動態 UI 注入在推薦卡片底部。
+**核心資料已隨 repo 提供**（2,367 筆精選台北景點的向量庫 + SQLite 資料庫），clone 後不需要跑資料爬蟲，幾分鐘內即可啟動。
 
 ---
 
-## 🚀 快速上手 (Quick Start)
+## 功能特色
 
-### 1. 系統環境需求
-* **Python**: `3.10+`
-* **API Key**: 取得一組免費的 [Google AI Studio (Gemini)](https://aistudio.google.com/app/apikey) API Key。
+- **語音 / 文字輸入**：「下雨天想找室內小吃」→ 自動解析意圖並推薦
+- **即時情境感知**：GPS 定位 + 即時天氣 + 24 小時時間輪盤，自動帶入當下背景
+- **語意向量檢索**：2,367 筆台北精選景點（米其林餐廳、國家景點、百貨商圈、捷運站周邊）
+- **YouBike 微交通**：即時顯示最近可借 / 可還站點
+- **多語言輸出**：繁中 / English / 日本語 / 한국어 / ภาษาไทย
 
-### 2. 安裝與資料注入
+---
+
+## 系統需求
+
+- **Python 3.10+**
+- **[Google Gemini API Key](https://aistudio.google.com/app/apikey)**（免費方案即可）
+
+---
+
+## 快速開始
+
+### 1. Clone 專案
+
 ```bash
-# 1. 複製專案並安裝依賴套件
-git clone https://github.com/26ytph/aplan.git
-cd aplan
-python3 -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-
-# 2. 環境變數設定 (請開啟 .env 並填入您的 GEMINI_API_KEY)
-cp .env.example .env
-
-# 3. 執行 3 階段 ETL 注入腳本以建立 SQLite & ChromaDB 向量庫 (保護 API Rate Limit)
-PYTHONPATH=. python3 src/data_pipeline/fetch_to_cache.py      # Stage 1: 抓取快取至本地
-PYTHONPATH=. python3 src/data_pipeline/load_to_sqlite.py      # Stage 2: 載入關聯資料庫
-PYTHONPATH=. python3 src/data_pipeline/embed_incremental.py   # Stage 3: 多金鑰池 (Multi-Key) 增量特徵向量化
-
-# 4. 啟動 FastAPI 伺服器 (包含防死鎖保護機制)
-./scripts/start_server.sh
-# 停止伺服器時請務必使用 ./scripts/stop_server.sh 釋放 ChromaDB 檔案鎖定
+git clone https://github.com/26ytph/aplan-public.git
+cd aplan-public
 ```
 
-開啟瀏覽器前往：`http://127.0.0.1:8000` ，盡情探索！
+### 2. 安裝依賴套件
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate        # Windows：.venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+### 3. 設定 API Key
+
+```bash
+cp .env.example .env
+```
+
+用任何文字編輯器開啟 `.env`，將 `your_gemini_api_key_here` 替換為你的 Gemini API Key：
+
+```
+GEMINI_API_KEY=AIza...（你的 Key）
+```
+
+### 4. 啟動伺服器
+
+```bash
+./scripts/start_server.sh
+```
+
+> **Windows 使用者：** 改執行 `python -m uvicorn src.main:app --host 0.0.0.0 --port 8000`
+
+### 5. 開啟瀏覽器
+
+前往 **http://127.0.0.1:8000**，開始探索台北！
+
+### 停止伺服器
+
+```bash
+./scripts/stop_server.sh
+```
+
+> 請務必使用此腳本停止伺服器，以正確釋放 ChromaDB 資料庫鎖定。
 
 ---
 
-## 📚 深入專案文件 (Documentation)
+## 使用說明
 
-為了保持主專案程式碼的純淨，所有詳盡的設計決策以及 AI 協同開發軌跡，皆已收納保管至專屬文件中：
-
-| 分類 | 文件 | 說明 |
-|------|------|------|
-| 📜 專案背景 | [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) | 專案全局技術上下文 |
-| 📐 架構設計 | [system_architecture.md](docs/architecture/system_architecture.md) | 系統架構圖 (Mermaid) 與模組切分 |
-| 🚀 實作軌跡 | [docs/journeys/](docs/journeys/) | 從 Phase 1 到 最新 Beta 發布的完整開發演進日誌 |
-| 📝 測試策略 | [test_strategy.md](docs/testing/test_strategy.md) | 零腳本自動化前端體驗測試計畫 |
-| 🤝 協作指南 | [AI_PRODUCTIVITY_HANDBOOK.md](docs/context/AI_PRODUCTIVITY_HANDBOOK.md) | AI 生產力、自動化技能與協作指引 |
-| 🧪 QA 交付 | [BETA_VERIFICATION_HANDOFF.md](docs/testing/BETA_VERIFICATION_HANDOFF.md) | 交付 QA Team 的 Verification & Validation 指南 |
+1. **選擇時間**：調整右側時間輪盤，或讓系統自動偵測現在時刻
+2. **開啟定位**：點選 GPS 按鈕，授權後系統會取得你的所在位置與即時天氣
+3. **描述需求**：在輸入框打字，或點選麥克風圖示用語音輸入
+   - 例：「晚上想找安靜的咖啡廳坐一下」
+   - 例：「現在下雨，找個室內景點」
+   - 例：「帶朋友吃台式小吃」
+4. **查看推薦**：系統回傳 2–3 個景點卡片，含推薦理由與 YouBike 站點資訊
 
 ---
-*Powered by Team Antigravity. Built for the 2026 YTP Hackathon.*
+
+## 專案結構
+
+```
+aplan-public/
+├── src/
+│   ├── api/v1/            # FastAPI 路由端點
+│   ├── core/              # 推薦引擎、向量檢索器、天氣服務
+│   ├── data_pipeline/     # ETL 資料管道（選用，資料已預建）
+│   ├── templates/         # 前端 HTML（Jinja2）
+│   └── utils/             # LLM Adapter（支援多模型切換）
+├── scripts/               # 啟動 / 停止腳本
+├── .gemini/chroma_db/     # 預建向量庫（ChromaDB，2,367 筆景點）
+├── test.db                # 預建關聯資料庫（SQLite）
+├── .env.example           # 環境變數範本
+└── docs/                  # 架構設計文件、開發日誌
+```
+
+---
+
+## 技術架構
+
+| 層次 | 技術 |
+|------|------|
+| 前端 | HTML5 + Vanilla JavaScript + Tailwind CSS |
+| 後端 | Python 3.10 / FastAPI / Uvicorn |
+| 向量庫 | ChromaDB（768 維 Gemini Text Embedding） |
+| 關聯庫 | SQLite（非同步 aiosqlite） |
+| LLM | Google Gemini API（gemini-3.1-flash-lite-preview） |
+| 天氣 | Open-Meteo（免費，無需認證） |
+| 微交通 | YouBike 2.0 即時 Azure Blob 端點 |
+
+---
+
+## 常見問題
+
+**Q：啟動時出現 `GEMINI_API_KEY` 相關錯誤？**
+請確認 `.env` 檔案中已填入有效的 Gemini API Key，且不含多餘的空白或引號。
+
+**Q：Port 8000 已被佔用？**
+修改 `.env` 中的 `PORT=8000` 為其他埠號（例如 `8080`），重新啟動即可。
+
+**Q：想要更新景點資料？**
+可以選擇性執行資料管道腳本重新抓取最新資料：
+```bash
+PYTHONPATH=. python3 src/data_pipeline/fetch_to_cache.py   # 從 TDX API 抓取
+PYTHONPATH=. python3 src/data_pipeline/load_to_sqlite.py   # 載入 SQLite
+PYTHONPATH=. python3 src/data_pipeline/embed_incremental.py # 重建向量庫
+```
+
+---
+
+*Built by Team Antigravity · 2026 YTP Hackathon*

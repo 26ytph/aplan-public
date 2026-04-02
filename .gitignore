@@ -13,7 +13,6 @@ __pycache__/
 .DS_Store
 
 # Databases
-test.db
 *.sqlite
 
 # AI Agent logs (except journeys)
@@ -25,4 +24,5 @@ test.db
 .vscode/
 uvicorn*.log
 *.db
+!test.db
 backups/
