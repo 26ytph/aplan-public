@@ -17,7 +17,8 @@ test.db
 *.sqlite
 
 # AI Agent logs (except journeys)
-.gemini/
+.gemini/rules/
+.gemini/skills/
 
 # IDE
 .idea/
